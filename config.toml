@@ -2,3 +2,5 @@ baseURL = "http://quantified.avtobiografia.com/"
 languageCode = "en-us"
 title = "Quantified aquilax"
 theme = "blank"
+googleAnalytics = "UA-115818-51"
+enableRobotsTXT = true
