@@ -31,6 +31,9 @@ class DataGenerator {
                 'date' => $date,
                 'title' => 'Report for ' . $dt->format('l jS \of F Y'),
                 'slug' => $dt->format('Y/m/d'),
+                'categories' => [
+                    'Daily report',
+                ],
                 'health' => $this->getHealth($dt),
                 'nutrition' => $this->getNutrition($dt),
                 'exercise' => $this->getExcercise($dt),
