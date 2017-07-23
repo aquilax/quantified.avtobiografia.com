@@ -79,7 +79,7 @@ class DataGenerator {
         $km = round($data['exercise']['steps'] * self::STEP_LENGTH / 1000, 2);
         $text[] = "Today I am <strong>{$data['health']['age']} days</strong> old and my weight is <strong>{$data['health']['weight']} kg</strong>.";
         $text[] = "During the day, I consumed <strong>{$data['nutrition']['calories']} kcal</strong> coming from <strong>{$data['nutrition']['fat']} g</strong> fat, <strong>{$data['nutrition']['carbohydrates']} g</strong> carbohydrates and <strong>{$data['nutrition']['protein']} g</strong> protein.";
-        $text[] = "Managed to do <strong>{$data['exercise']['pushups']} pushups</strong>, <strong>{$data['exercise']['crunches']} crunches</strong> and walked <strong>{$data['exercise']['steps']} steps</strong> during the day which is approximately <strong>{$km} km</strong>.";
+        $text[] = "Managed to do <strong>{$data['exercise']['pushups']} push-ups</strong>, <strong>{$data['exercise']['crunches']} crunches</strong> and walked <strong>{$data['exercise']['steps']} steps</strong> during the day which is approximately <strong>{$km} km</strong>.";
         return implode (' ', $text);
     }
 
@@ -91,7 +91,7 @@ class DataGenerator {
 
     private function getHealth($dt) {
         return [
-            'weight' => $this->getWeight($dt),
+            'weight' => $this->getDailyFromHranoprovod($dt, 'стъпки'),
             'height' => $this->getHeight($dt),
             'age' => $this->getAge($dt),
         ];
