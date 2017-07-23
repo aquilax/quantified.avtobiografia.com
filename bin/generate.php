@@ -20,14 +20,15 @@ class DataGenerator {
     public function __construct($dataDirectory, $destinationDirectory) {
         $this->dataDirectory = $dataDirectory;
         $this->destinationDirectory = realpath($destinationDirectory);
-        $this->postDirectory = realpat($destinationDirectory . '/content/post');
-        $this->dataDirectory = realpat($destinationDirectory . '/data');
+        $this->postDirectory = realpath($destinationDirectory . '/content/post');
+        $this->staticDirectory = realpath($destinationDirectory . '/data');
     }
 
     public function run($fromDate, $toDate) {
-        $dataFile = $this->dataDirectory . '/data.json';
+        $dataFile = $this->staticDirectory . '/data.json';
         $allData = json_decode(file_get_contents($dataFile), true);
         $allData = $allData['data'];
+
         $interval = DateInterval::createFromDateString('1 day');
         $period = new DatePeriod(new DateTime($fromDate), $interval, new DateTime($toDate));
 
@@ -61,7 +62,8 @@ class DataGenerator {
             file_put_contents($filename, $payload);
             print($filename . PHP_EOL);
         }
-        file_put_contents($dataFile, json_encode(['data' => $allData]));
+        ksort($allData);
+        file_put_contents($dataFile, json_encode(['data' => $allData], JSON_PRETTY_PRINT));
     }
 
     private function getBody($dt) {

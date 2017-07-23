@@ -29,7 +29,7 @@
                 </dl>
                 <h3>Excercise</h3>
                 <dl>
-                    <dt>Pushups</dt>
+                    <dt>Push-ups</dt>
                         <dd><span>{{ .Params.exercise.pushups }}</span></dd>
                     <dt>Crunches</dt>
                         <dd><span>{{ .Params.exercise.crunches }}</span></dd>
@@ -51,7 +51,7 @@
                 {{ end }}
             {{ end }}
             {{ range where .Site.Pages.ByDate.Reverse "Params.series" .Params.series }}
-                {{ if le $.Date.Unix .Date.Unix }}
+                {{ if lt $.Date.Unix .Date.Unix }}
                   {{ $.Scratch.Set "next" .Permalink }}
                 {{ end }}
             {{ end }}
