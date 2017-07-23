@@ -12,6 +12,7 @@
                 type: 'bar',
                 color: '#f00',
                 zero: false,
+                filterZeros: true,
                 data: {
                     {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.health.weight }},{{ end }}
                 }
@@ -133,13 +134,23 @@
     <script>
         document.addEventListener('DOMContentLoaded', function(event) {
             chartData.forEach(function(item) {
+                var data = item.data;
+                if (item.filterZeros) {
+                    var newData = {};
+                    Object.keys(data).forEach(function(key) {
+                        if (data[key]) {
+                            newData[key] = data[key];
+                        }
+                    });
+                    data = newData;
+                }
                 var myChart = new Chart(item.id, {
                     type: item.type,
                     data: {
-                        labels: Object.keys(item.data),
+                        labels: Object.keys(data),
                         datasets: [{
                             backgroundColor: item.color,
-                            data: Object.values(item.data)
+                            data: Object.values(data)
                         }]
                     },
                     options: {
