@@ -13,7 +13,7 @@ a {
     color: #444;
 }
 header, main, footer {
-    padding: 1em;
+    padding: 1em 1em 0 1em;
 }
 header h1 {
     text-align: center
@@ -47,4 +47,10 @@ dd span{
 .prev-next li:first-child {
     grid-column: 1;
     text-align: left;
+}
+nav ul {
+    padding: 0;
+}
+nav ul li{
+    list-style: none
 }

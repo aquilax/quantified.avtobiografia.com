@@ -4,6 +4,7 @@
 		{{ range $paginator.Pages }}
 			{{ partial "summary.html" . }}
 		{{ end }}
+		<br/>
 		{{ partial "pagination.html" . }}
 	</main>
 {{ partial "footer.html" . }}

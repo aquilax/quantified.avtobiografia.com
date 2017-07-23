@@ -11,29 +11,29 @@
                 <dl>
                     <dt>Age (days)</dt>
                         <dd><span>{{ .Params.health.age }}</span></dd>
-                    <dt>Weight (kg)</dt>
+                    <dt><a href="/chart/chart/#weight">Weight</a> (kg)</dt>
                         <dd itemtype="http://schema.org/weight"><span>{{ .Params.health.weight }}</span></dd>
                     <dt>Height (cm)</dt>
                         <dd itemtype="http://schema.org/height"><span>{{ .Params.health.height }}</span></dd>
                 </dl>
                 <h3>Nutrition</h3>
                 <dl>
-                    <dt>Calories (cal)</dt>
+                    <dt><a href="/chart/chart/#calories">Calories</a> (cal)</dt>
                         <dd itemtype="http://schema.org/calories"><span>{{ .Params.nutrition.calories }}</span></dd>
-                    <dt>Fat (g)</dt>
+                    <dt><a href="/chart/chart/#fat">Fat</a> (g)</dt>
                         <dd itemtype="http://schema.org/fatContent"><span>{{ .Params.nutrition.fat }}</span></dd>
-                    <dt>Carbohydrates (g)</dt>
+                    <dt><a href="/chart/chart/#carbohydrates">Carbohydrates</a> (g)</dt>
                         <dd itemtype="http://schema.org/carbohydrateContent"><span>{{ .Params.nutrition.carbohydrates }}</span></dd>
-                    <dt>Protein (g)</dt>
+                    <dt><a href="/chart/chart/#protein">Protein</a> (g)</dt>
                         <dd itemtype="http://schema.org/proteinContent"><span>{{ .Params.nutrition.protein }}</span></dd>
                 </dl>
                 <h3>Excercise</h3>
                 <dl>
-                    <dt>Push-ups</dt>
+                    <dt><a href="/chart/chart/#pushups">Push-ups</a> (count)</dt>
                         <dd><span>{{ .Params.exercise.pushups }}</span></dd>
-                    <dt>Crunches</dt>
+                    <dt><a href="/chart/chart/#crunches">Crunches</a> (count)</dt>
                         <dd><span>{{ .Params.exercise.crunches }}</span></dd>
-                    <dt>Steps</dt>
+                    <dt><a href="/chart/chart/#steps">Steps</a> (count)</dt>
                         <dd><span>{{ .Params.exercise.steps }}</span></dd>
                 </dl>
             </div>

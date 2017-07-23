@@ -1,0 +1,162 @@
+{{ partial "header.html" . }}
+    <main>
+        <h1>{{ .Title }}</h1>
+        <script>
+            window.chartData = [];
+        </script>
+        <h3 id="weight">Weight</h3>
+        <canvas id="weight-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'weight-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: false,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.health.weight }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h2>Nutrition</h2>
+
+        <h3 id="calories">Calories</h3>
+        <canvas id="calories-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'calories-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.nutrition.calories }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h3 id="fat">Fat</h3>
+        <canvas id="fat-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'fat-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.nutrition.fat }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h3 id="carbohydrates">Carbohydrates</h3>
+        <canvas id="carbohydrates-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'carbohydrates-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.nutrition.carbohydrates }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h3 id="protein">Protein</h3>
+        <canvas id="protein-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'protein-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.nutrition.protein }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h2>Exercise</h2>
+
+        <h3 id="pushups">Push-ups</h3>
+        <canvas id="pushups-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'pushups-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.exercise.pushups }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h3 id="crunches">Crunches</h3>
+        <canvas id="crunches-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'crunches-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.exercise.crunches }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+        <h3 id="steps">Steps</h3>
+        <canvas id="steps-chart" width="800" height="400"></canvas>
+        <script>
+            chartData.push({
+                id: 'steps-chart',
+                type: 'bar',
+                color: '#f00',
+                zero: true,
+                data: {
+                    {{ range $date, $data := $.Site.Data.data.data }}"{{ $date }}": {{ $data.exercise.steps }},{{ end }}
+                }
+            });
+        </script>
+        <hr/>
+
+    </main>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function(event) {
+            chartData.forEach(function(item) {
+                var myChart = new Chart(item.id, {
+                    type: item.type,
+                    data: {
+                        labels: Object.keys(item.data),
+                        datasets: [{
+                            backgroundColor: item.color,
+                            data: Object.values(item.data)
+                        }]
+                    },
+                    options: {
+                        legend: {
+                            display: false
+                        },
+                        scales: {
+                            yAxes: [{
+                                ticks: {
+                                    beginAtZero: item.zero
+                                }
+                            }]
+                        }
+                    }
+                });
+            })
+        });
+    </script>
+
+{{ partial "footer.html" . }}
