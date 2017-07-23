@@ -91,7 +91,7 @@ class DataGenerator {
 
     private function getHealth($dt) {
         return [
-            'weight' => $this->getDailyFromHranoprovod($dt, 'стъпки'),
+            'weight' => $this->getWeight($dt),
             'height' => $this->getHeight($dt),
             'age' => $this->getAge($dt),
         ];
@@ -138,7 +138,7 @@ class DataGenerator {
         return [
             'pushups' => $this->getExcerciseTotal($dt, 'pushup'),
             'crunches' => $this->getExcerciseTotal($dt, 'crunch'),
-            'steps' => $this->getExcerciseTotal($dt, 'steps'),
+            'steps' => $this->getDailyFromHranoprovod($dt, 'стъпки'),
         ];
     }
 }
