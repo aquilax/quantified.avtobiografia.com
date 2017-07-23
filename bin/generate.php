@@ -19,16 +19,21 @@ class DataGenerator {
 
     public function __construct($dataDirectory, $destinationDirectory) {
         $this->dataDirectory = $dataDirectory;
-        $this->destinationDirectory = $destinationDirectory;
+        $this->destinationDirectory = realpath($destinationDirectory);
+        $this->postDirectory = realpat($destinationDirectory . '/content/post');
+        $this->dataDirectory = realpat($destinationDirectory . '/data');
     }
 
     public function run($fromDate, $toDate) {
+        $dataFile = $this->dataDirectory . '/data.json';
+        $allData = json_decode(file_get_contents($dataFile), true);
+        $allData = $allData['data'];
         $interval = DateInterval::createFromDateString('1 day');
         $period = new DatePeriod(new DateTime($fromDate), $interval, new DateTime($toDate));
 
         foreach ($period as $dt) {
             $date = $dt->format('Y-m-d');
-            $filename = "{$date}.md";
+            $filename = "{$this->postDirectory}/{$date}.md";
             $data = [
                 'date' => $date,
                 'type' => 'post',
@@ -41,6 +46,11 @@ class DataGenerator {
                 'nutrition' => $this->getNutrition($dt),
                 'exercise' => $this->getExcercise($dt),
             ];
+            $allData[$date] = [
+                'health' => $data['health'],
+                'nutrition' => $data['nutrition'],
+                'exercise' => $data['exercise']
+            ];
             $body = $this->getBody($dt);
             $story = $this->generateStory($data);
             $payload = json_encode($data, JSON_PRETTY_PRINT);
@@ -48,9 +58,10 @@ class DataGenerator {
                 $payload .= PHP_EOL . PHP_EOL . $body;
             }
             $payload .= PHP_EOL . PHP_EOL . $story;
-            file_put_contents($this->destinationDirectory . $filename, $payload);
-            print($this->destinationDirectory . $filename . PHP_EOL);
+            file_put_contents($filename, $payload);
+            print($filename . PHP_EOL);
         }
+        file_put_contents($dataFile, json_encode(['data' => $allData]));
     }
 
     private function getBody($dt) {

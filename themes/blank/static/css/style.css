@@ -24,7 +24,7 @@ dl {
 }
 dt {
     grid-column-start: 1;
-    margin-bottom: 1em;
+    margin-bottom: .4em;
 }
 dd {
     background: url(/images/dot.png) repeat-x left .85em;
