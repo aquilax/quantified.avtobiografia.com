@@ -44,6 +44,23 @@
                     {{ end }}
                 </ul>
             </div>
+
+            {{ range where .Site.Pages.ByDate "Params.series" .Params.series }}
+                {{ if gt $.Date.Unix .Date.Unix }}
+                  {{ $.Scratch.Set "previous" .Permalink }}
+                {{ end }}
+            {{ end }}
+            {{ range where .Site.Pages.ByDate.Reverse "Params.series" .Params.series }}
+                {{ if le $.Date.Unix .Date.Unix }}
+                  {{ $.Scratch.Set "next" .Permalink }}
+                {{ end }}
+            {{ end }}
+
+            <ul class="prev-next">
+                <li><a href="{{ if $.Scratch.Get "previous" }}{{ $.Scratch.Get "previous" }} {{ end }}" class="{{ if not ($.Scratch.Get "previous") }}disabled {{ end }}button big previous">&larr; previous</a></li>
+                <li><a href="{{ if $.Scratch.Get "next" }}{{ $.Scratch.Get "next" }} {{ end }}" class="{{ if not ($.Scratch.Get "next") }}disabled {{ end }}button big next">next &rarr;</a></li>
+            </ul>
+
             <div>
                 {{ template "_internal/disqus.html" . }}
             </div>

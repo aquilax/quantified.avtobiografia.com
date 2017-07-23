@@ -15,6 +15,8 @@ $destinationDirectory = $argv[4];
 
 class DataGenerator {
 
+    const STEP_LENGTH = 0.762;
+
     public function __construct($dataDirectory, $destinationDirectory) {
         $this->dataDirectory = $dataDirectory;
         $this->destinationDirectory = $destinationDirectory;
@@ -40,10 +42,12 @@ class DataGenerator {
                 'exercise' => $this->getExcercise($dt),
             ];
             $body = $this->getBody($dt);
+            $story = $this->generateStory($data);
             $payload = json_encode($data, JSON_PRETTY_PRINT);
             if ($body) {
-                $payload .= PHP_EOL . PHP_EOL .$body;
+                $payload .= PHP_EOL . PHP_EOL . $body;
             }
+            $payload .= PHP_EOL . PHP_EOL . $story;
             file_put_contents($this->destinationDirectory . $filename, $payload);
             print($this->destinationDirectory . $filename . PHP_EOL);
         }
@@ -55,6 +59,15 @@ class DataGenerator {
             return file_get_contents($filename);
         }
         return '';
+    }
+
+    private function generateStory($data) {
+        $text = [];
+        $km = round($data['exercise']['steps'] * self::STEP_LENGTH / 1000, 2);
+        $text[] = "Today I am <strong>{$data['health']['age']} days</strong> old and my weight is <strong>{$data['health']['weight']} kg</strong>.";
+        $text[] = "During the day, I consumed <strong>{$data['nutrition']['calories']} kcal</strong> coming from <strong>{$data['nutrition']['fat']} g</strong> fat, <strong>{$data['nutrition']['carbohydrates']} g</strong> carbohydrates and <strong>{$data['nutrition']['protein']} g</strong> protein.";
+        $text[] = "Managed to do <strong>{$data['exercise']['pushups']} pushups</strong>, <strong>{$data['exercise']['crunches']} crunches</strong> and walked <strong>{$data['exercise']['steps']} steps</strong> during the day which is approximately <strong>{$km} km</strong>.";
+        return implode (' ', $text);
     }
 
     private function exec($command) {

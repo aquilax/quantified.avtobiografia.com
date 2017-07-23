@@ -35,3 +35,16 @@ dd span{
     background:#fff;
     padding-left: .6em;
 }
+.prev-next {
+    display: grid;
+    padding: 0;
+}
+.prev-next li {
+    grid-column: 2;
+    list-style: none;
+    text-align: right;
+}
+.prev-next li:first-child {
+    grid-column: 1;
+    text-align: left;
+}
