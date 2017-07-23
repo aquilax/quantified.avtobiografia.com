@@ -1,8 +1,8 @@
 html, body {
     margin:0; padding: 0;
     font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-    font-size:1.2em;
-    background: #cecece;
+    font-size: 1.2em;
+    background: #eeeeec;
 }
 .wrapper {
     max-width: 800px;
