@@ -2,7 +2,7 @@
     "data": {
         "2017-06-01": {
             "health": {
-                "weight": 19562,
+                "weight": 0,
                 "height": 173,
                 "age": 13315
             },
@@ -15,12 +15,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 19562
             }
         },
         "2017-06-02": {
             "health": {
-                "weight": 8882,
+                "weight": 0,
                 "height": 173,
                 "age": 13316
             },
@@ -33,12 +33,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 8882
             }
         },
         "2017-06-03": {
             "health": {
-                "weight": 20775,
+                "weight": 0,
                 "height": 173,
                 "age": 13317
             },
@@ -51,12 +51,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 20775
             }
         },
         "2017-06-04": {
             "health": {
-                "weight": 22146,
+                "weight": 0,
                 "height": 173,
                 "age": 13318
             },
@@ -69,12 +69,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 22146
             }
         },
         "2017-06-05": {
             "health": {
-                "weight": 1277,
+                "weight": 89.5,
                 "height": 173,
                 "age": 13319
             },
@@ -87,12 +87,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 1277
             }
         },
         "2017-06-06": {
             "health": {
-                "weight": 11481,
+                "weight": 89.5,
                 "height": 173,
                 "age": 13320
             },
@@ -105,12 +105,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11481
             }
         },
         "2017-06-07": {
             "health": {
-                "weight": 12479,
+                "weight": 0,
                 "height": 173,
                 "age": 13321
             },
@@ -123,12 +123,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 12479
             }
         },
         "2017-06-08": {
             "health": {
-                "weight": 5517,
+                "weight": 0,
                 "height": 173,
                 "age": 13322
             },
@@ -141,12 +141,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5517
             }
         },
         "2017-06-09": {
             "health": {
-                "weight": 16934,
+                "weight": 0,
                 "height": 173,
                 "age": 13323
             },
@@ -159,12 +159,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 16934
             }
         },
         "2017-06-10": {
             "health": {
-                "weight": 24821,
+                "weight": 0,
                 "height": 173,
                 "age": 13324
             },
@@ -177,12 +177,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 24821
             }
         },
         "2017-06-11": {
             "health": {
-                "weight": 15466,
+                "weight": 85.6,
                 "height": 173,
                 "age": 13325
             },
@@ -195,12 +195,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 15466
             }
         },
         "2017-06-12": {
             "health": {
-                "weight": 5249,
+                "weight": 86.1,
                 "height": 173,
                 "age": 13326
             },
@@ -213,12 +213,12 @@
             "exercise": {
                 "pushups": 20,
                 "crunches": 10,
-                "steps": 0
+                "steps": 5249
             }
         },
         "2017-06-13": {
             "health": {
-                "weight": 4516,
+                "weight": 86.3,
                 "height": 173,
                 "age": 13327
             },
@@ -231,12 +231,12 @@
             "exercise": {
                 "pushups": 16,
                 "crunches": 10,
-                "steps": 0
+                "steps": 4516
             }
         },
         "2017-06-14": {
             "health": {
-                "weight": 9759,
+                "weight": 86.5,
                 "height": 173,
                 "age": 13328
             },
@@ -249,12 +249,12 @@
             "exercise": {
                 "pushups": 25,
                 "crunches": 10,
-                "steps": 0
+                "steps": 9759
             }
         },
         "2017-06-15": {
             "health": {
-                "weight": 9054,
+                "weight": 86.1,
                 "height": 173,
                 "age": 13329
             },
@@ -267,12 +267,12 @@
             "exercise": {
                 "pushups": 11,
                 "crunches": 10,
-                "steps": 0
+                "steps": 9054
             }
         },
         "2017-06-16": {
             "health": {
-                "weight": 9083,
+                "weight": 86,
                 "height": 173,
                 "age": 13330
             },
@@ -285,12 +285,12 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 10,
-                "steps": 0
+                "steps": 9083
             }
         },
         "2017-06-17": {
             "health": {
-                "weight": 30471,
+                "weight": 86,
                 "height": 173,
                 "age": 13331
             },
@@ -303,12 +303,12 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 10,
-                "steps": 0
+                "steps": 30471
             }
         },
         "2017-06-18": {
             "health": {
-                "weight": 8657,
+                "weight": 86.2,
                 "height": 173,
                 "age": 13332
             },
@@ -321,12 +321,12 @@
             "exercise": {
                 "pushups": 12,
                 "crunches": 12,
-                "steps": 0
+                "steps": 8657
             }
         },
         "2017-06-19": {
             "health": {
-                "weight": 854,
+                "weight": 86.3,
                 "height": 173,
                 "age": 13333
             },
@@ -339,12 +339,12 @@
             "exercise": {
                 "pushups": 23,
                 "crunches": 13,
-                "steps": 0
+                "steps": 854
             }
         },
         "2017-06-20": {
             "health": {
-                "weight": 30,
+                "weight": 86.1,
                 "height": 173,
                 "age": 13334
             },
@@ -357,12 +357,12 @@
             "exercise": {
                 "pushups": 31,
                 "crunches": 21,
-                "steps": 0
+                "steps": 30
             }
         },
         "2017-06-21": {
             "health": {
-                "weight": 2449,
+                "weight": 86.7,
                 "height": 173,
                 "age": 13335
             },
@@ -375,12 +375,12 @@
             "exercise": {
                 "pushups": 13,
                 "crunches": 13,
-                "steps": 0
+                "steps": 2449
             }
         },
         "2017-06-22": {
             "health": {
-                "weight": 17377,
+                "weight": 86.1,
                 "height": 173,
                 "age": 13336
             },
@@ -393,12 +393,12 @@
             "exercise": {
                 "pushups": 11,
                 "crunches": 11,
-                "steps": 0
+                "steps": 17377
             }
         },
         "2017-06-23": {
             "health": {
-                "weight": 9257,
+                "weight": 85.6,
                 "height": 173,
                 "age": 13337
             },
@@ -411,12 +411,12 @@
             "exercise": {
                 "pushups": 14,
                 "crunches": 14,
-                "steps": 0
+                "steps": 9257
             }
         },
         "2017-06-24": {
             "health": {
-                "weight": 174,
+                "weight": 85.9,
                 "height": 173,
                 "age": 13338
             },
@@ -429,12 +429,12 @@
             "exercise": {
                 "pushups": 11,
                 "crunches": 16,
-                "steps": 0
+                "steps": 174
             }
         },
         "2017-06-25": {
             "health": {
-                "weight": 3993,
+                "weight": 86.2,
                 "height": 173,
                 "age": 13339
             },
@@ -447,12 +447,12 @@
             "exercise": {
                 "pushups": 12,
                 "crunches": 12,
-                "steps": 0
+                "steps": 3993
             }
         },
         "2017-06-26": {
             "health": {
-                "weight": 3796,
+                "weight": 86,
                 "height": 173,
                 "age": 13340
             },
@@ -465,12 +465,12 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 10,
-                "steps": 0
+                "steps": 3796
             }
         },
         "2017-06-27": {
             "health": {
-                "weight": 9883,
+                "weight": 86.3,
                 "height": 173,
                 "age": 13341
             },
@@ -483,12 +483,12 @@
             "exercise": {
                 "pushups": 13,
                 "crunches": 13,
-                "steps": 0
+                "steps": 9883
             }
         },
         "2017-06-28": {
             "health": {
-                "weight": 7487,
+                "weight": 85.7,
                 "height": 173,
                 "age": 13342
             },
@@ -501,12 +501,12 @@
             "exercise": {
                 "pushups": 13,
                 "crunches": 13,
-                "steps": 0
+                "steps": 7487
             }
         },
         "2017-06-29": {
             "health": {
-                "weight": 8397,
+                "weight": 0,
                 "height": 173,
                 "age": 13343
             },
@@ -519,12 +519,12 @@
             "exercise": {
                 "pushups": 9,
                 "crunches": 6,
-                "steps": 0
+                "steps": 8397
             }
         },
         "2017-06-30": {
             "health": {
-                "weight": 9359,
+                "weight": 85.2,
                 "height": 173,
                 "age": 13344
             },
@@ -537,7 +537,7 @@
             "exercise": {
                 "pushups": 12,
                 "crunches": 12,
-                "steps": 0
+                "steps": 9359
             }
         },
         "2017-07-01": {
