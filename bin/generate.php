@@ -29,6 +29,7 @@ class DataGenerator {
             $filename = "{$date}.md";
             $data = [
                 'date' => $date,
+                'type' => 'post',
                 'title' => 'Report for ' . $dt->format('l jS \of F Y'),
                 'slug' => $dt->format('Y/m/d'),
                 'categories' => [

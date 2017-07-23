@@ -15,8 +15,9 @@
     {{ .Hugo.Generator }}
 </head>
 <body>
+    <div class="wrapper">
     <header>
-        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
         <nav>
             <ul>
                 {{ range .Site.Menus.main }}

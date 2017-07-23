@@ -1,0 +1,37 @@
+html, body {
+    margin:0; padding: 0;
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size:1.2em;
+    background: #cecece;
+}
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+}
+a {
+    color: #444;
+}
+header, main, footer {
+    padding: 1em;
+}
+header h1 {
+    text-align: center
+}
+dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+dt {
+    grid-column-start: 1;
+    margin-bottom: 1em;
+}
+dd {
+    background: url(/images/dot.png) repeat-x left .85em;
+    grid-column-start: 2;
+    text-align: right;
+}
+dd span{
+    background:#fff;
+    padding-left: .6em;
+}

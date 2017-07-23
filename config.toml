@@ -4,3 +4,4 @@ title = "Quantified aquilax"
 theme = "blank"
 googleAnalytics = "UA-115818-51"
 enableRobotsTXT = true
+Paginate = 30

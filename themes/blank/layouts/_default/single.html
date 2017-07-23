@@ -1,35 +1,41 @@
 {{ partial "header.html" . }}
     <main>
         <article>
-            <h1>{{ .Title }}</h1>
+            <h2>{{ .Title }}</h2>
             <time>{{ .Date.Format "02.01.2006" }}</time>
-            <div class="report" itemscope itemtype="http://schema.org/Person">
-                <h2>Health</h2>
-                    <dt>Age (days)</dt>
-                        <dd>{{ .Params.health.age }}</dd>
-                    <dt>Weight (kg)</dt>
-                        <dd itemtype="http://schema.org/weight">{{ .Params.health.weight }}</dd>
-                    <dt>Height (cm)</dt>
-                        <dd itemtype="http://schema.org/height">{{ .Params.health.height }}</dd>
-                <h2>Nutrition</h2>
-                    <dt>Calories (cal)</dt>
-                        <dd itemtype="http://schema.org/calories">{{ .Params.nutrition.calories }}</dd>
-                    <dt>Fat (g)</dt>
-                        <dd itemtype="http://schema.org/fatContent">{{ .Params.nutrition.fat }}</dd>
-                    <dt>Carbohydrates (g)</dt>
-                        <dd itemtype="http://schema.org/carbohydrateContent">{{ .Params.nutrition.carbohydrates }}</dd>
-                    <dt>Protein (g)</dt>
-                        <dd itemtype="http://schema.org/proteinContent">{{ .Params.nutrition.protein }}</dd>
-                <h2>Excercise</h2>
-                    <dt>Pushups</dt>
-                        <dd>{{ .Params.exercise.pushups }}</dd>
-                    <dt>Crunches</dt>
-                        <dd>{{ .Params.exercise.crunches }}</dd>
-                    <dt>Steps</dt>
-                        <dd>{{ .Params.exercise.steps }}</dd>
-            </div>
             <div>
                 {{ .Content }}
+            </div>
+            <div class="report" itemscope itemtype="http://schema.org/Person">
+                <h3>Health</h3>
+                <dl>
+                    <dt>Age (days)</dt>
+                        <dd><span>{{ .Params.health.age }}</span></dd>
+                    <dt>Weight (kg)</dt>
+                        <dd itemtype="http://schema.org/weight"><span>{{ .Params.health.weight }}</span></dd>
+                    <dt>Height (cm)</dt>
+                        <dd itemtype="http://schema.org/height"><span>{{ .Params.health.height }}</span></dd>
+                </dl>
+                <h3>Nutrition</h3>
+                <dl>
+                    <dt>Calories (cal)</dt>
+                        <dd itemtype="http://schema.org/calories"><span>{{ .Params.nutrition.calories }}</span></dd>
+                    <dt>Fat (g)</dt>
+                        <dd itemtype="http://schema.org/fatContent"><span>{{ .Params.nutrition.fat }}</span></dd>
+                    <dt>Carbohydrates (g)</dt>
+                        <dd itemtype="http://schema.org/carbohydrateContent"><span>{{ .Params.nutrition.carbohydrates }}</span></dd>
+                    <dt>Protein (g)</dt>
+                        <dd itemtype="http://schema.org/proteinContent"><span>{{ .Params.nutrition.protein }}</span></dd>
+                </dl>
+                <h3>Excercise</h3>
+                <dl>
+                    <dt>Pushups</dt>
+                        <dd><span>{{ .Params.exercise.pushups }}</span></dd>
+                    <dt>Crunches</dt>
+                        <dd><span>{{ .Params.exercise.crunches }}</span></dd>
+                    <dt>Steps</dt>
+                        <dd><span>{{ .Params.exercise.steps }}</span></dd>
+                </dl>
             </div>
             <div>
                 <ul id="tags">
@@ -43,5 +49,4 @@
             </div>
         </article>
     </main>
-{{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
