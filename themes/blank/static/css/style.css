@@ -68,3 +68,12 @@ nav ul li{
     font-size: 1.4em;
     font-weight: bold;
 }
+header a {
+    text-decoration: none;
+}
+footer {
+    padding-bottom: 1em;
+}
+.red {
+    color: #f00;
+}
