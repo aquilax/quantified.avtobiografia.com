@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set('UTC');
+
 $fromDate = 'yesterday';
 $toDate = 'today';
 
@@ -22,6 +24,7 @@ class DataGenerator {
         $this->destinationDirectory = realpath($destinationDirectory);
         $this->postDirectory = realpath($destinationDirectory . '/content/post');
         $this->staticDirectory = realpath($destinationDirectory . '/data');
+        $this->goodReadsBooks = json_decode(file_get_contents($this->dataDirectory . '/goodreads/books.json'), true);
     }
 
     public function run($fromDate, $toDate) {
@@ -46,11 +49,13 @@ class DataGenerator {
                 'health' => $this->getHealth($dt),
                 'nutrition' => $this->getNutrition($dt),
                 'exercise' => $this->getExcercise($dt),
+                'media' => $this->getMedia($dt),
             ];
             $allData[$date] = [
                 'health' => $data['health'],
                 'nutrition' => $data['nutrition'],
-                'exercise' => $data['exercise']
+                'exercise' => $data['exercise'],
+                'media' => $data['media'],
             ];
             $body = $this->getBody($dt);
             $story = $this->generateStory($data);
@@ -139,6 +144,20 @@ class DataGenerator {
             'pushups' => $this->getExcerciseTotal($dt, 'pushup'),
             'crunches' => $this->getExcerciseTotal($dt, 'crunch'),
             'steps' => $this->getDailyFromHranoprovod($dt, 'стъпки'),
+        ];
+    }
+
+    private function getBooks($dt) {
+        $date = $dt->format('Y-m-d');
+        if (isset($this->goodReadsBooks[$date])) {
+            return $this->goodReadsBooks[$date];
+        }
+        return [];
+    }
+
+    private function getMedia($dt) {
+        return [
+            'books' => $this->getBooks($dt),
         ];
     }
 }

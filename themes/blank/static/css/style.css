@@ -54,3 +54,17 @@ nav ul {
 nav ul li{
     list-style: none
 }
+.book {
+    display: grid;
+}
+.book img {
+    grid-column: 1;
+}
+.book .details {
+    grid-column: 2;
+    padding-left: 1em;
+}
+.book-title {
+    font-size: 1.4em;
+    font-weight: bold;
+}
