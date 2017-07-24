@@ -43,16 +43,57 @@
                 {{ if .Params.media.books }}
                 <h4>Books</h4>
                     {{ range $book := .Params.media.books }}
-                        <div class="book" itemscope="" itemtype="http://schema.org/Book">
-                            <img itemtype="thumbnailUrl" src="{{ $book.image }}" />
-                            <div class="details">
-                                <div class="book-title"><a href="{{ $book.link }}" rel="nofollow" itemprop="name">{{ $book.title }}</a></div>
-                                <p>by {{ $book.author }}</p>
-                                <p>rated: {{ $book.user_rating }}/5</p>
-                            </div>
-                        </div>
+                        <table class="book media" itemscope="" itemtype="http://schema.org/Book">
+                            <tr>
+                                <td class="thumb">
+                                    <img itemtype="thumbnailUrl" src="{{ $book.image }}"/>
+                                </td>
+                                <td class="details">
+                                    <div class="media-title"><a href="{{ $book.link }}" rel="nofollow" itemprop="name">{{ $book.title }}</a></div>
+                                    <p>by {{ $book.author }}</p>
+                                    <p>rated: {{ $book.user_rating }}/5</p>
+                                </td>
+                            </tr>
+                        </table>
                     {{ end }}
                 {{ end }}
+
+                {{ if .Params.media.podcast }}
+                <h4>Podcasts</h4>
+                    {{ range $podcast := .Params.media.podcast }}
+                        <table class="podcast media">
+                            <tr>
+                                <td class="thumb">
+                                    <img src="{{ $podcast.image }}"/>
+                                </td>
+                                <td class="details">
+                                    <div class="media-title"><a href="{{ $podcast.url }}">{{ $podcast.title }}</a></div>
+                                    <p>by {{ $podcast.channel_title }}</p>
+                                    {{ if $podcast.duration }}<p>duration: {{ $podcast.duration }}</p> {{ end }}
+                                </td>
+                            </tr>
+                        </table>
+                    {{ end }}
+                {{ end }}
+
+                {{ if .Params.media.youtube }}
+                <h4>YouTube videos</h4>
+                    {{ range $youtube := .Params.media.youtube }}
+                        <table class="youtube media">
+                            <tr>
+                                <td class="thumb">
+                                    <img src="{{ $youtube.image }}"/>
+                                </td>
+                                <td class="details">
+                                    <div class="media-title"><a href="{{ $youtube.url }}">{{ $youtube.title }}</a></div>
+                                    <p>by {{ $youtube.channel_title }}</p>
+                                </td>
+                            </tr>
+                        </table>
+                    {{ end }}
+                {{ end }}
+
+
             </div>
             <div>
                 <ul id="tags">

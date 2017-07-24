@@ -54,17 +54,11 @@ nav ul {
 nav ul li{
     list-style: none
 }
-.book {
-    display: grid;
-}
-.book img {
-    grid-column: 1;
-}
-.book .details {
-    grid-column: 2;
+.media .details {
     padding-left: 1em;
+    vertical-align: top;
 }
-.book-title {
+.media-title {
     font-size: 1.4em;
     font-weight: bold;
 }
@@ -76,4 +70,12 @@ footer {
 }
 .red {
     color: #f00;
+}
+.media img {
+    max-width: 100%;
+    height: auto;
+}
+.thumb {
+    width: 30%;
+    vertical-align: top;
 }

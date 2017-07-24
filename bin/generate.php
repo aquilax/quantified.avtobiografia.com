@@ -18,6 +18,8 @@ $destinationDirectory = $argv[4];
 class DataGenerator {
 
     const STEP_LENGTH = 0.762;
+    const TYPE_PODCAST = 1;
+    const TYPE_YOUTUBE = 2;
 
     public function __construct($dataDirectory, $destinationDirectory) {
         $this->dataDirectory = $dataDirectory;
@@ -25,6 +27,9 @@ class DataGenerator {
         $this->postDirectory = realpath($destinationDirectory . '/content/post');
         $this->staticDirectory = realpath($destinationDirectory . '/data');
         $this->goodReadsBooks = json_decode(file_get_contents($this->dataDirectory . '/goodreads/books.json'), true);
+        $this->podcasts = $this->processPodcasts(
+            json_decode(file_get_contents($this->dataDirectory . '/podcast/podcast.json'), true)
+        );
     }
 
     public function run($fromDate, $toDate) {
@@ -158,7 +163,40 @@ class DataGenerator {
     private function getMedia($dt) {
         return [
             'books' => $this->getBooks($dt),
+            'podcast' => $this->getPodcast($dt, self::TYPE_PODCAST),
+            'youtube' => $this->getPodcast($dt, self::TYPE_YOUTUBE),
         ];
+    }
+
+    private function getPodcast($dt, $type) {
+        $date = $dt->format('Y-m-d');
+        if (!isset($this->podcasts[$date])) {
+            return [];
+        }
+        return array_filter($this->podcasts[$date], function($item) use ($type) {
+            return $item['type'] === $type;
+        });
+    }
+
+    private function processPodcasts($rawPodcasts) {
+        $result = [];
+        foreach($rawPodcasts as $cast) {
+            $date = date('Y-m-d', $cast['consumed']);
+            if (!isset($result[$date])) {
+                $result[$date] = [];
+            }
+            $image = $cast['image'] ? $cast['image'] : $cast['channel_image'];
+            $result[$date][] = [
+                'id' => $cast['id'],
+                'url' => "http://cast.writtn.com/episode/{$cast['id']}/quantified",
+                'image' => $image,
+                'channel_title' => $cast['channel_title'],
+                'type' => intval($cast['channel_type']),
+                'title' => $cast['title'],
+                'duration' => $cast['duration']
+            ];
+        }
+        return $result;
     }
 }
 
