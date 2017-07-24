@@ -978,20 +978,20 @@
         },
         "2017-07-17": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 7
+                "weight": 82.9,
+                "height": 173,
+                "age": 13361
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1720.06,
+                "fat": 145.48,
+                "carbohydrates": 34.28,
+                "protein": 65.43
             },
             "exercise": {
                 "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "crunches": 16,
+                "steps": 9863
             },
             "media": {
                 "books": []
@@ -999,20 +999,20 @@
         },
         "2017-07-18": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 6
+                "weight": 83.2,
+                "height": 173,
+                "age": 13362
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1676.03,
+                "fat": 145.03,
+                "carbohydrates": 29.4,
+                "protein": 59.71
             },
             "exercise": {
-                "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "pushups": 15,
+                "crunches": 15,
+                "steps": 9729
             },
             "media": {
                 "books": []
@@ -1020,20 +1020,20 @@
         },
         "2017-07-19": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 5
+                "weight": 82.6,
+                "height": 173,
+                "age": 13363
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1629.07,
+                "fat": 139.82,
+                "carbohydrates": 38.02,
+                "protein": 59.8
             },
             "exercise": {
                 "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "crunches": 17,
+                "steps": 10396
             },
             "media": {
                 "books": [
@@ -1051,20 +1051,20 @@
         },
         "2017-07-20": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 4
+                "weight": 82.2,
+                "height": 173,
+                "age": 13364
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 2121.25,
+                "fat": 182.7,
+                "carbohydrates": 41.5,
+                "protein": 76.27
             },
             "exercise": {
-                "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "pushups": 12,
+                "crunches": 15,
+                "steps": 11312
             },
             "media": {
                 "books": []
@@ -1072,20 +1072,20 @@
         },
         "2017-07-21": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 3
+                "weight": 82.1,
+                "height": 173,
+                "age": 13365
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1919.78,
+                "fat": 159.23,
+                "carbohydrates": 50,
+                "protein": 69.67
             },
             "exercise": {
                 "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "crunches": 21,
+                "steps": 11503
             },
             "media": {
                 "books": []
@@ -1093,20 +1093,20 @@
         },
         "2017-07-22": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 2
+                "weight": 81.9,
+                "height": 173,
+                "age": 13366
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1508.46,
+                "fat": 104.45,
+                "carbohydrates": 22.63,
+                "protein": 46.45
             },
             "exercise": {
-                "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "pushups": 11,
+                "crunches": 11,
+                "steps": 25235
             },
             "media": {
                 "books": [
@@ -1124,20 +1124,20 @@
         },
         "2017-07-23": {
             "health": {
-                "weight": 0,
-                "height": 0,
-                "age": 1
+                "weight": 81.9,
+                "height": 173,
+                "age": 13367
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1237.87,
+                "fat": 81.49,
+                "carbohydrates": 59.39,
+                "protein": 46.62
             },
             "exercise": {
                 "pushups": 0,
-                "crunches": 0,
-                "steps": 0
+                "crunches": 23,
+                "steps": 12946
             },
             "media": {
                 "books": []
