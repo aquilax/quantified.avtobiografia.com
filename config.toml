@@ -1,4 +1,4 @@
-baseURL = "http://quantified.avtobiografia.com/"
+baseURL = "https://quantified.avtobiografia.com/"
 languageCode = "en-us"
 title = "Quantified aquilax"
 theme = "blank"
