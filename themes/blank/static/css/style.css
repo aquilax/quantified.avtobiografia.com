@@ -67,6 +67,7 @@ header a {
 }
 footer {
     padding-bottom: 1em;
+    text-align: center;
 }
 .red {
     color: #f00;
@@ -78,4 +79,8 @@ footer {
 .thumb {
     width: 30%;
     vertical-align: top;
+}
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
 }
