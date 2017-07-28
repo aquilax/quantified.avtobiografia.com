@@ -3750,6 +3750,211 @@
                     }
                 ]
             }
+        },
+        "2017-07-27": {
+            "health": {
+                "weight": 82,
+                "height": 173,
+                "age": 13371
+            },
+            "nutrition": {
+                "calories": 1841.48,
+                "fat": 158.64,
+                "carbohydrates": 39.13,
+                "protein": 71.17
+            },
+            "exercise": {
+                "pushups": 10,
+                "crunches": 10,
+                "steps": 9208
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "19": {
+                        "id": "37398",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37398\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 53: Worst Business Decision Ever",
+                        "duration": "5894"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "8674",
+                        "url": "http:\/\/cast.writtn.com\/episode\/8674\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1KXmAktW_Xc\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Repair and Restore of Radio Shack's Armatron Robotic Arm from 1984.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "8672",
+                        "url": "http:\/\/cast.writtn.com\/episode\/8672\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NLEMsw1SjDY\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "How Oldschool ROM Cartridge Games Worked",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "9030",
+                        "url": "http:\/\/cast.writtn.com\/episode\/9030\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JwPuuqTxV-I\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Best Vintage Game Console for Classic Arcade Games?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "31374",
+                        "url": "http:\/\/cast.writtn.com\/episode\/31374\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9QZ75NPaMQQ\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "8-Bit Donation Unboxing May 2017",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37702",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37702\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/v8JiaY4ZCyA\/hqdefault.jpg",
+                        "channel_title": "Brave Wilderness",
+                        "type": 2,
+                        "title": "Jellyfish Challenge!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37798",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37798\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xqW4j0cMHno\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Fidget Toy Gubbins | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37797\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_zLN7RjY2FU\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Loot Crate, The Fun Box and Nerdy Byrd June 2017 | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37796",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37796\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8nVSS4mMq7g\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "12-Year-Old Harry Potter Sweets | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37795",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37795\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yBv6JQVAH90\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Burger Toast and Pizza Toast | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37793\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VeuiA92fxZI\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Poundland iPhone Cable Extravaganza! | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37792",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37792\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/ScpfXib3Slo\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Lego Joker Brickheadz | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37790",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37790\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eJqooe1wEH0\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Guardians of the Galaxy Finger Puppet | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37430",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37430\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/h6PUWZ0FOZM\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Osborne 1 Computer Part 3 - Demonstration and Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37760",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37760\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yaxY_cLW8bA\/hqdefault.jpg",
+                        "channel_title": "BBC Earth Lab",
+                        "type": 2,
+                        "title": "How Do Hair Transplants Work? - Earth Lab",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37784",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37784\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/veMFCFyOwFI\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The Middle East's cold war, explained",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37775",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37775\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BXmyPsqkP44\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "How fentanyl is making the opioid epidemic even worse",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "19515",
+                        "url": "http:\/\/cast.writtn.com\/episode\/19515\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DHyUYg8X31c\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Do Robots Deserve Rights? What if Machines Become Conscious?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37720",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37720\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MBRqu0YOH14\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Optimistic Nihilism",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "37756",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37756\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xvjK-4NXRsM\/hqdefault.jpg",
+                        "channel_title": "TED-Ed",
+                        "type": 2,
+                        "title": "What happens when you have a concussion? - Clifford Robbins",
+                        "duration": "0"
+                    }
+                ]
+            }
         }
     }
 }
