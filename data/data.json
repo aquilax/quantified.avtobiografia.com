@@ -3486,35 +3486,7 @@
                     }
                 ],
                 "podcast": [],
-                "youtube": [
-                    {
-                        "id": "37520",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37520\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/-WsFHhUYwZ4\/hqdefault.jpg",
-                        "channel_title": "Lazy Game Reviews",
-                        "type": 2,
-                        "title": "LGR - Volta V Wooden Computer System Review",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37521",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37521\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/9ilLlFUSTb4\/hqdefault.jpg",
-                        "channel_title": "Techmoan",
-                        "type": 2,
-                        "title": "The Best Motorcycle Helmet Camera (for me)",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37533",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37533\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/Nwi6NmuwY4I\/hqdefault.jpg",
-                        "channel_title": "8-Bit Keys",
-                        "type": 2,
-                        "title": "Casio CA100 Line Out Modification and Demo (Realistic Concertmate 670)",
-                        "duration": "0"
-                    }
-                ]
+                "youtube": []
             }
         },
         "2017-07-23": {
@@ -3537,35 +3509,7 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [
-                    {
-                        "id": "37543",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37543\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/Ams-Sb4l2iE\/hqdefault.jpg",
-                        "channel_title": "Food Wishes",
-                        "type": 2,
-                        "title": "Homemade FIlo or Phyllo Dough - How to Make a Phyllo Dough Recipe from Scratch",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37546",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37546\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/Eun8zjHwZr8\/hqdefault.jpg",
-                        "channel_title": "Chris Stuckmann",
-                        "type": 2,
-                        "title": "Valerian and the City of a Thousand Planets - Movie Review",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37558",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37558\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/YwQ4y7Ag_jw\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "DIY Thai ICE CREAM ROLLS | You Made What?",
-                        "duration": "0"
-                    }
-                ]
+                "youtube": []
             }
         },
         "2017-07-24": {
@@ -3587,64 +3531,8 @@
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "4": {
-                        "id": "37534",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37534\/quantified",
-                        "image": "http:\/\/i1.sndcdn.com\/artworks-000234513330-kcmlkw-original.jpg",
-                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
-                        "type": 1,
-                        "title": "18. \u041c\u0430\u0439\u043a\u043e \u0418\u043d\u0434\u0438\u0439\u043e (feat. \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0413\u043e\u0440\u0447\u0438\u043b\u043e\u0432)",
-                        "duration": "7660"
-                    },
-                    "5": {
-                        "id": "35775",
-                        "url": "http:\/\/cast.writtn.com\/episode\/35775\/quantified",
-                        "image": "http:\/\/i1.sndcdn.com\/artworks-000232067821-cjcw3d-original.jpg",
-                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
-                        "type": 1,
-                        "title": "16. K - Town (feat. Momchil Pekov)",
-                        "duration": "7828"
-                    }
-                },
-                "youtube": [
-                    {
-                        "id": "37367",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37367\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/-m9WfAJMMa8\/hqdefault.jpg",
-                        "channel_title": "Techmoan",
-                        "type": 2,
-                        "title": "The Broadcast Cart Machine",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37587",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37587\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/mKILF1lDJ9k\/hqdefault.jpg",
-                        "channel_title": "Lazy Game Reviews",
-                        "type": 2,
-                        "title": "Applying Toast's Wooden Nintendo Switch Wrap [A Review]",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37496",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37496\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/VcmiQzl5D2A\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "1970s ELECTRIC Egg SCRAMBLER - a spinning needle egg beater | VINTAGE Does it Work?",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37514",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37514\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/qUNYPkroz18\/hqdefault.jpg",
-                        "channel_title": "Brave Wilderness",
-                        "type": 2,
-                        "title": "Do Horseshoe Crabs STING?!",
-                        "duration": "0"
-                    }
-                ]
+                "podcast": [],
+                "youtube": []
             }
         },
         "2017-07-25": {
@@ -3677,17 +3565,7 @@
                     }
                 ],
                 "podcast": [],
-                "youtube": [
-                    {
-                        "id": "37620",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37620\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/JJjxpelAY78\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "SCRAPPLE - pork scraps cornmeal mush | Breakfast: PENNSYLVANIA",
-                        "duration": "0"
-                    }
-                ]
+                "youtube": []
             }
         },
         "2017-07-26": {
@@ -3709,46 +3587,8 @@
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "3": {
-                        "id": "37662",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37662\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5977aacf2994caf479044635\/1501016764879\/1500w\/0085+-+Slide+B.png",
-                        "channel_title": "Hello Internet",
-                        "type": 1,
-                        "title": "H.I. #85: Another Person I've Never Heard Of",
-                        "duration": "7014"
-                    }
-                },
-                "youtube": [
-                    {
-                        "id": "37684",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37684\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/bFtDkG74l9w\/hqdefault.jpg",
-                        "channel_title": "Food Wishes",
-                        "type": 2,
-                        "title": "Baklava Recipe - How to Make Baklava from Scratch",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37668",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37668\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/A_UbQa8Z_ec\/hqdefault.jpg",
-                        "channel_title": "Lazy Game Reviews",
-                        "type": 2,
-                        "title": "History of Microsoft Paint 1985 - 2017 [LGR Retrospective]",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37698",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37698\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/lW7xkQ8pN6M\/hqdefault.jpg",
-                        "channel_title": "Techmoan",
-                        "type": 2,
-                        "title": "Cleaning Vinyl Records with the Orbitrac 3 Pro",
-                        "duration": "0"
-                    }
-                ]
+                "podcast": [],
+                "youtube": []
             }
         },
         "2017-07-27": {
@@ -3770,190 +3610,31 @@
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "19": {
-                        "id": "37398",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37398\/quantified",
-                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
-                        "channel_title": "Cortex",
-                        "type": 1,
-                        "title": "Cortex 53: Worst Business Decision Ever",
-                        "duration": "5894"
-                    }
-                },
-                "youtube": [
-                    {
-                        "id": "8674",
-                        "url": "http:\/\/cast.writtn.com\/episode\/8674\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/1KXmAktW_Xc\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "Repair and Restore of Radio Shack's Armatron Robotic Arm from 1984.",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "8672",
-                        "url": "http:\/\/cast.writtn.com\/episode\/8672\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/NLEMsw1SjDY\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "How Oldschool ROM Cartridge Games Worked",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "9030",
-                        "url": "http:\/\/cast.writtn.com\/episode\/9030\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/JwPuuqTxV-I\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "Best Vintage Game Console for Classic Arcade Games?",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "31374",
-                        "url": "http:\/\/cast.writtn.com\/episode\/31374\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/9QZ75NPaMQQ\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "8-Bit Donation Unboxing May 2017",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37702",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37702\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/v8JiaY4ZCyA\/hqdefault.jpg",
-                        "channel_title": "Brave Wilderness",
-                        "type": 2,
-                        "title": "Jellyfish Challenge!",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37798",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37798\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/xqW4j0cMHno\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Fidget Toy Gubbins | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37797",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37797\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/_zLN7RjY2FU\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Loot Crate, The Fun Box and Nerdy Byrd June 2017 | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37796",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37796\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/8nVSS4mMq7g\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "12-Year-Old Harry Potter Sweets | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37795",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37795\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/yBv6JQVAH90\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Burger Toast and Pizza Toast | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37793",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37793\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/VeuiA92fxZI\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Poundland iPhone Cable Extravaganza! | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37792",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37792\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/ScpfXib3Slo\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Lego Joker Brickheadz | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37790",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37790\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/eJqooe1wEH0\/hqdefault.jpg",
-                        "channel_title": "ashens",
-                        "type": 2,
-                        "title": "Guardians of the Galaxy Finger Puppet | Ashens",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37430",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37430\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/h6PUWZ0FOZM\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "Osborne 1 Computer Part 3 - Demonstration and Review",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37760",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37760\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/yaxY_cLW8bA\/hqdefault.jpg",
-                        "channel_title": "BBC Earth Lab",
-                        "type": 2,
-                        "title": "How Do Hair Transplants Work? - Earth Lab",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37784",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37784\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/veMFCFyOwFI\/hqdefault.jpg",
-                        "channel_title": "Vox",
-                        "type": 2,
-                        "title": "The Middle East's cold war, explained",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37775",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37775\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/BXmyPsqkP44\/hqdefault.jpg",
-                        "channel_title": "Vox",
-                        "type": 2,
-                        "title": "How fentanyl is making the opioid epidemic even worse",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "19515",
-                        "url": "http:\/\/cast.writtn.com\/episode\/19515\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/DHyUYg8X31c\/hqdefault.jpg",
-                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
-                        "type": 2,
-                        "title": "Do Robots Deserve Rights? What if Machines Become Conscious?",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37720",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37720\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/MBRqu0YOH14\/hqdefault.jpg",
-                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
-                        "type": 2,
-                        "title": "Optimistic Nihilism",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "37756",
-                        "url": "http:\/\/cast.writtn.com\/episode\/37756\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/xvjK-4NXRsM\/hqdefault.jpg",
-                        "channel_title": "TED-Ed",
-                        "type": 2,
-                        "title": "What happens when you have a concussion? - Clifford Robbins",
-                        "duration": "0"
-                    }
-                ]
+                "podcast": [],
+                "youtube": []
+            }
+        },
+        "2017-07-28": {
+            "health": {
+                "weight": 81.9,
+                "height": 173,
+                "age": 13372
+            },
+            "nutrition": {
+                "calories": 1814.57,
+                "fat": 157.93,
+                "carbohydrates": 45.69,
+                "protein": 61.73
+            },
+            "exercise": {
+                "pushups": 11,
+                "crunches": 15,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": []
             }
         }
     }
