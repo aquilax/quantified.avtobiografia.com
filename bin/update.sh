@@ -5,8 +5,7 @@ DATA="/home/aquilax/ledger/"
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 php ${DIR}/generate.php "- 1 week" today ${DATA} ${DIR}/../
-find ${DIR}/../static/photos/ -type f -mtime +1 -iname "*.jpg" -exec mogrify -verbose -format jpg -layers Dispose -resize 800\>x800\> -quality 75% {} \;
-exit
+find ${DIR}/../static/photos/ -type f -iname "*.jpg" -exec mogrify -verbose -format jpg -layers Dispose -resize 800x800 -quality 75% {} \;
 cd ${DIR}/..
 git add .
 git commit --no-gpg -am "Daily update"
