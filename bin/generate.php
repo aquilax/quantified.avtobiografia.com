@@ -26,6 +26,7 @@ class DataGenerator {
         $this->destinationDirectory = realpath($destinationDirectory);
         $this->postDirectory = realpath($destinationDirectory . '/content/post');
         $this->staticDirectory = realpath($destinationDirectory . '/data');
+        $this->photosDirectory = realpath($destinationDirectory . '/static/photos');
         $this->goodReadsBooks = json_decode(file_get_contents($this->dataDirectory . '/goodreads/books.json'), true);
         $this->podcasts = $this->processPodcasts(
             json_decode(file_get_contents($this->dataDirectory . '/podcast/podcast.json'), true)
@@ -165,6 +166,7 @@ class DataGenerator {
             'books' => $this->getBooks($dt),
             'podcast' => $this->getPodcast($dt, self::TYPE_PODCAST),
             'youtube' => $this->getPodcast($dt, self::TYPE_YOUTUBE),
+            'photos' => $this->getPhotos($dt),
         ];
     }
 
@@ -197,6 +199,19 @@ class DataGenerator {
             ];
         }
         return $result;
+    }
+
+    private function getPhotos($dt) {
+        $date = $dt->format('Y-m-d');
+        $directory = $this->photosDirectory . '/' .$date;
+        $photos = [];
+        if (file_exists($directory)) {
+            $files = array_diff(scandir($directory), array('..', '.'));
+            foreach ($files as $filename) {
+                $photos[] = "/photos/{$date}/{$filename}";
+            }
+        }
+        return $photos;
     }
 }
 

@@ -93,6 +93,15 @@
                     {{ end }}
                 {{ end }}
 
+                {{ if .Params.media.photos }}
+                <h4>Photos</h4>
+                    {{ range $photo := .Params.media.photos }}
+                        <div class="photo">
+                            <img src="{{ $photo }}" />
+                        </div>
+                    {{ end }}
+                {{ end }}
+
 
             </div>
             <div>

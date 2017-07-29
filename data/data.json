@@ -3486,7 +3486,8 @@
                     }
                 ],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         },
         "2017-07-23": {
@@ -3509,7 +3510,8 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         },
         "2017-07-24": {
@@ -3532,7 +3534,8 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         },
         "2017-07-25": {
@@ -3565,7 +3568,8 @@
                     }
                 ],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         },
         "2017-07-26": {
@@ -3588,7 +3592,8 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         },
         "2017-07-27": {
@@ -3611,7 +3616,10 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": [
+                    "\/photos\/2017-07-27\/20170727_164758.jpg"
+                ]
             }
         },
         "2017-07-28": {
@@ -3629,12 +3637,13 @@
             "exercise": {
                 "pushups": 11,
                 "crunches": 15,
-                "steps": 0
+                "steps": 11228
             },
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": []
+                "youtube": [],
+                "photos": []
             }
         }
     }
