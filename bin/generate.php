@@ -52,6 +52,7 @@ class DataGenerator {
                 'categories' => [
                     'Daily report',
                 ],
+                'images' => $this->getPhotos($dt),
                 'health' => $this->getHealth($dt),
                 'nutrition' => $this->getNutrition($dt),
                 'exercise' => $this->getExcercise($dt),
