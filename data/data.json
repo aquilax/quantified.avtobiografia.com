@@ -5415,7 +5415,109 @@
                         "duration": "0"
                     }
                 ],
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-08-08\/20170808_163258.jpg"
+                ]
+            }
+        },
+        "2017-08-09": {
+            "health": {
+                "weight": 80.8,
+                "height": 173,
+                "age": 13384
+            },
+            "nutrition": {
+                "calories": 1213,
+                "fat": 87.81,
+                "carbohydrates": 50.74,
+                "protein": 59.43
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 26,
+                "steps": 9598
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "27213329",
+                        "title": "Grit",
+                        "author": "Angela Duckworth",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2084878147?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1457889762l\/27213329.jpg",
+                        "user_rating": 3,
+                        "marked_as_read": "2017-08-09T15:55:08+00:00"
+                    }
+                ],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "38539",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38539\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/lXmu5ARlzkU\/hqdefault.jpg",
+                        "channel_title": "Techquickie",
+                        "type": 2,
+                        "title": "Why Are PC Video Game Ports So Bad?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38562",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38562\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hrkOfRyUOJI\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "Rocket Stove Peltier Charger | Seebeck Generator",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38574",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38574\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hGx2rlnVKaE\/hqdefault.jpg",
+                        "channel_title": "Brave Wilderness",
+                        "type": 2,
+                        "title": "GOLDEN ADVENTURE TICKET!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38570\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RftqoygXXHk\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The real reason streetcars are making a comeback",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38567",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38567\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/am4CA9bEymI\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #57 - User Unfriendly",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38520",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38520\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Xy5pOmkKY2s\/hqdefault.jpg",
+                        "channel_title": "EvanAndKatelyn",
+                        "type": 2,
+                        "title": "Making a cat shirt for William Osman",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38516",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38516\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9JZzlam0QDo\/hqdefault.jpg",
+                        "channel_title": "EvanAndKatelyn",
+                        "type": 2,
+                        "title": "Making a terrible cat toy with William Osman",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-09\/20170809_163841.jpg"
+                ]
             }
         }
     }
