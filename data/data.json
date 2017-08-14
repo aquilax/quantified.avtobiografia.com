@@ -5535,7 +5535,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 26,
-                "steps": 0
+                "steps": 11390
             },
             "media": {
                 "books": [],
@@ -5824,6 +5824,363 @@
                 ],
                 "photos": [
                     "\/photos\/2017-08-10\/20170810_161151.jpg"
+                ]
+            }
+        },
+        "2017-08-11": {
+            "health": {
+                "weight": 80.7,
+                "height": 173,
+                "age": 13386
+            },
+            "nutrition": {
+                "calories": 1746.39,
+                "fat": 141.73,
+                "carbohydrates": 65.62,
+                "protein": 65.47
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 27,
+                "steps": 9926
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "1": {
+                        "id": "38328",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38328\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000235944855-aequ96-original.jpg",
+                        "channel_title": "Damn Interesting",
+                        "type": 1,
+                        "title": "-041- Ghoulish Acts & Dastardly Deeds",
+                        "duration": "3252"
+                    },
+                    "2": {
+                        "id": "38310",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38310\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000236666601-fa4vmu-original.jpg",
+                        "channel_title": "BalloonCast",
+                        "type": 1,
+                        "title": "\u0415\u043f\u0438\u0437\u043e\u0434 89 - \u0421\u0431\u043e\u0433\u043e\u043c, iPod!",
+                        "duration": "4826"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "38714",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38714\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Vy1PKpvwaTQ\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "The Nut Job 2: Nutty by Nature - Movie Review",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "38711",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38711\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/356nKRf9lBA\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "OMATSURI POPIN' COOKIN' Japanese Candy Kit makes miniature Japanese festival treats",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "38717",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38717\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/lc2WvhCfyr4\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Installing Debian Buster (Modern Linux distribution)",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "38715",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38715\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OrQ9swvm_VA\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Justified Programming \u2014 Reason Parameters That Answer \u201cWhy\u201d",
+                        "duration": "0"
+                    }
+                },
+                "photos": [
+                    "\/photos\/2017-08-11\/20170811_162751.jpg"
+                ]
+            }
+        },
+        "2017-08-12": {
+            "health": {
+                "weight": 80.6,
+                "height": 173,
+                "age": 13387
+            },
+            "nutrition": {
+                "calories": 1658.56,
+                "fat": 114.9,
+                "carbohydrates": 35.63,
+                "protein": 59.48
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 26,
+                "steps": 11486
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "62555",
+                        "title": "On Human Nature",
+                        "author": "Edward O. Wilson",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/1979990617?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1388419815l\/62555.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2017-08-12T07:31:42+00:00"
+                    }
+                ],
+                "podcast": {
+                    "3": {
+                        "id": "37819",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37819\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "587: Build Your Portfolio Career",
+                        "duration": "1543"
+                    },
+                    "4": {
+                        "id": "37484",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37484\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "586: How AI Is Already Changing Business",
+                        "duration": "1669"
+                    },
+                    "5": {
+                        "id": "37186",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37186\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "585: Nike's Co-founder on Innovation, Culture, and Succession",
+                        "duration": "1179"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "38795",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38795\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wgDr26MvWKQ\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Voyager 2's 11 billion mile journey at a human scale",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "38792",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38792\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/r9qmKODaAJY\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 220 - Arkanoid",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "38778",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38778\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hhgqhi5JCIU\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Not Lego: Pok\u00e9mon, Assassin's Creed, Minecraft, Big Hero 6 | Ashens",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "38764",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38764\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TUS0Zv2APjU\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR Oddware - Danmere Backer VHS Hard Drive Backup System",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "38774",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38774\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/myU2x27FIIc\/hqdefault.jpg",
+                        "channel_title": "Techquickie",
+                        "type": 2,
+                        "title": "What's the Difference Between Parallel and Serial?",
+                        "duration": "0"
+                    }
+                },
+                "photos": [
+                    "\/photos\/2017-08-12\/20170812_175135.jpg",
+                    "\/photos\/2017-08-12\/20170812_184258.jpg"
+                ]
+            }
+        },
+        "2017-08-13": {
+            "health": {
+                "weight": 80.3,
+                "height": 173,
+                "age": 13388
+            },
+            "nutrition": {
+                "calories": 1502.01,
+                "fat": 121.69,
+                "carbohydrates": 25.14,
+                "protein": 43.88
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 23,
+                "steps": 942
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "38834",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38834\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bc2_Z0d1hrU\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "BE THE DINO | Saurian",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38849",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38849\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NXkLydhRvS0\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Make your own ESC || BLDC Motor Driver (Part 2)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38838",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38838\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iVWOZ8ctPE0\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "FUNNIEST GAME EVER | West of Loathing",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38817",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38817\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DSK6Te18umo\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Secret Window - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38818",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38818\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IQo_QKMBqWc\/hqdefault.jpg",
+                        "channel_title": "John Heisz",
+                        "type": 2,
+                        "title": "Wooden Parts Wear Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38800",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38800\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bWYVSiItNuk\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "BOLTR: Pressure Reducing Valve | Gas Regulator",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "9327",
+                        "url": "http:\/\/cast.writtn.com\/episode\/9327\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/GOcvgqIi9y4\/hqdefault.jpg",
+                        "channel_title": "Evgeniy Vasilev",
+                        "type": 2,
+                        "title": "Mario Bros. (1983) - apple ][",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "29296",
+                        "url": "http:\/\/cast.writtn.com\/episode\/29296\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/AraqjFk33Uk\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Polaroid Snap Touch Instant Camera REVIEW",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "31337",
+                        "url": "http:\/\/cast.writtn.com\/episode\/31337\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VVZwPLzjqeI\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "A Custom Picture Disc Vinyl Record",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "31621",
+                        "url": "http:\/\/cast.writtn.com\/episode\/31621\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/el2Za4w61aM\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Hidden Mini Double-Tap Unlock Trick",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "31620",
+                        "url": "http:\/\/cast.writtn.com\/episode\/31620\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/pdObeF9VHiA\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "RetroTech: Video8 - Forgotten Ambitions & the Crazy Walkman Compo",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38814",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38814\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hWhlqJU8gdk\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "REVIEW: Prynt Pocket iPhone Zink Printer",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38629",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38629\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-zw_E4qwuNs\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Rick and Morty: Is Modern Life Soul-Crushing? \u2013 Season 3 Episode 2 Breakdown",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38801",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38801\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zcFyXaLeXko\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Hidden Meaning in Spirited Away (Miyazaki) \u2013 Earthling Cinema",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38808",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38808\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9VvtPm9yoq4\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "PEANUTS & COKE Taste Test",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-13\/20170813_092924.jpg",
+                    "\/photos\/2017-08-13\/20170813_154434.jpg",
+                    "\/photos\/2017-08-13\/20170813_183259.jpg"
                 ]
             }
         }
