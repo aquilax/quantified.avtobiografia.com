@@ -6065,7 +6065,7 @@
                         "image": "https:\/\/i2.ytimg.com\/vi\/iVWOZ8ctPE0\/hqdefault.jpg",
                         "channel_title": "Markiplier",
                         "type": 2,
-                        "title": "FUNNIEST GAME EVER | West of Loathing",
+                        "title": "FUNNIEST GAME EVER | West of Loathing - Part 1",
                         "duration": "0"
                     },
                     {
@@ -6181,6 +6181,96 @@
                     "\/photos\/2017-08-13\/20170813_092924.jpg",
                     "\/photos\/2017-08-13\/20170813_154434.jpg",
                     "\/photos\/2017-08-13\/20170813_183259.jpg"
+                ]
+            }
+        },
+        "2017-08-14": {
+            "health": {
+                "weight": 80.6,
+                "height": 173,
+                "age": 13389
+            },
+            "nutrition": {
+                "calories": 1726.84,
+                "fat": 152.51,
+                "carbohydrates": 33.63,
+                "protein": 58.61
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 26,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "38847",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38847\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SOW1-mx3Wvk\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "WAKE UP! THIS IS ALL JUST A DREAM!! | Bad Dream: Coma - Part 1",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38845",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38845\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-p1N-OuEYmo\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "I'LL MAKE YOU FEEL BETTER | Bad Dream: Coma - Part 2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38843",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38843\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xLIlUEG3Rr4\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "RETURN TO THE GRAVEYARD | Bad Dream: Coma - Part 3",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38841",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38841\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ENJ-jb57Y3M\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "MARKI AND THE BLIND FOREST | Bad Dream: Coma - Part 4",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38839",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38839\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EzNaIPKkT7w\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "WE'RE ALL DEAD HERE | Bad Dream: Coma - Part 5",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38837",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38837\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5Gf5jJnwxkI\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "WE'RE NOT ALONE HERE | Bad Dream: Coma - Part 6",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38855",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38855\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_rkPCF7Yv5Y\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "WELCOME HOME | Bad Dream: Coma - Part 7",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-14\/20170814_162751.jpg"
                 ]
             }
         }
