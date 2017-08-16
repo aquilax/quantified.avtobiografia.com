@@ -6199,7 +6199,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 26,
-                "steps": 0
+                "steps": 10316
             },
             "media": {
                 "books": [],
@@ -6271,6 +6271,60 @@
                 ],
                 "photos": [
                     "\/photos\/2017-08-14\/20170814_162751.jpg"
+                ]
+            }
+        },
+        "2017-08-15": {
+            "health": {
+                "weight": 81,
+                "height": 173,
+                "age": 13390
+            },
+            "nutrition": {
+                "calories": 1723.15,
+                "fat": 146.63,
+                "carbohydrates": 35.7,
+                "protein": 64.58
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 20,
+                "steps": 10465
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "38880",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38880\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/w5tkXIreWyg\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR - Hunting For Duck Hunt PC Games",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38892",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38892\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/uwTejwu4oaw\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Sonic Mania (dunkview)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38898",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38898\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cm4yNGTlQOw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "HALO-HALO Filipino shaved ice dessert",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-15\/20170815_161539.jpg"
                 ]
             }
         }
