@@ -6792,7 +6792,7 @@
         },
         "2017-08-21": {
             "health": {
-                "weight": 0,
+                "weight": 80.4,
                 "height": 173,
                 "age": 13396
             },
@@ -6804,7 +6804,7 @@
             },
             "exercise": {
                 "pushups": 0,
-                "crunches": 0,
+                "crunches": 24,
                 "steps": 10105
             },
             "media": {
@@ -6826,7 +6826,7 @@
                         "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
                         "type": 1,
                         "title": "22. \u0420\u0430\u0437\u0442\u0443\u0440\u0435\u043d\u0430 \u0440\u0430\u043e\u0442\u0430 (feat. \u041f\u0435\u0442\u044f \u0420\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0430)",
-                        "duration": "8236"
+                        "duration": "8244"
                     }
                 },
                 "youtube": [
@@ -6878,6 +6878,52 @@
                 ],
                 "photos": [
                     "\/photos\/2017-08-21\/20170821_162914.jpg"
+                ]
+            }
+        },
+        "2017-08-22": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13397
+            },
+            "nutrition": {
+                "calories": 1433.85,
+                "fat": 125.86,
+                "carbohydrates": 25.97,
+                "protein": 52.76
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 22,
+                "steps": 10192
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "39193",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39193\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ayZkchJtYgI\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "OH COOL, ALIENS EXIST! | West of Loathing - Part 6",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39247",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39247\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/knmYrgYQbY4\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Smoked OYSTER RAMEN SPREAD | Making Prison Food (ft. Goose Alvarez)",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-22\/20170822_163425.jpg",
+                    "\/photos\/2017-08-22\/20170822_165931.jpg"
                 ]
             }
         }
