@@ -7198,7 +7198,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 21,
-                "steps": 0
+                "steps": 10279
             },
             "media": {
                 "books": [],
@@ -7314,7 +7314,91 @@
                         "duration": "0"
                     }
                 },
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-08-24\/20170824_163100.jpg"
+                ]
+            }
+        },
+        "2017-08-25": {
+            "health": {
+                "weight": 79.9,
+                "height": 173,
+                "age": 13400
+            },
+            "nutrition": {
+                "calories": 1837.93,
+                "fat": 93.31,
+                "carbohydrates": 38.46,
+                "protein": 53.02
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 21,
+                "steps": 10743
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "3": {
+                        "id": "39742",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39742\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/599ee55eff7c50321c43c2ea\/1503589246043\/1500w\/Hello+Internet+slides.184.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #86: Banana Republic",
+                        "duration": "5508"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "39718",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39718\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/AZ22TuuADNY\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "LIVE Emmy Eats - CRYSTAL Pepsi, Lay's  Bacon Jalape\u00f1o, Matcha Mochi",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "39767",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39767\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IrdYueB9pY4\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Aluminum and Mercury",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "39765",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39765\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/fucTAq3VmbI\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR - G-Nome: 7th Level's Forgotten Mech Game",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "39735",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39735\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MERRZ6LcM2s\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "CURRY FIRE Noodle Challenge | Samyang Spicy Chicken Ramen",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "39238",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39238\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wbxe6uwivCc\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "HELLO, I AM GOBLIN MAYOR | West of Loathing - Part 7",
+                        "duration": "0"
+                    }
+                },
+                "photos": [
+                    "\/photos\/2017-08-25\/20170825_165412.jpg"
+                ]
             }
         }
     }
