@@ -7400,6 +7400,296 @@
                     "\/photos\/2017-08-25\/20170825_165412.jpg"
                 ]
             }
+        },
+        "2017-08-26": {
+            "health": {
+                "weight": 79.5,
+                "height": 173,
+                "age": 13401
+            },
+            "nutrition": {
+                "calories": 1902.33,
+                "fat": 96.72,
+                "carbohydrates": 35.38,
+                "protein": 62.03
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 25,
+                "steps": 15001
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "7108725",
+                        "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+                        "author": "Simon Sinek",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/1593083945?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1360936414l\/7108725.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2017-08-26T08:10:20+00:00"
+                    }
+                ],
+                "podcast": {
+                    "16": {
+                        "id": "38242",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38242\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "588: When Startups Scrapped the Business Plan",
+                        "duration": "1584"
+                    },
+                    "17": {
+                        "id": "38712",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38712\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "589: When to Listen to a Dire Warning",
+                        "duration": "1166"
+                    },
+                    "18": {
+                        "id": "39127",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39127\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "590: How the U.S. Navy is Responding to Climate Change",
+                        "duration": "1278"
+                    },
+                    "19": {
+                        "id": "39732",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39732\/quantified",
+                        "image": "http:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "591: Basic Competence Can Be a Strategy",
+                        "duration": "1291"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "39817",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39817\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0cVToC4v8TI\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Philosophy of Dragon Ball \u2013\u00a0Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39163",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39163\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/555lbtzvG74\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "The Defenders - Season 1 Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39812",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39812\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/c2ExwOAjLNw\/hqdefault.jpg",
+                        "channel_title": "Primitive Technology",
+                        "type": 2,
+                        "title": "Primitive Technology: Simplified blower and furnace experiments",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39677",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39677\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6VwoB0-hIcE\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR - The Sims 4 Toddler Stuff Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "10163",
+                        "url": "http:\/\/cast.writtn.com\/episode\/10163\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/V9_PjdU3Mpo\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Safe and Sorry \u2013\u00a0Terrorism & Mass Surveillance",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "38737",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38737\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/f7KSfjv4Oq0\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "What Happens If We Throw an Elephant From a Skyscraper? Life & Size 1",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39740",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39740\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yWO-cvGETRQ\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Why Black Holes Could Delete The Universe \u2013 The Information Paradox",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39719",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39719\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/2esw8U2NENo\/hqdefault.jpg",
+                        "channel_title": "colinfurze",
+                        "type": 2,
+                        "title": "1000 ROCKETS Launched off a BIKE",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39082",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39082\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DZ873rA831o\/hqdefault.jpg",
+                        "channel_title": "Mike Boyd",
+                        "type": 2,
+                        "title": "Learn to Manual || Learn Quick",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39720",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39720\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZwBi2uuA84A\/hqdefault.jpg",
+                        "channel_title": "Mike Boyd",
+                        "type": 2,
+                        "title": "This Week I Learned to Throw Cards",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39711",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39711\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/n2A555odUu0\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "WHERE THE F$@K?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39764",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39764\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EHJNGdFll4o\/hqdefault.jpg",
+                        "channel_title": "Brave Wilderness",
+                        "type": 2,
+                        "title": "STUNG by a YELLOW JACKET!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39781",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39781\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/S1gUR8wM5vA\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The collapse of Venezuela, explained",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39786",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39786\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/I1d6xGGjP48\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Birth of the Dragon - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39795",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39795\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/WNX6ti-8K6o\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Rice-Ah-Roni - Rice and Pasta Pilaf Side Dish Recipe",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39799",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39799\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TB-RRMe82V4\/hqdefault.jpg",
+                        "channel_title": "FLEB",
+                        "type": 2,
+                        "title": "How to Solve a Star Battle Puzzle",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-26\/20170826_121605.jpg"
+                ]
+            }
+        },
+        "2017-08-27": {
+            "health": {
+                "weight": 79.1,
+                "height": 173,
+                "age": 13402
+            },
+            "nutrition": {
+                "calories": 1649.83,
+                "fat": 145.94,
+                "carbohydrates": 25.77,
+                "protein": 57.53
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 21,
+                "steps": 1633
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "39823",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39823\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8z_PZuWaR0w\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Death Note - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39827",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39827\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9vFRZ_NFJpY\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "A mountaintop view of the total solar eclipse",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39243",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39243\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5Pwzd-bePt0\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR - Opening Stuff You Sent Me! August 2017",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39830",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39830\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8-wdlzYpYPI\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "iCodis CB-400 Projector and GPD Pocket | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39833",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39833\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PqI2o3QXpHI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "KETCHUP CAKE | Great Canadian Heinz | You Made What?!",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-08-27\/20170827_113749.jpg"
+                ]
+            }
         }
     }
 }
