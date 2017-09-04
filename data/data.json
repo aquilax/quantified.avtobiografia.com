@@ -7968,7 +7968,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 22,
-                "steps": 8658
+                "steps": 8712
             },
             "media": {
                 "books": [
@@ -8193,7 +8193,187 @@
                     }
                 ],
                 "photos": [
-                    "\/photos\/2017-09-01\/20170901_055419.jpg"
+                    "\/photos\/2017-09-01\/20170901_055419.jpg",
+                    "\/photos\/2017-09-01\/20170901_182512.jpg"
+                ]
+            }
+        },
+        "2017-09-02": {
+            "health": {
+                "weight": 79.4,
+                "height": 173,
+                "age": 13408
+            },
+            "nutrition": {
+                "calories": 2113.31,
+                "fat": 182.48,
+                "carbohydrates": 35.35,
+                "protein": 80.34
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 24,
+                "steps": 15346
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "40122",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40122\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DGkfMTlDl1A\/hqdefault.jpg",
+                        "channel_title": "Errant Signal",
+                        "type": 2,
+                        "title": "Tacoma (Spoilers)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40304",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40304\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-kuNoVwfGz4\/hqdefault.jpg",
+                        "channel_title": "William Osman",
+                        "type": 2,
+                        "title": "Dangerous VCR Robot (ft PeterSripol)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40147",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40147\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wRMefI8B3iw\/hqdefault.jpg",
+                        "channel_title": "Brave Wilderness",
+                        "type": 2,
+                        "title": "LOOKOUT! Toxic Starfish!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40162",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40162\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wKneW48w2k4\/hqdefault.jpg",
+                        "channel_title": "Brave Wilderness",
+                        "type": 2,
+                        "title": "LOOKOUT! Toxic Starfish!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40031",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40031\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KSohjtdjNAY\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "EXCUSE ME, ARE THE WALLS MELTING? | West of Loathing - Part 10",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40327",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40327\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0sG8Unx34SQ\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "MILK, MILK, LEMONADE | West of Loathing - Part 11",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40318",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40318\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ns_Od6JjIAY\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "8-Bit Donation Unboxing August 2017",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40310",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40310\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PYYw1cYS8o8\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "BOLTR: Biolite Stove | Camping Gear",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40307",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40307\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eNpSY_FREgw\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Good Time - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40314",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40314\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/nepBTni16oE\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 221 - Lords of the Realm",
+                        "duration": "0"
+                    }
+                ],
+                "photos": []
+            }
+        },
+        "2017-09-03": {
+            "health": {
+                "weight": 79.3,
+                "height": 173,
+                "age": 13409
+            },
+            "nutrition": {
+                "calories": 1553.38,
+                "fat": 124.35,
+                "carbohydrates": 43.49,
+                "protein": 65.55
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 23,
+                "steps": 1327
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "40336",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40336\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/m8AkCQo75kk\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Hidden Meaning in Guardians of the Galaxy Vol. 2  \u2013 Earthling Cinema",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40347",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40347\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/tU1hnE6klVw\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "The Shining",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40348",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40348\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/WytffmZQGwA\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Sourdough Bread - Part 2: The Loaf",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40349",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40349\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1C5EFAs14KM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Cook A CHICKEN in a WATERMELON | You Made What?!",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-09-03\/20170903_072327.jpg",
+                    "\/photos\/2017-09-03\/20170903_160223.jpg"
                 ]
             }
         }
