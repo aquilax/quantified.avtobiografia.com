@@ -8442,15 +8442,15 @@
                 "age": 13411
             },
             "nutrition": {
-                "calories": 1681.52,
-                "fat": 147.18,
-                "carbohydrates": 32.06,
-                "protein": 60.89
+                "calories": 1873.52,
+                "fat": 162.54,
+                "carbohydrates": 34.65,
+                "protein": 70.17
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 25,
-                "steps": 0
+                "steps": 3088
             },
             "media": {
                 "books": [
@@ -8577,6 +8577,69 @@
                 ],
                 "photos": [
                     "\/photos\/2017-09-05\/20170905_152209.jpg"
+                ]
+            }
+        },
+        "2017-09-06": {
+            "health": {
+                "weight": 79.6,
+                "height": 173,
+                "age": 13412
+            },
+            "nutrition": {
+                "calories": 1529.96,
+                "fat": 131.67,
+                "carbohydrates": 29.68,
+                "protein": 59.87
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 26,
+                "steps": 11061
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "41511",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41511\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kkYJPqAZ0bk\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Kraft Macaroni & Cheese Chipotle Microwave Pot | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40683",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40683\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kH7ep52x3nM\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Sea Bass San Sebastian - Spanish-Inspired Garlic, Pepper & Almond Crusted Sea Bass Recipe",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "40674",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40674\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5583wWvskqI\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Netflix's Death Note: What Went Wrong? \u2013 Wisecrack Quick Take",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41551",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41551\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HXbsVbFAczg\/hqdefault.jpg",
+                        "channel_title": "TED",
+                        "type": 2,
+                        "title": "How to build a company where the best ideas win | Ray Dalio",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-09-06\/20170906_162159.jpg"
                 ]
             }
         }
