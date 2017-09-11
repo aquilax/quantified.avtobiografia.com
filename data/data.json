@@ -8722,20 +8722,65 @@
                 "age": 13414
             },
             "nutrition": {
-                "calories": 43872.02,
-                "fat": 3525.23,
-                "carbohydrates": 604.09,
-                "protein": 2090.76
+                "calories": 1638.02,
+                "fat": 146.51,
+                "carbohydrates": 33.93,
+                "protein": 49.45
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 22,
-                "steps": 0
+                "steps": 6738
             },
             "media": {
                 "books": [],
                 "podcast": [],
                 "youtube": [
+                    {
+                        "id": "41597",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41597\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QhN4wBfQ9yI\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The colleges where the American dream is still alive",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41613",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41613\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JuSsJFpEnV4\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "v",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41643",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41643\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/J0ldO87Pprc\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "What Happens If We Bring the Sun to Earth?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41660",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41660\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9aGRHOpMRUg\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why these all-white paintings are in museums and mine aren't",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41624",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41624\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DbA2y0nXa3I\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Dolmio Pastavita Bolognese Pot | Ashens",
+                        "duration": "0"
+                    },
                     {
                         "id": "41625",
                         "url": "http:\/\/cast.writtn.com\/episode\/41625\/quantified",
@@ -8748,6 +8793,233 @@
                 ],
                 "photos": [
                     "\/photos\/2017-09-08\/20170908_144929.jpg"
+                ]
+            }
+        },
+        "2017-09-09": {
+            "health": {
+                "weight": 78.8,
+                "height": 173,
+                "age": 13415
+            },
+            "nutrition": {
+                "calories": 2142.57,
+                "fat": 186.08,
+                "carbohydrates": 63.38,
+                "protein": 55.9
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 22,
+                "steps": 6299
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "41726",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41726\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/neAbGyHFFUE\/hqdefault.jpg",
+                        "channel_title": "Luke Towan",
+                        "type": 2,
+                        "title": "Realistic Hay Bales \u2013 Model Railroad Scenery",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39133",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39133\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MkSYX0N07CQ\/hqdefault.jpg",
+                        "channel_title": "Gaming Historian",
+                        "type": 2,
+                        "title": "The Konami Code | Gaming Historian",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41683",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41683\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/p5IaCTJdVuM\/hqdefault.jpg",
+                        "channel_title": "Gaming Historian",
+                        "type": 2,
+                        "title": "Before Apple: Steve Jobs at Atari | Gaming Historian",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41695",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41695\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/dDagv6SA8nw\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Knack 2 (dunkview)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "39240",
+                        "url": "http:\/\/cast.writtn.com\/episode\/39240\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YplCV7Se4ts\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Nidhogg 2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41698",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41698\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/qtghRT0K7-s\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Chorizo Fundido - Hot Chorizo Sausage Cheese Dip Recipe",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41723",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41723\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5q_7zvoVpDc\/hqdefault.jpg",
+                        "channel_title": "Ars Technica",
+                        "type": 2,
+                        "title": "Lenovo ThinkPad Yoga X1 Review: The Best ThinkPad Yet? | Ars Technica",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41720",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41720\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SygD93F95js\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 222 - PopCorn",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "41701",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41701\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/mxFpgaEOkgA\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Hunger Breaks Mixed Grill & Kraft Mug Dinner | Ashens",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-09-09\/20170909_080755.jpg"
+                ]
+            }
+        },
+        "2017-09-10": {
+            "health": {
+                "weight": 78.9,
+                "height": 173,
+                "age": 13416
+            },
+            "nutrition": {
+                "calories": 1466.67,
+                "fat": 130.91,
+                "carbohydrates": 42.58,
+                "protein": 39.16
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 21,
+                "steps": 1669
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "8": {
+                        "id": "40125",
+                        "url": "http:\/\/cast.writtn.com\/episode\/40125\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/59a7fbdbe5dd5bfcd2d0651f\/1504190785207\/1500w\/Slide+87.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #87: Podcast of the Century",
+                        "duration": "6637"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "41721",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41721\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TJ5C7TsBsao\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why a storm surge can be the deadliest part of a hurricane",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "41702",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41702\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1v-YCpCg3k4\/hqdefault.jpg",
+                        "channel_title": "Markiplier",
+                        "type": 2,
+                        "title": "MaRkiPLieR JuSt WatChES aS PeOple Fu$^!NG DIE",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "41697",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41697\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zVPLX6LY5HM\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "BOLTR REDUX: YETI How it works | Enginerding Stainless Steel",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "41798",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41798\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/exOvcgoSRRo\/hqdefault.jpg",
+                        "channel_title": "Maker's Muse",
+                        "type": 2,
+                        "title": "Should you trust reviews on YouTube?",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "37999",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37999\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x2MEJfY45UY\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Random\/Unscripted Q&A",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "41801",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41801\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Fj0XuYiE7HU\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "DIY LiPo Charge\/Protect\/5V Boost Circuit",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "41763",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41763\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x7hg1UUxujg\/hqdefault.jpg",
+                        "channel_title": "William Osman",
+                        "type": 2,
+                        "title": "RC Jank Tank (ft ILTMS and PeterSripol)",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "41768",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41768\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_RRfqOqiYsA\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "VOLCANO MAYONNAISE CAKE Hellman's Mayo Chocolate Cake Recipe | You Made What?!",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "41761",
+                        "url": "http:\/\/cast.writtn.com\/episode\/41761\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/lK9rhr06lGA\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Hidden Meaning in Django Unchained (Quentin Tarantino) \u2013 Earthling Cinema",
+                        "duration": "0"
+                    }
+                },
+                "photos": [
+                    "\/photos\/2017-09-10\/20170910_071407.jpg",
+                    "\/photos\/2017-09-10\/20170910_142132.jpg"
                 ]
             }
         }
