@@ -12148,6 +12148,97 @@
                     "\/photos\/2017-10-11\/20171011_155736.jpg"
                 ]
             }
+        },
+        "2017-10-12": {
+            "health": {
+                "weight": 78.5,
+                "height": 173,
+                "age": 13448
+            },
+            "nutrition": {
+                "calories": 1583.65,
+                "fat": 128.31,
+                "carbohydrates": 29.99,
+                "protein": 72.36
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 35,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "2": {
+                        "id": "6648",
+                        "url": "http:\/\/cast.writtn.com\/episode\/6648\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 43: Tornado Bigshot",
+                        "duration": "5890"
+                    },
+                    "3": {
+                        "id": "43667",
+                        "url": "http:\/\/cast.writtn.com\/episode\/43667\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 58: The Opportunity of a Chair",
+                        "duration": "5501"
+                    },
+                    "4": {
+                        "id": "37895",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37895\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/29372062.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 175: No Such Thing As A Rice Krispie With Feelings",
+                        "duration": "2819"
+                    },
+                    "5": {
+                        "id": "37531",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37531\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/29273286.png",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 174: No Such Thing As A Manta Ray",
+                        "duration": "2712"
+                    },
+                    "6": {
+                        "id": "37249",
+                        "url": "http:\/\/cast.writtn.com\/episode\/37249\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/29180852.png",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 173: No Such Thing As Symphony For Sizzurp In D Minor",
+                        "duration": "2687"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "43748",
+                        "url": "http:\/\/cast.writtn.com\/episode\/43748\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eXyHRnDNH64\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "How granite countertops took over American kitchens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "43778",
+                        "url": "http:\/\/cast.writtn.com\/episode\/43778\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/nRLe6kJxRDE\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Mumbo Sauce - Washington D.C.'s Famous Sweet & Sour Sauce for Chicken Wings",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-10-12\/20171012_161807.jpg"
+                ]
+            }
         }
     }
 }
