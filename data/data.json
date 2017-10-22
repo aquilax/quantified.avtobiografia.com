@@ -13267,7 +13267,36 @@
                         "duration": "0"
                     }
                 ],
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-10-20\/20171020_173816.jpg"
+                ]
+            }
+        },
+        "2017-10-21": {
+            "health": {
+                "weight": 78.2,
+                "height": 173,
+                "age": 13457
+            },
+            "nutrition": {
+                "calories": 2644.27,
+                "fat": 103.39,
+                "carbohydrates": 435.03,
+                "protein": 70.6
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 36,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "photos": [
+                    "\/photos\/2017-10-21\/20171021_143043.jpg",
+                    "\/photos\/2017-10-21\/20171021_145126.jpg"
+                ]
             }
         }
     }
