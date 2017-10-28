@@ -13291,37 +13291,8 @@
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "2": {
-                        "id": "45957",
-                        "url": "http:\/\/cast.writtn.com\/episode\/45957\/quantified",
-                        "image": "http:\/\/i1.sndcdn.com\/artworks-000248043459-5bdje8-original.jpg",
-                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
-                        "type": 1,
-                        "title": "30. \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0443 \u0434\u043e\u043c\u0430 (feat. Clappingmonkey)",
-                        "duration": "7307"
-                    }
-                },
-                "youtube": [
-                    {
-                        "id": "45989",
-                        "url": "http:\/\/cast.writtn.com\/episode\/45989\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/GSmM00YekMc\/hqdefault.jpg",
-                        "channel_title": "Food Wishes",
-                        "type": 2,
-                        "title": "Perfect Potstickers - Easy Pork Pot Stickers Recipe",
-                        "duration": "0"
-                    },
-                    {
-                        "id": "46007",
-                        "url": "http:\/\/cast.writtn.com\/episode\/46007\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/0Hu2HKgCJJI\/hqdefault.jpg",
-                        "channel_title": "Chris Stuckmann",
-                        "type": 2,
-                        "title": "Geostorm - Movie Review",
-                        "duration": "0"
-                    }
-                ],
+                "podcast": [],
+                "youtube": [],
                 "photos": [
                     "\/photos\/2017-10-21\/20171021_143043.jpg",
                     "\/photos\/2017-10-21\/20171021_145126.jpg"
@@ -13876,15 +13847,6 @@
                         "type": 2,
                         "title": "LGR - Cities: Skylines Green Cities Review",
                         "duration": "0"
-                    },
-                    "53": {
-                        "id": "46112",
-                        "url": "http:\/\/cast.writtn.com\/episode\/46112\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/WyUWG6jvqYQ\/hqdefault.jpg",
-                        "channel_title": "Lazy Game Reviews",
-                        "type": 2,
-                        "title": "LGR - Opening Stuff You Sent Me! October 2017",
-                        "duration": "0"
                     }
                 },
                 "photos": [
@@ -14234,6 +14196,167 @@
                 "photos": [
                     "\/photos\/2017-10-26\/20171026_144320.jpg"
                 ]
+            }
+        },
+        "2017-10-27": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13463
+            },
+            "nutrition": {
+                "calories": 2080.09,
+                "fat": 131.21,
+                "carbohydrates": 222.09,
+                "protein": 67.95
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 44,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "14": {
+                        "id": "46283",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46283\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000248936999-x58p66-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "31. IT Bubble 2.0 (feat. \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0410\u043d\u0433\u0435\u043b\u043e\u0432 aka Do4o)",
+                        "duration": "8758"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "46341",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46341\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VjlI1x5Y8cU\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Nyko Worm Cam and Arduboy credit card Tetris Game",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46322",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46322\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/R5g_ylTApDE\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Zombie Meatloaf - Scary Halloween Meatloaf Recipe",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46321",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46321\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OU6eqMtTQCw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "What My KIDS Eat in a Week Part 2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46361",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46361\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IBOnVEsLKHY\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Poundland's Halloween crow type thing.  Schematic and mod.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46360",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46360\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jqNnWa0CHw0\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "eBay CJX2 industrial contactor teardown.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46359",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46359\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/uIlk8j8Ng2E\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "A day without power management.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46304",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46304\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ELFZARNWBJY\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Netflix's Stranger Things: A Theory On Nostalgia \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46356",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46356\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/pm33KB2Th9M\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR Oddware - X10: MS-DOS Smart Home Automation!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46249",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46249\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/578SZbv0lLo\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Ashens Halloween Special 2017",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46252",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46252\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SEVNHYB0tzk\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Evolution of Masturbation",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46319",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46319\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IKpMQlVu1As\/hqdefault.jpg",
+                        "channel_title": "colinfurze",
+                        "type": 2,
+                        "title": "The Briefcase Fireplace",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46042",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46042\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6DTC9htPQ18\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Thai Spicy Wing Challenge",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46292",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46292\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SB039KeeW8c\/hqdefault.jpg",
+                        "channel_title": "Ars Technica",
+                        "type": 2,
+                        "title": "Google Pixelbook and Pixelbook Pen: Pros & Cons | Ars Technica",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46306",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46306\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/d3zTfXvYZ9s\/hqdefault.jpg",
+                        "channel_title": "minutephysics",
+                        "type": 2,
+                        "title": "Time Travel in Fiction Rundown",
+                        "duration": "0"
+                    }
+                ],
+                "photos": []
             }
         }
     }
