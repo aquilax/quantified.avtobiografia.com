@@ -14433,7 +14433,9 @@
                         "duration": "0"
                     }
                 },
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-10-30\/20171030_162100.jpg"
+                ]
             }
         },
         "2017-10-31": {
@@ -14457,7 +14459,9 @@
                 "books": [],
                 "podcast": [],
                 "youtube": [],
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-10-31\/20171031_151949.jpg"
+                ]
             }
         },
         "2017-11-01": {
@@ -14483,11 +14487,11 @@
                     "0": {
                         "id": "46684",
                         "url": "http:\/\/cast.writtn.com\/episode\/46684\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/t\/52ebf67fe4b0f4af2a4502d8\/1391195777839\/1500w\/Hello+Internet.003.png",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/59f8f3572774d1b8507f6e72\/1509652183827\/1500w\/Hello+Internet+slides.196.png",
                         "channel_title": "Hello Internet",
                         "type": 1,
                         "title": "H.I. #91: Last Man to Die?",
-                        "duration": "0"
+                        "duration": "7222"
                     },
                     "2": {
                         "id": "46624",
@@ -14645,7 +14649,9 @@
                         "duration": "0"
                     }
                 },
-                "photos": []
+                "photos": [
+                    "\/photos\/2017-11-01\/20171101_173001.jpg"
+                ]
             }
         },
         "2017-11-02": {
@@ -14710,9 +14716,319 @@
             },
             "media": {
                 "books": [],
+                "podcast": {
+                    "3": {
+                        "id": "29376",
+                        "url": "http:\/\/cast.writtn.com\/episode\/29376\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Swearing Works",
+                        "duration": "3115"
+                    },
+                    "4": {
+                        "id": "44126",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44126\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Swearing Works",
+                        "duration": "3115"
+                    },
+                    "5": {
+                        "id": "29277",
+                        "url": "http:\/\/cast.writtn.com\/episode\/29277\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Corsets Work",
+                        "duration": "2501"
+                    },
+                    "6": {
+                        "id": "44127",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44127\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Corsets Work",
+                        "duration": "2501"
+                    },
+                    "7": {
+                        "id": "29115",
+                        "url": "http:\/\/cast.writtn.com\/episode\/29115\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Supervolcanoes Work",
+                        "duration": "2025"
+                    },
+                    "8": {
+                        "id": "44129",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44129\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Supervolcanoes Work",
+                        "duration": "2025"
+                    },
+                    "9": {
+                        "id": "29028",
+                        "url": "http:\/\/cast.writtn.com\/episode\/29028\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Supreme Court Nominations Work",
+                        "duration": "2964"
+                    },
+                    "10": {
+                        "id": "44130",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44130\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Supreme Court Nominations Work",
+                        "duration": "2964"
+                    },
+                    "11": {
+                        "id": "28727",
+                        "url": "http:\/\/cast.writtn.com\/episode\/28727\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Empathy Works",
+                        "duration": "3374"
+                    },
+                    "12": {
+                        "id": "44132",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44132\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Empathy Works",
+                        "duration": "3374"
+                    },
+                    "13": {
+                        "id": "28505",
+                        "url": "http:\/\/cast.writtn.com\/episode\/28505\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "Composting: Nature's Most Interesting Process",
+                        "duration": "3316"
+                    },
+                    "14": {
+                        "id": "44133",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44133\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "Composting: Nature's Most Interesting Process",
+                        "duration": "3316"
+                    },
+                    "15": {
+                        "id": "28254",
+                        "url": "http:\/\/cast.writtn.com\/episode\/28254\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "The Shroud Of Turin: No Ordinary Bed Sheet",
+                        "duration": "2899"
+                    },
+                    "16": {
+                        "id": "44135",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44135\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "The Shroud Of Turin: No Ordinary Bed Sheet",
+                        "duration": "2899"
+                    },
+                    "17": {
+                        "id": "28067",
+                        "url": "http:\/\/cast.writtn.com\/episode\/28067\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Foreign Accent Syndrome Works",
+                        "duration": "3058"
+                    },
+                    "18": {
+                        "id": "44136",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44136\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Foreign Accent Syndrome Works",
+                        "duration": "3058"
+                    },
+                    "19": {
+                        "id": "27601",
+                        "url": "http:\/\/cast.writtn.com\/episode\/27601\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How the Hyperloop Will Work",
+                        "duration": "3921"
+                    },
+                    "20": {
+                        "id": "44137",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44137\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How the Hyperloop Will Work",
+                        "duration": "3921"
+                    },
+                    "21": {
+                        "id": "27466",
+                        "url": "http:\/\/cast.writtn.com\/episode\/27466\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "Solitary Confinement: Cruel and Unusual",
+                        "duration": "3034"
+                    },
+                    "22": {
+                        "id": "44138",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44138\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "Solitary Confinement: Cruel and Unusual",
+                        "duration": "3034"
+                    },
+                    "23": {
+                        "id": "19527",
+                        "url": "http:\/\/cast.writtn.com\/episode\/19527\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Famines Work",
+                        "duration": "3243"
+                    },
+                    "24": {
+                        "id": "44145",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44145\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "How Famines Work",
+                        "duration": "3243"
+                    },
+                    "25": {
+                        "id": "19460",
+                        "url": "http:\/\/cast.writtn.com\/episode\/19460\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "The ins and outs of the DEATH TAX",
+                        "duration": "3161"
+                    },
+                    "26": {
+                        "id": "44146",
+                        "url": "http:\/\/cast.writtn.com\/episode\/44146\/quantified",
+                        "image": "https:\/\/podcasts.howstuffworks.com\/hsw\/podcasts\/sysk\/sysk-audio-1600.jpg",
+                        "channel_title": "Stuff You Should Know",
+                        "type": 1,
+                        "title": "The ins and outs of the DEATH TAX",
+                        "duration": "3161"
+                    },
+                    "27": {
+                        "id": "46683",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46683\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "America, Laboratory of Democracy: Money -the Lifeblood of American Democracy",
+                        "duration": "1591"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "46727",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46727\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zRh4GrL86Zw\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Nano Metalfigs | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46788",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46788\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RvSfvLK5wPk\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Book launch celebration thing!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46787",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46787\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/quF45LvBtwA\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "RetroTech - The Panapic (???)",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-11-03\/20171103_154040.jpg"
+                ]
+            }
+        },
+        "2017-11-04": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13471
+            },
+            "nutrition": {
+                "calories": 1672.23,
+                "fat": 155.97,
+                "carbohydrates": 19.59,
+                "protein": 52.29
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
                 "podcast": [],
-                "youtube": [],
-                "photos": []
+                "youtube": [
+                    {
+                        "id": "46841",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46841\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KX2p7U7Feik\/hqdefault.jpg",
+                        "channel_title": "William Osman",
+                        "type": 2,
+                        "title": "Building Thor's Only Weakness: Taser Net Gun",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46828",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46828\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8eqLzcvVpiM\/hqdefault.jpg",
+                        "channel_title": "Lazy Game Reviews",
+                        "type": 2,
+                        "title": "LGR - Catz, Dogz, & Oddballz: Petz Retrospective",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46824",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46824\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bqWWYFw1K4k\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Chicken Little - Semi-Boneless Roast Game Hen",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-11-04\/20171104_110749.jpg"
+                ]
             }
         }
     }
