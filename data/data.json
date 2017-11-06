@@ -14371,7 +14371,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4450
             },
             "media": {
                 "books": [],
@@ -14453,7 +14453,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 2966
             },
             "media": {
                 "books": [],
@@ -14479,7 +14479,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10413
             },
             "media": {
                 "books": [],
@@ -14669,7 +14669,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 21811
             },
             "media": {
                 "books": [],
@@ -14712,7 +14712,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5675
             },
             "media": {
                 "books": [],
@@ -14984,15 +14984,15 @@
                 "age": 13471
             },
             "nutrition": {
-                "calories": 1672.23,
-                "fat": 155.97,
-                "carbohydrates": 19.59,
-                "protein": 52.29
+                "calories": 1708.23,
+                "fat": 157.77,
+                "carbohydrates": 22.29,
+                "protein": 54.21
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 852
             },
             "media": {
                 "books": [],
@@ -15028,6 +15028,168 @@
                 ],
                 "photos": [
                     "\/photos\/2017-11-04\/20171104_110749.jpg"
+                ]
+            }
+        },
+        "2017-11-05": {
+            "health": {
+                "weight": 77.9,
+                "height": 173,
+                "age": 13472
+            },
+            "nutrition": {
+                "calories": 2428.75,
+                "fat": 159.66,
+                "carbohydrates": 183.43,
+                "protein": 72.48
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "46880",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46880\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VBZHvl2drnc\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "ASMR Emmy Loses Her Voice TAIYAKI & ODANGO Popin' Cookin' | Japanese Candy Making Kit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46878",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46878\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ras4RG-Tbw8\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Loot Crate, Amazing Mystery Box, Geek Gear Pinz, Geeky Teebag October 2017 | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46687",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46687\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vpa9S68uoXk\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #69 - Probably Should Censor That...",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46732",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46732\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iGQBQPqT6os\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "The Truth About the HPV Vaccine (with Dr. Aaron Carroll)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46773",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46773\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VsRot0p7ObY\/hqdefault.jpg",
+                        "channel_title": "colinfurze",
+                        "type": 2,
+                        "title": "The Washing Machine that would not Die",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46820",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46820\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/__mZkioPp3E\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Catalonia\u2019s independence movement, explained",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46852",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46852\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MjdpR-TY6QU\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "How to Cure Aging \u2013 During Your Lifetime?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46735",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46735\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RjypmMo6Lxk\/hqdefault.jpg",
+                        "channel_title": "John Heisz",
+                        "type": 2,
+                        "title": "I'm Building A Jointer! - Key, Drive Pulley And Bearings",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46882",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46882\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eX531M-vTac\/hqdefault.jpg",
+                        "channel_title": "John Heisz",
+                        "type": 2,
+                        "title": "DIY Crosscut Guide Track For The Table Saw \/ GENIUS IDEA!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46867",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46867\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XcFbh93tLxU\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Philosophy of Berserk (Anime) \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46364",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46364\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/69P70Z1GCfs\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a digital 80kW power saver unit.  (with schematic)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46771",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46771\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RuFGBkYMKpk\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Dodgy mains emergency light.  Full build and schematic.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46715",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46715\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/babtv00R-Nc\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Automatic generator changeover switch (with schematic).",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46865",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46865\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8GGQA-EpI1o\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "BOLTR: Induction Motors EXPLAINED! | Power Factor and Failure Analysis",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "46864",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46864\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/gKJ0IiIK_XM\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "The only reason I use an old oscilloscope. | LISSAJOUS!",
+                        "duration": "0"
+                    }
+                ],
+                "photos": [
+                    "\/photos\/2017-11-05\/20171105_095718.jpg"
                 ]
             }
         }
