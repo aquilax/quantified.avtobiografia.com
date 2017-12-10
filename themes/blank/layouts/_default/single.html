@@ -58,6 +58,22 @@
                     {{ end }}
                 {{ end }}
 
+                {{ if .Params.media.movies }}
+                    <h4>Movies</h4>
+                    {{ range $movie := .Params.media.movies }}
+                    <table class="movie media">
+                        <tr>
+                            <td class="thumb"></td>
+                            <td class="details">
+                                <div class="media-title">
+                                    <a href="{{ $movie.url }}">{{ $movie.title }}</a> ({{ $movie.year }})
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    {{ end }}
+                {{ end }}
+
                 {{ if .Params.media.podcast }}
                 <h4>Podcasts</h4>
                     {{ range $podcast := .Params.media.podcast }}

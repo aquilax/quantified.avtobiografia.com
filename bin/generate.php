@@ -28,9 +28,31 @@ class DataGenerator {
         $this->staticDirectory = realpath($destinationDirectory . '/data');
         $this->photosDirectory = realpath($destinationDirectory . '/static/photos');
         $this->goodReadsBooks = json_decode(file_get_contents($this->dataDirectory . '/goodreads/books.json'), true);
+        $this->imdbMovies = $this->loadImdbMovies($this->dataDirectory . '/imdb/ratings.csv');
         $this->podcasts = $this->processPodcasts(
             json_decode(file_get_contents($this->dataDirectory . '/podcast/podcast.json'), true)
         );
+    }
+
+    public function loadImdbMovies($fileName) {
+        // Adapted from https://stackoverflow.com/a/41942299/17734
+        $rows   = array_map('str_getcsv', file($fileName));
+        $header = array_shift($rows);
+        $result = [];
+        foreach($rows as $row) {
+            $item = array_combine($header, $row);
+            $date = date('Y-m-d', strtotime($item['created']));
+            if (!isset($result[$date])) {
+                $result[$date] = [];
+            }
+            $result[$date][] = [
+                'id' => $item['const'],
+                'title' => $item['Title'],
+                'year' => $item['Year'],
+                'url' => $item['URL'],
+            ];
+        }
+        return $result;
     }
 
     public function run($fromDate, $toDate) {
@@ -167,9 +189,19 @@ class DataGenerator {
             'books' => $this->getBooks($dt),
             'podcast' => $this->getPodcast($dt, self::TYPE_PODCAST),
             'youtube' => $this->getPodcast($dt, self::TYPE_YOUTUBE),
+            'movies' => $this->getMovies($dt),
             'photos' => $this->getPhotos($dt),
         ];
     }
+
+    private function getMovies($dt) {
+        $date = $dt->format('Y-m-d');
+        if (isset($this->imdbMovies[$date])) {
+            return $this->imdbMovies[$date];
+        }
+        return [];
+    }
+
 
     private function getPodcast($dt, $type) {
         $date = $dt->format('Y-m-d');
