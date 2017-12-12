@@ -14452,7 +14452,7 @@
                         "image": "https:\/\/i4.ytimg.com\/vi\/SENzTt3ftiU\/hqdefault.jpg",
                         "channel_title": "Vox",
                         "type": 2,
-                        "title": "How this legendary hip-hop producer humanized a machine",
+                        "title": "How J Dilla humanized his MPC3000",
                         "duration": "0"
                     },
                     {
@@ -14808,10 +14808,10 @@
                 "age": 13507
             },
             "nutrition": {
-                "calories": 2828.59,
-                "fat": 182.56,
-                "carbohydrates": 197.82,
-                "protein": 90.09
+                "calories": 2838.19,
+                "fat": 183.52,
+                "carbohydrates": 198,
+                "protein": 90.27
             },
             "exercise": {
                 "pushups": 0,
@@ -14870,6 +14870,96 @@
                 "photos": [
                     "\/photos\/2017-12-10\/20171210_122831.jpg"
                 ]
+            }
+        },
+        "2017-12-11": {
+            "health": {
+                "weight": 78.7,
+                "height": 173,
+                "age": 13508
+            },
+            "nutrition": {
+                "calories": 811.05,
+                "fat": 61.19,
+                "carbohydrates": 24.91,
+                "protein": 40.54
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "49030",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49030\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/99634\/1512673269-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "134: Fastributes",
+                        "duration": "1884"
+                    },
+                    {
+                        "id": "47990",
+                        "url": "http:\/\/cast.writtn.com\/episode\/47990\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/30990598.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "193: Episode 193: No Such Thing As Death By Conga",
+                        "duration": "2827"
+                    },
+                    {
+                        "id": "47625",
+                        "url": "http:\/\/cast.writtn.com\/episode\/47625\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/30926928.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "192: Episode 192: No Such Thing As A Restaurant Menu For Hats",
+                        "duration": "2655"
+                    }
+                ],
+                "youtube": {
+                    "3": {
+                        "id": "49098",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49098\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7cGrg2Gh4gg\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Philosophy of Fight Club \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "49097",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49097\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6lIzQFA-JCg\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a proper (Utility company) LED work light.",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "49118",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49118\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Z7GkGeZrb2Y\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Make your own crude Cocktail Machine",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "49126",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49126\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/udIlbVyLQH8\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "6 More Vintage Computers | Ashens",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
             }
         }
     }
