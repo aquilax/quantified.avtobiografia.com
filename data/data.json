@@ -16480,10 +16480,10 @@
                 "age": 13521
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 2385.63,
+                "fat": 124.11,
+                "carbohydrates": 200.54,
+                "protein": 63.74
             },
             "exercise": {
                 "pushups": 0,
@@ -16565,10 +16565,10 @@
                 "age": 13522
             },
             "nutrition": {
-                "calories": 2385.63,
-                "fat": 124.11,
-                "carbohydrates": 200.54,
-                "protein": 63.74
+                "calories": 2415.77,
+                "fat": 118.5,
+                "carbohydrates": 209.05,
+                "protein": 99.42
             },
             "exercise": {
                 "pushups": 0,
@@ -16616,7 +16616,20 @@
                         "duration": "0"
                     }
                 ],
-                "movies": [],
+                "movies": [
+                    {
+                        "id": "tt3967856",
+                        "title": "Okja",
+                        "year": "2017",
+                        "url": "http:\/\/www.imdb.com\/title\/tt3967856\/"
+                    },
+                    {
+                        "id": "tt5155780",
+                        "title": "The Discovery",
+                        "year": "2017",
+                        "url": "http:\/\/www.imdb.com\/title\/tt5155780\/"
+                    }
+                ],
                 "photos": [
                     "\/photos\/2017-12-25\/20171225_174251.jpg"
                 ]
