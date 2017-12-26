@@ -41,7 +41,9 @@ class DataGenerator {
         $result = [];
         foreach($rows as $row) {
             $item = array_combine($header, $row);
-            $date = date('Y-m-d', strtotime($item['created']));
+            print_r($item);
+            die();
+            $date = date('Y-m-d', strtotime($item['Date']));
             if (!isset($result[$date])) {
                 $result[$date] = [];
             }
