@@ -17608,7 +17608,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4477
             },
             "media": {
                 "books": [],
@@ -17724,7 +17724,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4507
             },
             "media": {
                 "books": [
@@ -17789,7 +17789,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5923
             },
             "media": {
                 "books": [],
@@ -17988,15 +17988,15 @@
                 "age": 13543
             },
             "nutrition": {
-                "calories": 1127.74,
-                "fat": 54.74,
-                "carbohydrates": 114.77,
-                "protein": 37.19
+                "calories": 1145.74,
+                "fat": 55.64,
+                "carbohydrates": 116.12,
+                "protein": 38.15
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4931
             },
             "media": {
                 "books": [],
@@ -18012,6 +18012,43 @@
                 ],
                 "photos": [
                     "\/photos\/2018-01-15\/20180115_144819.jpg"
+                ]
+            }
+        },
+        "2018-01-16": {
+            "health": {
+                "weight": 79.9,
+                "height": 173,
+                "age": 13544
+            },
+            "nutrition": {
+                "calories": 2262,
+                "fat": 193.75,
+                "carbohydrates": 29.15,
+                "protein": 96.08
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 4612
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "32078453",
+                        "title": "What Algorithms Want: Imagination in the Age of Computing",
+                        "author": "Ed Finn",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2253340721?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1498884148l\/32078453.jpg",
+                        "user_rating": 5,
+                        "marked_as_read": "2018-01-16T06:59:40+00:00"
+                    }
+                ],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-01-16\/20180116_153549.jpg"
                 ]
             }
         }
