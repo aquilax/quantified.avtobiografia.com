@@ -18450,9 +18450,38 @@
                 "steps": 3807
             },
             "media": {
-                "books": [],
+                "books": [
+                    {
+                        "id": "26200068",
+                        "title": "The Life-Changing Magic of Not Giving a F*ck: How to Stop Spending Time You Don't Have with People You Don't Like Doing Things You Don't Want to Do",
+                        "author": "Sarah Knight",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2246091914?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1484324065l\/26200068.jpg",
+                        "user_rating": 3,
+                        "marked_as_read": "2018-01-23T13:35:38+00:00"
+                    }
+                ],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "51582",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51582\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/r8nCLh_cNHg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "KOHAKUTOU | Edible CRYSTAL Jelly Gemstones Recipe & Taste Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51002",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51002\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/t9bEg2A4jsw\/hqdefault.jpg",
+                        "channel_title": "JustForFunc: Programming in Go",
+                        "type": 2,
+                        "title": "justforfunc #26: why are there nil channels in Go?",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-01-23\/IMG_20180123_145318445.jpg"
@@ -18478,8 +18507,109 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "1": {
+                        "id": "51617",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51617\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 62: 2018 Yearly Themes",
+                        "duration": "5854"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "51629",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51629\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/qBw5wCs4keQ\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Sticky Garlic Pork Chops - Food Wishes - Garlic Pork Chop Recipe",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "51525",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51525\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/dNZcd9wr_Bc\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Halfway Point [QBasic demo to celebrate 50000 subscribers]",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "51512",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51512\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KA-NZPqOr5Y\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - The Sims 4 Laundry Day Stuff Review",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "51523",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51523\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RWzsDPZjOoo\/hqdefault.jpg",
+                        "channel_title": "Fun Fun Function",
+                        "type": 2,
+                        "title": "Luna Programming language Part 2",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "51522",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51522\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7pmGFGoiyUI\/hqdefault.jpg",
+                        "channel_title": "Fun Fun Function",
+                        "type": 2,
+                        "title": "Luna Programming language Part 1",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "51085",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51085\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-xm4l13aY6I\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a mains socket tester with LCD display.  (with schematic)",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "51258",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51258\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/rhlM2sPU_Z0\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a 12W LED module.",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "51534",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51534\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kfPNxNIDHrA\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "It's not you. Commuting is bad for your health.",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "51603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51603\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DipzS0VH4PA\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The 32-year-old prince who\u2019s shaking up Saudi Arabia",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "51627",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51627\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/2veGxk7-Y4M\/hqdefault.jpg",
+                        "channel_title": "FLEB",
+                        "type": 2,
+                        "title": "How to Solve Wolves and Sheep in Fences from the 2009 US Puzzle Championship",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-01-24\/20180124_145326.jpg"
@@ -18533,7 +18663,143 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "51764",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51764\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/H9jpMuaEPOg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "MALA SPICY Noodle CHALLENGE | Samyang Fire Ramen",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51649",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51649\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PKixRjMl4AY\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "How (Not) To Be A \"Nice Guy\"",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51644",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51644\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/U_NtTBTGp20\/hqdefault.jpg",
+                        "channel_title": "Chris Notap",
+                        "type": 2,
+                        "title": "Drill Holes Easily \u25cf Wine Bottles, Mason Jars  ( in under a minute ! )",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51641",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51641\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iR9dgEmkj2s\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #80 - Psychic Gemini: Call Me Now!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51578",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51578\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HNaU76L296Q\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "LED star-filament lamp smash.  With PSU rebuild.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51655",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51655\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0mQx5QKJu08\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Nicely machined cock with clever design features.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51705",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51705\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UEumh00w4og\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "Gettin' Nostalgic with Grandpa's Magical Toys (Wee Sing)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51709",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51709\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_nW9k6k1I3k\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Trap Adventure 2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51702",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51702\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Orny6wkZrNA\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "7 Semen Myths",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51708",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51708\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CuDmW3HUBTA\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "BOLTR: Parker Bent Axis Piston Motor | Hydraulic Industrial Lego",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51713",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51713\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LmPAcs5RUMM\/hqdefault.jpg",
+                        "channel_title": "MindYourDecisions",
+                        "type": 2,
+                        "title": "Why Did Facebook Invent A New Unit Of Time? The \"Flick\" Explained With Math",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51737",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51737\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8EOxtY3M6Co\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why Puerto Rico is not a US state",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51751",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51751\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4DcJ2I0h954\/hqdefault.jpg",
+                        "channel_title": "FLEB",
+                        "type": 2,
+                        "title": "Intuitively Solving the 3x3x5 Cuboid",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51759",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51759\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/V6j-B8XSHjM\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Maze Runner: The Death Cure - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51762",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51762\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KgTcKeefcbU\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Philips Viva Pasta Maker Review",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
@@ -18556,7 +18822,17 @@
                 "steps": 0
             },
             "media": {
-                "books": [],
+                "books": [
+                    {
+                        "id": "27040338",
+                        "title": "Trekonomics: The Economics of Star Trek",
+                        "author": "Manu Saadia",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2266655787?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1462408118l\/27040338.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2018-01-27T11:12:12+00:00"
+                    }
+                ],
                 "podcast": [],
                 "youtube": [],
                 "movies": [],
@@ -18598,6 +18874,31 @@
                         "url": "http:\/\/www.imdb.com\/title\/tt3521164\/"
                     }
                 ],
+                "photos": []
+            }
+        },
+        "2018-01-29": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 13557
+            },
+            "nutrition": {
+                "calories": 1092.77,
+                "fat": 84.7,
+                "carbohydrates": 37.5,
+                "protein": 40.53
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
                 "photos": []
             }
         }
