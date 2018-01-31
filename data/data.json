@@ -18884,10 +18884,10 @@
                 "age": 13557
             },
             "nutrition": {
-                "calories": 1092.77,
-                "fat": 84.7,
-                "carbohydrates": 37.5,
-                "protein": 40.53
+                "calories": 1611.77,
+                "fat": 98.82,
+                "carbohydrates": 120.2,
+                "protein": 56.71
             },
             "exercise": {
                 "pushups": 0,
@@ -18898,6 +18898,122 @@
                 "books": [],
                 "podcast": [],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-01-30": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13558
+            },
+            "nutrition": {
+                "calories": 1632.3,
+                "fat": 128.93,
+                "carbohydrates": 67.56,
+                "protein": 50.01
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "51844",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51844\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PsotfzGpby8\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Gaze Into the Abyss - Nihilism in Rick and Morty & BoJack Horseman \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51851",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51851\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1-NbDjxh_v0\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "My accidental discovery of lead sponge",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51860",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51860\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XRR7r6qz0Ms\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Commodore History Part 3 - The Commodore 64 (Part 1)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51864",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51864\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1pKJ-KcHZ8g\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Electronic Basics #34: Two-Position Controller & PID Controller",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51776",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51776\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/mfm-fcMpMTw\/hqdefault.jpg",
+                        "channel_title": "Fun Fun Function",
+                        "type": 2,
+                        "title": "Why I quit my job at Spotify - Twitch stream highlight",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51789",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51789\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RkU4WWEUj-Y\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Microsoft Bob Experience: Was It Really THAT Bad?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51943",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51943\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5zfaP2kk_WU\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - The Ball Game: MS-DOS Ball Busting ACTION",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51934",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51934\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RRUA4ESr3L0\/hqdefault.jpg",
+                        "channel_title": "Gavin Webber",
+                        "type": 2,
+                        "title": "Greek Feta Taste Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51803",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51803\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BE4MLcs-bnM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Emmy Tim Tam Slams | Tim Tam Biscuits in the US!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51947",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51947\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/F-L4Y0fmyh8\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "BEEF FUDGE | Retro Recipe Taste Test",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
