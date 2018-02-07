@@ -19035,7 +19035,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 9930
             },
             "media": {
                 "books": [],
@@ -19062,7 +19062,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 7525
             },
             "media": {
                 "books": [
@@ -19097,7 +19097,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10145
             },
             "media": {
                 "books": [],
@@ -19144,7 +19144,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 8282
             },
             "media": {
                 "books": [
@@ -19325,7 +19325,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10725
             },
             "media": {
                 "books": [],
@@ -19350,7 +19350,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10925
             },
             "media": {
                 "books": [],
@@ -19359,6 +19359,125 @@
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-02-05\/20180205_181313.jpg"
+                ]
+            }
+        },
+        "2018-02-06": {
+            "health": {
+                "weight": 80,
+                "height": 173,
+                "age": 13565
+            },
+            "nutrition": {
+                "calories": 1806.2,
+                "fat": 135.55,
+                "carbohydrates": 80.66,
+                "protein": 66.99
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 10579
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "51772",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51772\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/qHLizp8fARo\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Celeste (dunkview)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52220",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52220\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LBpgMlGdQXc\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 228 - Double Dragon",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52242",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52242\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EMgfQMnPtTg\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The (Accidental) Philosophy of The Boss Baby \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52251",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52251\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7Hn4UFi9wvs\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Make your own Spy Bug (Arduino Voice Recorder)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52283",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52283\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Mxv9AM397Y8\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Monster Hunter World",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52295",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52295\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xZTD-00H1jE\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The 2020 census is in serious trouble",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52334",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52334\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/e-yIoG7k2Jg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Great American Steakhouse ONION MAKER Product TEST | Emmy Gets New Glasses",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52359",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52359\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/j4LSwZ05laQ\/hqdefault.jpg",
+                        "channel_title": "TED",
+                        "type": 2,
+                        "title": "Want to be more creative? Go for a walk | Marily Oppezzo",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52297",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52297\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/S5uiupJQc9M\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a pleasingly scary Russian 240V gas igniter.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52294",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52294\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VEnVfhqy3Rk\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - The Need For Speed Special Edition",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-02-06\/20180206_051814.jpg",
+                    "\/photos\/2018-02-06\/20180206_175427.jpg"
                 ]
             }
         }
