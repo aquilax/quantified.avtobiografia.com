@@ -19496,7 +19496,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11233
             },
             "media": {
                 "books": [],
@@ -19540,7 +19540,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10610
             },
             "media": {
                 "books": [],
@@ -19565,12 +19565,149 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 16734
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "0": {
+                        "id": "51194",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51194\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p04f5j09.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "Bonus Episode: More or Less",
+                        "duration": "563"
+                    },
+                    "7": {
+                        "id": "52491",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52491\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000298914843-kwmjt0-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "42. \u0417\u0430 \u0441\u0442\u0435\u043d\u0434\u044a\u043f \u043a\u043e\u043c\u0435\u0434\u0438\u044f\u0442\u0430 \u0441 \u0414\u0438\u043c\u0438",
+                        "duration": "7524"
+                    }
+                },
+                "youtube": {
+                    "1": {
+                        "id": "51613",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51613\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IvAvHjYoLUU\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "Why Cities Exist",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "51885",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51885\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QSPaL4aVjRo\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Optimizing Trees \u2014 How to Create a Compiler part 2\/5 \u2014 Simple optimizations to a program in an AST",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "52107",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52107\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DCcA4FyWeXI\/hqdefault.jpg",
+                        "channel_title": "Errant Signal",
+                        "type": 2,
+                        "title": "Getting Over It (Spoilers?)",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "52400",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52400\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YBVaZaL3Fow\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "Terror in the Toilet: Reviewing Scary Bathrooms in Film & Video Games",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "52401",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52401\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KlJqlR6Nt9E\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "How Do I Know If I'm A Good Writer?",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "52390",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52390\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0dUX9jQgstE\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Nipples of Venus (Capezzoli di Venere) - Food Wishes",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "52388",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52388\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zAoHnbBmfsI\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Why I never show my power supply.",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "52421",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52421\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yxtxb7w8zSQ\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "German, Slovak and Czech candy taste test.",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "52461",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52461\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4KyWP5fWOEs\/hqdefault.jpg",
+                        "channel_title": "Mike Boyd",
+                        "type": 2,
+                        "title": "This Week I Learned to Slingshot",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "52445",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52445\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QIJwyY_JyQU\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Is It Okay to Hit on Me?",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "52463",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52463\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/AXL4r30VgSE\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Superscope PSD300 - A Pro CD Recorder with some neat tricks.",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "52471",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52471\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xwn11QVoW24\/hqdefault.jpg",
+                        "channel_title": "William Osman",
+                        "type": 2,
+                        "title": "Automatic Rain Goggles",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "52505",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52505\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/3pNxwBLDgBI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "VIETNAMESE EGG COFFEE | How to Pasteurize an Egg | coffee + whipped egg topping",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
@@ -19590,12 +19727,132 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 14395
             },
             "media": {
-                "books": [],
-                "podcast": [],
-                "youtube": [],
+                "books": [
+                    {
+                        "id": "25319219",
+                        "title": "Always Hungry?: Conquer Cravings, Retrain Your Fat Cells, and Lose Weight Permanently",
+                        "author": "David Ludwig",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2290847115?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1447085407l\/25319219.jpg",
+                        "user_rating": 2,
+                        "marked_as_read": "2018-02-10T07:37:25+00:00"
+                    },
+                    {
+                        "id": "30231780",
+                        "title": "Storm in a Teacup: The Physics of Everyday Life",
+                        "author": "Helen Czerski",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2284984087?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1466022367l\/30231780.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2018-02-10T07:36:02+00:00"
+                    }
+                ],
+                "podcast": {
+                    "4": {
+                        "id": "49817",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49817\/quantified",
+                        "image": "https:\/\/images.fireside.fm\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/episodes\/0\/0ea8ee83-482b-4770-987f-29c4ba74f78e\/cover.jpg",
+                        "channel_title": "BalloonCast",
+                        "type": 1,
+                        "title": "\u0415\u043f\u0438\u0437\u043e\u0434 98 - Nerd porn",
+                        "duration": "4486"
+                    },
+                    "5": {
+                        "id": "52552",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52552\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/112055\/1518151215-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "142: What if We Didn't Do Any of This?",
+                        "duration": "2520"
+                    },
+                    "6": {
+                        "id": "52112",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52112\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/109924\/1517429305-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "141: Go Baby, Go",
+                        "duration": "1871"
+                    },
+                    "7": {
+                        "id": "51739",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51739\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/108610\/1516897286-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "140: A Sign of... Stability?",
+                        "duration": "2581"
+                    },
+                    "8": {
+                        "id": "51415",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51415\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/106422\/1516375496-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "139: Red, Green, Refactor (Alex Clark & Sean Doyle)",
+                        "duration": "1988"
+                    },
+                    "9": {
+                        "id": "51065",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51065\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/105034\/1515720309-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "138: I Don't Know How the World Works Anymore",
+                        "duration": "2880"
+                    },
+                    "10": {
+                        "id": "49819",
+                        "url": "http:\/\/cast.writtn.com\/episode\/49819\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/101848\/1513873144-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "136: Propagating Conspiracy Theories",
+                        "duration": "2303"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "52397",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52397\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bbL4tO_hl_o\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #82 - Control Freak",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52570\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Qp7QJpLhOs4\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Creole Crab Noodles - Food Wishes - Spicy Crab Noodles",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52534",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52534\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/v1d7UvKWh6M\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The Trump-Fox & Friends feedback loop, explained",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52535",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52535\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/o7IvYsPYiFA\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a heated power bank.  (That gets very hot!)",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-02-10\/20180210_175629.jpg"
@@ -19609,10 +19866,92 @@
                 "age": 13570
             },
             "nutrition": {
-                "calories": 2091.23,
-                "fat": 149.43,
-                "carbohydrates": 100.39,
-                "protein": 65.76
+                "calories": 2480.98,
+                "fat": 187.76,
+                "carbohydrates": 103.39,
+                "protein": 76.25
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 25721
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "52612",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52612\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/a6elq83OVWQ\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Original Prusa i3 MK3 3D Printer Review - Still the best 3D Printer?",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-02-12": {
+            "health": {
+                "weight": 79.5,
+                "height": 173,
+                "age": 13571
+            },
+            "nutrition": {
+                "calories": 1769.98,
+                "fat": 131.22,
+                "carbohydrates": 91.79,
+                "protein": 57.96
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "25614984",
+                        "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+                        "author": "Marie Kond\u014d",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2246090848?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1435598787l\/25614984.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2018-02-12T17:36:23+00:00"
+                    }
+                ],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "52613",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52613\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/aS1pwoVdRh4\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Testing Poundland's 2.1A dual port USB power supply.  (with 2kV)",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-02-12\/20180212_175700.jpg"
+                ]
+            }
+        },
+        "2018-02-13": {
+            "health": {
+                "weight": 79.8,
+                "height": 173,
+                "age": 13572
+            },
+            "nutrition": {
+                "calories": 1624.87,
+                "fat": 110.71,
+                "carbohydrates": 79.31,
+                "protein": 50.77
             },
             "exercise": {
                 "pushups": 0,
