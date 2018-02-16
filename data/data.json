@@ -19605,7 +19605,7 @@
                         "image": "https:\/\/i2.ytimg.com\/vi\/QSPaL4aVjRo\/hqdefault.jpg",
                         "channel_title": "Bisqwit",
                         "type": 2,
-                        "title": "Optimizing Trees \u2014 How to Create a Compiler part 2\/5 \u2014 Simple optimizations to a program in an AST",
+                        "title": "Optimizing Trees \u2014 How to Create a Compiler part 2\/6 \u2014 Simple optimizations to a program in an AST",
                         "duration": "0"
                     },
                     "3": {
@@ -19986,11 +19986,192 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "52235",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52235\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/__1SjDrSMik\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "maybe i could eat blades of grass",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51735",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51735\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/B64hIRjNvLc\/hqdefault.jpg",
+                        "channel_title": "JustForFunc: Programming in Go",
+                        "type": 2,
+                        "title": "justforfunc #27: two ways of merging N channels",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52427",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52427\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HEfUefVXzzg\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "The Advantech I.Q. Unlimited with BASIC and a Z80 CPU.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52525",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52525\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZNoOVUWZPa0\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Life in a bottle",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52576",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52576\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4PGIdk5EOYM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 229 - Hoosier City",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52597",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52597\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vFANgWN2Ul0\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "How Monty Python Shaped Modern Comedy (feat. Rick and Morty & Deadpool) \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52533",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52533\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/L958sMz1kWs\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR Tech Tales - Bonzi Buddy: A Spyware's Tale",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52654",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52654\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/skkDM9Ijckc\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - eMachines eOne: 1999 Apple iMac Knockoff",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52685",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52685\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KWT9tXGkbBc\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "PICKLE CUPCAKES & Whisky Cream Cheese Frosting VALENTINE'S Day Recipe",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52469",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52469\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/aYDTjkTi-2o\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "What a war with North Korea would look like",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52725",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52725\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/y3qfeoqErtY\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "How Overnight Shipping Works",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52600\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/U6ji8uMengU\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Pirate DVD Showcase 2 | Ashens",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-02-14\/20180214_180103.jpg"
                 ]
+            }
+        },
+        "2018-02-15": {
+            "health": {
+                "weight": 79.6,
+                "height": 173,
+                "age": 13574
+            },
+            "nutrition": {
+                "calories": 1213.44,
+                "fat": 86.8,
+                "carbohydrates": 80.93,
+                "protein": 28.21
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "25817279",
+                        "title": "Door to Door: The Magnificent, Maddening, Mysterious World of Transportation",
+                        "author": "Edward Humes",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2293632561?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1444888375l\/25817279.jpg",
+                        "user_rating": 3,
+                        "marked_as_read": "2018-02-15T17:13:47+00:00"
+                    }
+                ],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "52747",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52747\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1_Pwl0do6FM\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Ashens Valentines Day Special 2018",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52731",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52731\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0CO0DbjjZPA\/hqdefault.jpg",
+                        "channel_title": "8-Bit Keys",
+                        "type": 2,
+                        "title": "Casio KX-101 Bizarre Boombox\/Keyboard hybrid",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52733",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52733\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZQJQVKWAFoc\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Flaming Greek Cheese! Food Wishes - Saganaki",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52763",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52763\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0ZPI5gCNgik\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #83 - Sword Breath",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
             }
         }
     }
