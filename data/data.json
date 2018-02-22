@@ -20117,7 +20117,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10197
             },
             "media": {
                 "books": [
@@ -20189,7 +20189,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 12401
             },
             "media": {
                 "books": [
@@ -20226,7 +20226,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 15129
             },
             "media": {
                 "books": [],
@@ -20261,7 +20261,14 @@
                         "duration": "0"
                     }
                 },
-                "movies": [],
+                "movies": [
+                    {
+                        "id": "tt2848292",
+                        "title": "Pitch Perfect 2",
+                        "year": "2015",
+                        "url": "https:\/\/www.imdb.com\/title\/tt2848292\/"
+                    }
+                ],
                 "photos": []
             }
         },
@@ -20280,7 +20287,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 24323
             },
             "media": {
                 "books": [
@@ -20306,7 +20313,14 @@
                         "duration": "0"
                     }
                 ],
-                "movies": [],
+                "movies": [
+                    {
+                        "id": "tt4765284",
+                        "title": "Pitch Perfect 3",
+                        "year": "2017",
+                        "url": "https:\/\/www.imdb.com\/title\/tt4765284\/"
+                    }
+                ],
                 "photos": [
                     "\/photos\/2018-02-18\/20180218_170404.jpg"
                 ]
@@ -20327,7 +20341,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 12906
             },
             "media": {
                 "books": [],
@@ -20594,6 +20608,31 @@
                         "duration": "0"
                     }
                 },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-02-21": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13580
+            },
+            "nutrition": {
+                "calories": 1729.57,
+                "fat": 101.79,
+                "carbohydrates": 128.04,
+                "protein": 77.8
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }

@@ -41,7 +41,7 @@ class DataGenerator {
         $result = [];
         foreach($rows as $row) {
             $item = array_combine($header, $row);
-            $date = date('Y-m-d', strtotime($item['Date Added']));
+            $date = date('Y-m-d', strtotime($item['Date Rated']));
             if (!isset($result[$date])) {
                 $result[$date] = [];
             }
