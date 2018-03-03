@@ -20732,15 +20732,15 @@
                 "age": 13583
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 2882.65,
+                "fat": 221.8,
+                "carbohydrates": 134.74,
+                "protein": 92.06
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 15790
             },
             "media": {
                 "books": [],
@@ -20860,15 +20860,15 @@
                 "age": 13584
             },
             "nutrition": {
-                "calories": 2882.65,
-                "fat": 221.8,
-                "carbohydrates": 134.74,
-                "protein": 92.06
+                "calories": 2841.97,
+                "fat": 191.7,
+                "carbohydrates": 160.52,
+                "protein": 101.48
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 26357
             },
             "media": {
                 "books": [],
@@ -20885,15 +20885,15 @@
                 "age": 13585
             },
             "nutrition": {
-                "calories": 2841.97,
-                "fat": 191.7,
-                "carbohydrates": 160.52,
-                "protein": 101.48
+                "calories": 3279.21,
+                "fat": 268.52,
+                "carbohydrates": 131.43,
+                "protein": 107.8
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 13288
             },
             "media": {
                 "books": [],
@@ -20965,6 +20965,364 @@
                 ],
                 "movies": [],
                 "photos": []
+            }
+        },
+        "2018-02-27": {
+            "health": {
+                "weight": 79.8,
+                "height": 173,
+                "age": 13586
+            },
+            "nutrition": {
+                "calories": 1625.15,
+                "fat": 119.45,
+                "carbohydrates": 80.35,
+                "protein": 68.04
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "53345",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53345\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NUMa0QkPzns\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "It\u2019s not you. Phones are designed to be addicting.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53516",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53516\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vPje04ctUeY\/hqdefault.jpg",
+                        "channel_title": "Chris Notap",
+                        "type": 2,
+                        "title": "Can a Pop Bottle Explode \u25cf On the Store Shelf  ?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53441",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53441\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yBn_7xytugo\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Nintendo Retro Console Keyring Mystery Bag | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53392",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53392\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/na8AqAomh88\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "The practicality of making toy dinosaurs",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53190",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53190\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KUgO7NtgNF0\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Is Black Panther's Killmonger the Best Villain Since the Joker? \u2013 Wisecrack Quick Take",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "50277",
+                        "url": "http:\/\/cast.writtn.com\/episode\/50277\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1F0zEmB9zK0\/hqdefault.jpg",
+                        "channel_title": "Errant Signal",
+                        "type": 2,
+                        "title": "The Shrouded Isle",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53042",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53042\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/e1bEWoblGZA\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "unboxing video",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51568",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51568\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/yqlfHeZiRTA\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "ES121 - Better, faster revision of the \"\"Open Source Screwdriver\"\"!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51985",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51985\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4sQCz75BfrM\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "All about the Xiaomi Lidar Scanner and the Sunfounder RasPad",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "51986",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51986\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wglJz23Gt4w\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "Xiaomi Vacuum Cleaner Robot Review and Teardown",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "27482",
+                        "url": "http:\/\/cast.writtn.com\/episode\/27482\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/49foenfocWs\/hqdefault.jpg",
+                        "channel_title": "pocket83",
+                        "type": 2,
+                        "title": "Return to sender! (build)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53507",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53507\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Hq4jk71B1Hk\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "FROG LEGS | How to Cook & Prepare Frog's Legs",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53497",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53497\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OtWVA7_9Rik\/hqdefault.jpg",
+                        "channel_title": "Clickspring",
+                        "type": 2,
+                        "title": "Antikythera Fragment #6 - Making A Hand Powered Drill",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53498",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53498\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/N1aj_3tlQhU\/hqdefault.jpg",
+                        "channel_title": "Clickspring",
+                        "type": 2,
+                        "title": "Antikythera Fragment #5 - The First Precision Drill Bit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53472",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53472\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/61d9xFG5aSo\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Resound OPL3: New Surround Sound AdLib Card",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-02-28": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13587
+            },
+            "nutrition": {
+                "calories": 1184.93,
+                "fat": 68.56,
+                "carbohydrates": 93.98,
+                "protein": 46.92
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "53561",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53561\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7bDvhiHoH-c\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Seafood Sausage - Food Wishes - Fish Sausage Recipe",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-03-01": {
+            "health": {
+                "weight": 79.9,
+                "height": 173,
+                "age": 13588
+            },
+            "nutrition": {
+                "calories": 1335.92,
+                "fat": 73.33,
+                "carbohydrates": 102.82,
+                "protein": 66.25
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "53577",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53577\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/V37sd-tL6cQ\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "The Truth | Discworld | Stuff You Like 166",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53152",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53152\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZXMlUqGTIEI\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "This video could save your life.  (Aspod keyfob giveaway.)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53538",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53538\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_KhtBA0EHDM\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Really useful flame lamp variant.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53579",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53579\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6yhR242MnwA\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making Indigo - The dye that makes jeans blue",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-03-02": {
+            "health": {
+                "weight": 79.5,
+                "height": 173,
+                "age": 13589
+            },
+            "nutrition": {
+                "calories": 2300,
+                "fat": 161.58,
+                "carbohydrates": 147.33,
+                "protein": 73.54
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "53563",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53563\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/fN8FelRCoz8\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #85 - Everything's Atypical",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53650",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53650\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/oW7EszNFmPA\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "IBM PCjr Repair and Restoration",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53598",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53598\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/aYIrcHEJlF0\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Ask Lindsey #28",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53663",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53663\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/i7JLddhLSKQ\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "Months of RTB2004 experience in 8 minutes - Rohde & Schwarz Oscilloscope",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53734",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53734\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/g15-lvmIrcg\/hqdefault.jpg",
+                        "channel_title": "Nerdwriter1",
+                        "type": 2,
+                        "title": "The Most Disturbing Painting",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53719",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53719\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bEkj4BVaD0s\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Assembling & Testing a Spinbox - The DIY Cardboard Box Record Player",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53751",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53751\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zbR50n9ax-c\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Popin' Cookin' CREPE MAKER - mini crepes made with a spinner!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "53586",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53586\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/B_1TChFSOjU\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "How Pennsylvania rigged its electoral map",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-03-02\/20180302_174837.jpg"
+                ]
             }
         }
     }
