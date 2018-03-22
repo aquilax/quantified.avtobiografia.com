@@ -21859,7 +21859,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4330
             },
             "media": {
                 "books": [],
@@ -21886,12 +21886,139 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 361
             },
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "53793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53793\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XO1sJgAWBZk\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "8-Bit Unboxing - February 2018",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55797\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/FtroM9DofNk\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "Samsung Galaxy S9+ Initial tests with new camera + RasPi robot",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55873",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55873\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/efV9yWoBjUo\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "The Deed of Paksenarrion | Stuff You Like 167",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55081",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55081\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_KOYt-0WZxg\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Why Fluke are recalling their SM100\/200\/300 plug-in testers.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55741",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55741\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/dZd5_jyhytg\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Does a cattle prod hurt?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55828",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55828\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9g8IW7NEerY\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Mini death-dalek camping light is actually safe!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55850",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55850\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/O_mDWTIWdAA\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Beer-Braised Lamb Shanks - Food Wishes - Spring Lamb",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55881",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55881\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/z6kYZJKnmVU\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - The Sims 4 My First Pet Stuff Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55891",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55891\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/AArEm7TQV98\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Should You Have Sex When You're Sick?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55899",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55899\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zsjC6fa_YBg\/hqdefault.jpg",
+                        "channel_title": "Mark Brown",
+                        "type": 2,
+                        "title": "What Makes a Good Puzzle? | Game Maker's Toolkit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55781",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55781\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/S1jU-OL-rHo\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "The Punisher - Season 1 Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55905",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55905\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LWrztDg2BGI\/hqdefault.jpg",
+                        "channel_title": "8-Bit Keys",
+                        "type": 2,
+                        "title": "Yamaha PCS-500 Play-card System",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55882",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55882\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/nvq94pW4l6o\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why we imagine aliens the way we do",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55944",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55944\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/B7onLOkSpLc\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "SOUND BURGER & the clones",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
@@ -21911,7 +22038,449 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 8989
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "56673",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56673\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/t5AHmoVC0zY\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 232 - Planet Strike",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56693",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56693\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hF87rYt90bU\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Animal Astronauts - The Space Race's Unwitting Pioneers",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56692",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56692\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x8vfLUK8Qzc\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Evel Knievel and The Reusable X-3 Volksrocket",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56691",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56691\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OJV18qzA7Fo\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Electromagnetic Railguns  - The U.S Military's future Superguns - 200 mile range Mach 7 projectiles",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56690",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56690\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vluzeaVvpU0\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Ultra High Speed Cameras \u2013 How do you film a tank shell in flight or a Nuclear bomb test?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56689",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56689\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Q109yF10DUM\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "V Bombers - Vulcan, Victor & Valiant - The Last British Bombers",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56688",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56688\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YAnxt1YPWbk\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How do spacecraft navigate in space ?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56687",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56687\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eQH7hjoSX-E\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "The Search for Planet X \/ Planet 9 \/ Nibiru",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56686",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56686\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/uYS5gaEIQ4A\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How China is taking on the world in space",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56685",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56685\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PhXcd-881xA\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "TSR.2 - The Plane Shot Down by its Own Government",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56684",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56684\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XLOCQw5s9Uw\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Buran-Energia : The Soviet Space Shuttle 2.0 on a Moon Rocket",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56683",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56683\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Pv7aigOzQKo\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How We Planned to go to Mars by 1982 - The early Manned Missions",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56682",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56682\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CizKnuwvXXg\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How Nuclear rockets will get us to Mars and beyond",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56681",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56681\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ErmEiAJG22A\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "What's Wrong with Earth's Magnetic Field? - The South Atlantic Anomaly",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56680",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56680\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BlPfHV36G-g\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How did NASA get those great film shots of Apollo and the Shuttle?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56679",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56679\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RMo7jUs0GMs\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "What Happened to the Nuclear Test Sites?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55993",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55993\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZZmzAuvYCJw\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Luigi's Balloon World",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55976",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55976\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CEQR9_m2CmM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Rice Krispies Treats | Birthday Cake & Cookies 'N Cream Taste Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56001",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56001\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Mz3nNKQRnNQ\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Tapwave Zodiac: The Failed 2003 Gaming PDA",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56677",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56677\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/w2FuHErzhVE\/hqdefault.jpg",
+                        "channel_title": "Gaming Historian",
+                        "type": 2,
+                        "title": "The Story of R.O.B. the Robot | Gaming Historian",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55983",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55983\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ioC61QW7SHQ\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "Simply Explained Bridge Collapse | Engineering and Construction",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56662",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56662\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KtiTm2dKLgU\/hqdefault.jpg",
+                        "channel_title": "AvE",
+                        "type": 2,
+                        "title": "Post Tension Failure Florida Bridge Collapse | Engineering EXPLAINED!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56676",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56676\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/pHy4xEkSci0\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Jessica Jones - Season 2 Review (Spoilers)",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-03-17\/20180317_134012.jpg"
+                ]
+            }
+        },
+        "2018-03-18": {
+            "health": {
+                "weight": 79.2,
+                "height": 173,
+                "age": 13605
+            },
+            "nutrition": {
+                "calories": 2144.95,
+                "fat": 134.14,
+                "carbohydrates": 308.56,
+                "protein": 79.22
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 41
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "53941",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53941\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZhZJbhXa1Wc\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "The Zany and Dystopian Future of Beneath a Steel Sky",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "55973",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55973\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/IRzQSVdLwdE\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Tsum Tsums Mystery Bag | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "52254",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52254\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/sf9tBmMfFcw\/hqdefault.jpg",
+                        "channel_title": "LEMMiNO",
+                        "type": 2,
+                        "title": "Top 10 Facts - Reddit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56705",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56705\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EL5hcdXu8dc\/hqdefault.jpg",
+                        "channel_title": "LEMMiNO",
+                        "type": 2,
+                        "title": "Top 10 Facts - Music",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56678",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56678\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/qBjYfSh7tZw\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "But Here's What REALLY Happened: The True Story of Clue",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56713",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56713\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/z2Ik9PA4tOI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "DIY Old Fashioned POTATO CANDY & Irish Potatoes Taste Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56699",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56699\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/AsqYW0mRWOQ\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Too Many Cooks vs. Don't Hug Me I'm Scared: Decoding the Disturbing \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-03-19": {
+            "health": {
+                "weight": 79.2,
+                "height": 173,
+                "age": 13606
+            },
+            "nutrition": {
+                "calories": 1465.55,
+                "fat": 95.46,
+                "carbohydrates": 91.37,
+                "protein": 62.02
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 12690
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "56741",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56741\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/rvskMHn0sqQ\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "A Selfish Argument for Making the World a Better Place \u2013 Egoistic Altruism",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "56731",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56731\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/USa3HFLnrlk\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "DIY Digital Spirit Level || Accelerometer Tutorial",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-03-20": {
+            "health": {
+                "weight": 80.1,
+                "height": 173,
+                "age": 13607
+            },
+            "nutrition": {
+                "calories": 1114.28,
+                "fat": 64.81,
+                "carbohydrates": 81.01,
+                "protein": 47.61
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 13631
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "1": {
+                        "id": "56650",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56650\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/125728\/1521219291-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "146: --YOLO",
+                        "duration": "1794"
+                    },
+                    "2": {
+                        "id": "55130",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55130\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/122464\/1520534827-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "145: The Internet is Ruined",
+                        "duration": "2156"
+                    },
+                    "3": {
+                        "id": "53797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53797\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/120016\/1519929680-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "144: Fisher Price\u2122 Tools",
+                        "duration": "1744"
+                    },
+                    "4": {
+                        "id": "55965",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55965\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000317014533-vawelk-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "47. \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043e\u043d\u043b\u0430\u0439\u043d \u0437\u0430\u043b\u0430\u0433\u0430\u043d\u0438\u044f (\u0441 \u042e\u043d\u0443\u0437 \u042e\u043d\u0443\u0437)",
+                        "duration": "8227"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "56812",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56812\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/GdIRXFZXKv8\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "\ud83c\uddfa\ud83c\udde6Emmy Eats UKRAINE - an American's first taste of Ukrainian treats",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-03-20\/20180320_173638.jpg"
+                ]
+            }
+        },
+        "2018-03-21": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13608
+            },
+            "nutrition": {
+                "calories": 1903.6,
+                "fat": 103.05,
+                "carbohydrates": 165.33,
+                "protein": 74.59
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 14979
             },
             "media": {
                 "books": [],
