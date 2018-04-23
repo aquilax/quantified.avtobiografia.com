@@ -23883,12 +23883,59 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 20914
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "1": {
+                        "id": "58402",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58402\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "Glaciers",
+                        "duration": "1654"
+                    },
+                    "2": {
+                        "id": "57700",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57700\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "Sea Levels Rise",
+                        "duration": "1629"
+                    },
+                    "3": {
+                        "id": "58337",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58337\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "Bonus Podcast: Death in Ice Valley",
+                        "duration": "192"
+                    },
+                    "4": {
+                        "id": "58043",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58043\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "Encroaching Deserts",
+                        "duration": "1641"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "58354",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58354\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/ttF07BWAF7o\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #92 - Probably Retreading",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
@@ -23900,20 +23947,535 @@
                 "age": 13639
             },
             "nutrition": {
-                "calories": 2516.89,
-                "fat": 180.05,
+                "calories": 2523.97,
+                "fat": 169.43,
                 "carbohydrates": 129.5,
-                "protein": 98.95
+                "protein": 96.59
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 22385
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "4": {
+                        "id": "54943",
+                        "url": "http:\/\/cast.writtn.com\/episode\/54943\/quantified",
+                        "image": "https:\/\/images.fireside.fm\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/cover.jpg",
+                        "channel_title": "BalloonCast",
+                        "type": 1,
+                        "title": "\u0415\u043f\u0438\u0437\u043e\u0434 103 - Galaxy S9 \u0441 \u0432\u0438\u0441\u043e\u043a\u043e \u0432\u0434\u0438\u0433\u043d\u0430\u0442\u043e \u0447\u0435\u043b\u041e",
+                        "duration": "4671"
+                    },
+                    "5": {
+                        "id": "55843",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55843\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Cooking the Books with Yotam and Nigella",
+                        "duration": "2911"
+                    },
+                    "6": {
+                        "id": "57264",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57264\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Marching on our Stomachs: The Science and History of Feeding the Troops",
+                        "duration": "2975"
+                    },
+                    "7": {
+                        "id": "57988",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57988\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Who Faked My Cheese?",
+                        "duration": "3346"
+                    },
+                    "9": {
+                        "id": "53005",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53005\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/114533\/1518793988-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "143: It's Hard to Have a Secret Rocket",
+                        "duration": "1900"
+                    },
+                    "10": {
+                        "id": "58165",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58165\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/134098\/1523556592-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "150: I Fight For the Users",
+                        "duration": "2847"
+                    },
+                    "13": {
+                        "id": "58431",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58431\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000337169664-j71vho-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "51. \u0411\u0438\u0440\u0430\u0442\u0430 (\u0441 \u042f\u043d\u0430 \u0438 \u0420\u043e\u0441\u0442\u0438\u0441\u043b\u0430\u0432)",
+                        "duration": "7215"
+                    },
+                    "14": {
+                        "id": "57041",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57041\/quantified",
+                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
+                        "channel_title": "Exchanges at Goldman Sachs",
+                        "type": 1,
+                        "title": "In Their Own Words: 10,000 Small Businesses on Challenges to Growth",
+                        "duration": "1828"
+                    },
+                    "15": {
+                        "id": "57758",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57758\/quantified",
+                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
+                        "channel_title": "Exchanges at Goldman Sachs",
+                        "type": 1,
+                        "title": "From Mobile Wallets to Blockchain: How Fintech is Growing Up",
+                        "duration": "1384"
+                    },
+                    "16": {
+                        "id": "58465",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58465\/quantified",
+                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
+                        "channel_title": "Exchanges at Goldman Sachs",
+                        "type": 1,
+                        "title": "Is Bitcoin a (Bursting) Bubble?",
+                        "duration": "1576"
+                    },
+                    "17": {
+                        "id": "58470",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58470\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/5491ba63e4b01aaa7af07490\/5508409fe4b00705aab90691\/5ad875340e2e728c58d59b83\/1524166126078\/1500w\/Web-Thumbnail.png",
+                        "channel_title": "The Artifexian Podcast",
+                        "type": 1,
+                        "title": "AP #31 : Hardy Mountain Children",
+                        "duration": "5687"
+                    },
+                    "18": {
+                        "id": "58138",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58138\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More More or Less: Are We Breathing Unsafe Air?",
+                        "duration": "578"
+                    },
+                    "19": {
+                        "id": "57861",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57861\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Why London\u2019s Murder Rate is Being Compared to New York\u2019s",
+                        "duration": "538"
+                    },
+                    "20": {
+                        "id": "57358",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57358\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: How Deadly Was 1920s Melbourne?",
+                        "duration": "538"
+                    },
+                    "21": {
+                        "id": "57013",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57013\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Were \u2018extra\u2019 votes counted in Russia\u2019s presidential election?",
+                        "duration": "577"
+                    },
+                    "22": {
+                        "id": "56458",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56458\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Factchecking Trump on Trade",
+                        "duration": "571"
+                    },
+                    "23": {
+                        "id": "55118",
+                        "url": "http:\/\/cast.writtn.com\/episode\/55118\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Sir Roger Bannister",
+                        "duration": "560"
+                    },
+                    "24": {
+                        "id": "53882",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53882\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Women, the Oscars and the Bechdel Test",
+                        "duration": "794"
+                    },
+                    "25": {
+                        "id": "53065",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53065\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less:  Debunking guide \u2013 on a postcard",
+                        "duration": "604"
+                    },
+                    "26": {
+                        "id": "53433",
+                        "url": "http:\/\/cast.writtn.com\/episode\/53433\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: The Winter Olympics",
+                        "duration": "661"
+                    },
+                    "27": {
+                        "id": "52987",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52987\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "UN rape claims, Stalin and Mr Darcy",
+                        "duration": "1701"
+                    },
+                    "28": {
+                        "id": "52559",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52559\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "The Dow, Tampons, Parkrun part II",
+                        "duration": "1686"
+                    },
+                    "29": {
+                        "id": "52623",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52623\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Has Russian Drinking Fallen by 80% in five years?",
+                        "duration": "393"
+                    },
+                    "30": {
+                        "id": "52280",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52280\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Is China On Track to End Poverty by 2020?",
+                        "duration": "782"
+                    },
+                    "31": {
+                        "id": "52198",
+                        "url": "http:\/\/cast.writtn.com\/episode\/52198\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Transgender Numbers, Parkrun and Snooker",
+                        "duration": "1874"
+                    },
+                    "32": {
+                        "id": "51897",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51897\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Is the US Census Under Threat?",
+                        "duration": "544"
+                    },
+                    "33": {
+                        "id": "51793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51793\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "A Girl's First Time, Shark's Stomachs, Prime numbers",
+                        "duration": "1426"
+                    },
+                    "34": {
+                        "id": "51535",
+                        "url": "http:\/\/cast.writtn.com\/episode\/51535\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Real Lives Behind the Numbers",
+                        "duration": "538"
+                    },
+                    "35": {
+                        "id": "58504",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58504\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: How Should We Think About Spending?",
+                        "duration": "538"
+                    },
+                    "39": {
+                        "id": "58541",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58541\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "1. The Isdal Woman",
+                        "duration": "1946"
+                    },
+                    "40": {
+                        "id": "58542",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58542\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "The Preview: Clues and Riddles",
+                        "duration": "204"
+                    },
+                    "41": {
+                        "id": "174",
+                        "url": "http:\/\/cast.writtn.com\/episode\/174\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/530e5496e4b0ec7156b1d99f\/1462385316610\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #5: Freebooting",
+                        "duration": "4953"
+                    },
+                    "42": {
+                        "id": "175",
+                        "url": "http:\/\/cast.writtn.com\/episode\/175\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5303d0d2e4b0702c09b6266e\/1462385328502\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #4: Feedback on Feedback",
+                        "duration": "5696"
+                    },
+                    "43": {
+                        "id": "176",
+                        "url": "http:\/\/cast.writtn.com\/episode\/176\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/52fa6a6fe4b071a64a897add\/1462385347917\/1500w\/Hello+Internet.003.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #3: Four Light Bulbs",
+                        "duration": "2885"
+                    },
+                    "44": {
+                        "id": "177",
+                        "url": "http:\/\/cast.writtn.com\/episode\/177\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/52f53e2be4b0b19928bdb72c\/1462385368667\/1500w\/Hello+Internet+Small.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #2: Copyright Not Intended",
+                        "duration": "3372"
+                    },
+                    "45": {
+                        "id": "178",
+                        "url": "http:\/\/cast.writtn.com\/episode\/178\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/52ebe9a1e4b0fcbf56ea38b8\/1462385388877\/1500w\/Hello+Internet.003.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #1: Being Wrong on The Internet",
+                        "duration": "2325"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "58509",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58509\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8Cm8WPwfiHA\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Storybook Weaver Deluxe: More Text-To-Speech Mayhem",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "57364",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57364\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5wTG7KUnqFU\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "This is a bit random - Vintage Random Number Generator",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "56948",
+                        "url": "http:\/\/cast.writtn.com\/episode\/56948\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/rZZ5x80h3B4\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "The RECORD RUNNER",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "58516",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58516\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Cb6DOjZkvQc\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Pocket Rockers  - 1980s endless loop tapes for kids",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "58131",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58131\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zB2tYqUXkQ8\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "EA*KIDS: EA's Brief Foray into Video Game Edutainment - PushingUpRoses",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "57088",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57088\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/sFg2rYQj1SE\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Tom Clancy's Fortnite",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "58438",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58438\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NB9EqUiLhq4\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "A Way Out",
+                        "duration": "0"
+                    },
+                    "36": {
+                        "id": "58455",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58455\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7WQdBSWfixI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "BANANA KETCHUP & LUMPIA SHANGHAI Recipe TASTE TEST",
+                        "duration": "0"
+                    },
+                    "37": {
+                        "id": "57724",
+                        "url": "http:\/\/cast.writtn.com\/episode\/57724\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/qFezqz2Wcdo\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Show 'N Tell - 1960s Children's Multimedia System",
+                        "duration": "0"
+                    },
+                    "38": {
+                        "id": "58332",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58332\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/nPzeglKFgMs\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Laser Games - Like a giant colour Vectrex that can blind you",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-04-22": {
+            "health": {
+                "weight": 79,
+                "height": 173,
+                "age": 13640
+            },
+            "nutrition": {
+                "calories": 3064.71,
+                "fat": 202.47,
+                "carbohydrates": 163.06,
+                "protein": 112.92
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 31325
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "1": {
+                        "id": "167",
+                        "url": "http:\/\/cast.writtn.com\/episode\/167\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5372330ae4b095f55e6f50d2\/1462385181046\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #12: Hamburgers in the Pipes",
+                        "duration": "5926"
+                    },
+                    "2": {
+                        "id": "168",
+                        "url": "http:\/\/cast.writtn.com\/episode\/168\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53601f78e4b0ec04b0fd30f5\/1462385207614\/1500w\/Hello+Internet.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #11: Stream of Irrelevancy",
+                        "duration": "7016"
+                    },
+                    "3": {
+                        "id": "169",
+                        "url": "http:\/\/cast.writtn.com\/episode\/169\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5356827fe4b078fcf096a0b5\/1462385218512\/1500w\/Hello+Internet.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #10: Two Dudes Talking",
+                        "duration": "5661"
+                    },
+                    "4": {
+                        "id": "170",
+                        "url": "http:\/\/cast.writtn.com\/episode\/170\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/534dbd80e4b0c0645e805563\/1462385235243\/1500w\/Hello+Internet.003.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #9: Kids in a Box",
+                        "duration": "5376"
+                    },
+                    "5": {
+                        "id": "171",
+                        "url": "http:\/\/cast.writtn.com\/episode\/171\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5339545de4b029d638514371\/1462385252100\/1500w\/Hello+Internet.003.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #8: First World YouTuber Problems",
+                        "duration": "5175"
+                    },
+                    "6": {
+                        "id": "172",
+                        "url": "http:\/\/cast.writtn.com\/episode\/172\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5326fee5e4b0fe7a8e46a7ee\/1462385271407\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #7: Sorry, Language Teachers",
+                        "duration": "5774"
+                    },
+                    "7": {
+                        "id": "173",
+                        "url": "http:\/\/cast.writtn.com\/episode\/173\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/531e120de4b0a09d95869026\/1462385289675\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #6: Delete, Flag, Delete, Reply",
+                        "duration": "5437"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "58556",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58556\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/digNELTRIbY\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "CAST IRON Pans 101 | How to season, wash & restore",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
