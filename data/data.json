@@ -24495,7 +24495,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 15391
             },
             "media": {
                 "books": [],
@@ -24569,6 +24569,31 @@
                 "photos": [
                     "\/photos\/2018-04-23\/IMG_20180423_180501704.jpg"
                 ]
+            }
+        },
+        "2018-04-24": {
+            "health": {
+                "weight": 78.7,
+                "height": 173,
+                "age": 13642
+            },
+            "nutrition": {
+                "calories": 1763.95,
+                "fat": 130.07,
+                "carbohydrates": 80.5,
+                "protein": 68.23
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 15459
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
             }
         }
     }
