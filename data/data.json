@@ -24605,10 +24605,10 @@
                 "age": 13643
             },
             "nutrition": {
-                "calories": 1578.35,
-                "fat": 115.55,
-                "carbohydrates": 74.8,
-                "protein": 57.1
+                "calories": 1561.55,
+                "fat": 114.65,
+                "carbohydrates": 73.45,
+                "protein": 56.14
             },
             "exercise": {
                 "pushups": 0,
@@ -24617,11 +24617,158 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "159",
+                        "url": "http:\/\/cast.writtn.com\/episode\/159\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/540de9c2e4b0182312f23f23\/1462384930328\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #20: Reverse Finger Trap",
+                        "duration": "9145"
+                    },
+                    {
+                        "id": "160",
+                        "url": "http:\/\/cast.writtn.com\/episode\/160\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53f1de60e4b012df005cc131\/1462384970486\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #19: Pit of Doom",
+                        "duration": "6183"
+                    },
+                    {
+                        "id": "161",
+                        "url": "http:\/\/cast.writtn.com\/episode\/161\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53ea19dce4b07445d5a1b6e6\/1462384997049\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #18: Monkey Copyright",
+                        "duration": "6986"
+                    },
+                    {
+                        "id": "162",
+                        "url": "http:\/\/cast.writtn.com\/episode\/162\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53ceb177e4b03e5918e59fcc\/1462385047343\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #17: Mister Phoenix",
+                        "duration": "5737"
+                    },
+                    {
+                        "id": "163",
+                        "url": "http:\/\/cast.writtn.com\/episode\/163\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53c4f1ade4b0dadc9917a631\/1462385085232\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #16: The Worst Topic for a Podcast",
+                        "duration": "7119"
+                    },
+                    {
+                        "id": "164",
+                        "url": "http:\/\/cast.writtn.com\/episode\/164\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53a9aedde4b001f73fe83bb1\/1462385122290\/1500w\/Hello+Internet.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #15: Books Made of Paper",
+                        "duration": "6834"
+                    },
+                    {
+                        "id": "165",
+                        "url": "http:\/\/cast.writtn.com\/episode\/165\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/53974e3ce4b04c5c0976ffa9\/1462385141935\/1500w\/Hello+Internet.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #14: How Humans Work",
+                        "duration": "7060"
+                    },
+                    {
+                        "id": "166",
+                        "url": "http:\/\/cast.writtn.com\/episode\/166\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5385e123e4b0d7fa576fbf78\/1462385163241\/1500w\/Hello+Internet.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #13: Nobody Owns the Facts",
+                        "duration": "5942"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-04-25\/20180425_181143.jpg"
+                ]
+            }
+        },
+        "2018-04-26": {
+            "health": {
+                "weight": 78.8,
+                "height": 173,
+                "age": 13644
+            },
+            "nutrition": {
+                "calories": 1455.84,
+                "fat": 55.96,
+                "carbohydrates": 201.65,
+                "protein": 36.15
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "2": {
+                        "id": "158",
+                        "url": "http:\/\/cast.writtn.com\/episode\/158\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/541d8f63e4b0a6db313583f4\/1462384887354\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #21: Cave Troll in Your Pocket",
+                        "duration": "7796"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "58674",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58674\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9mXDz2rYeh4\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Watchmen vs. One Punch Man: How To Destroy A Hero (Satire vs. Parody) \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "58739",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58739\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/WmeqkWBcALU\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Wet Dreams",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "58717",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58717\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xpT8zIe2QWk\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #93 - There Is No Use Key",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "58753",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58753\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QhWdBhc3Wjc\/hqdefault.jpg",
+                        "channel_title": "Mark Brown",
+                        "type": 2,
+                        "title": "The World Design of Dark Souls | Boss Keys",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-04-26\/20180426_181320.jpg"
                 ]
             }
         }
