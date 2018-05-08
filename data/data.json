@@ -25312,7 +25312,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 22697
             },
             "media": {
                 "books": [],
@@ -25449,7 +25449,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 36414
             },
             "media": {
                 "books": [],
@@ -25476,7 +25476,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 24285
             },
             "media": {
                 "books": [],
@@ -25647,7 +25647,37 @@
                     }
                 ],
                 "movies": [],
-                "photos": []
+                "photos": [
+                    "\/photos\/2018-05-06\/20180506_182048.jpg"
+                ]
+            }
+        },
+        "2018-05-07": {
+            "health": {
+                "weight": 78.1,
+                "height": 173,
+                "age": 13655
+            },
+            "nutrition": {
+                "calories": 1968.64,
+                "fat": 121.48,
+                "carbohydrates": 153.19,
+                "protein": 68
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-05-07\/20180507_182226.jpg",
+                    "\/photos\/2018-05-07\/IMG_20180507_073919428.jpg"
+                ]
             }
         }
     }
