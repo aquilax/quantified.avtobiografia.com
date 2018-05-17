@@ -25891,7 +25891,125 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "59223",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59223\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/142362\/1525367486-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "152: I Look For Stories (Nickolas Means)",
+                        "duration": "1873"
+                    },
+                    {
+                        "id": "58814",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58814\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/139464\/1524799831-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "151: Scheming About Schema",
+                        "duration": "2111"
+                    },
+                    {
+                        "id": "59368",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59368\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "4. Telltale Tooth",
+                        "duration": "2135"
+                    },
+                    {
+                        "id": "59008",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59008\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "3. The Remote Archive",
+                        "duration": "1987"
+                    },
+                    {
+                        "id": "58613",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58613\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "2. A Case of Clues",
+                        "duration": "1927"
+                    },
+                    {
+                        "id": "112",
+                        "url": "http:\/\/cast.writtn.com\/episode\/112\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/578d58a9e6f2e118be2e6090\/1468933392675\/1500w\/Hello+Internet+slides.146.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #66: A Classic Episode",
+                        "duration": "7012"
+                    },
+                    {
+                        "id": "115",
+                        "url": "http:\/\/cast.writtn.com\/episode\/115\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/573c9e70f8baf3591b0570d9\/1463658538640\/1500w\/Hello+Internet+slides.139.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #63: One in Five Thousand",
+                        "duration": "7445"
+                    },
+                    {
+                        "id": "116",
+                        "url": "http:\/\/cast.writtn.com\/episode\/116\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5723680860b5e97577d561c6\/1461943454474\/1500w\/Hello+Internet+slides.138.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #62: Cheer Pressure",
+                        "duration": "5990"
+                    },
+                    {
+                        "id": "117",
+                        "url": "http:\/\/cast.writtn.com\/episode\/117\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5717d00520c6470ae10b9a2f\/1462383003098\/1500w\/Hello+Internet+slides.136.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #61: Tesla and King Tut",
+                        "duration": "6632"
+                    },
+                    {
+                        "id": "118",
+                        "url": "http:\/\/cast.writtn.com\/episode\/118\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/56fbb3fd4c2f8569d96c73c6\/1462383031752\/1500w\/Hello+Internet+slides.134.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #60: The Beautiful Game",
+                        "duration": "5808"
+                    },
+                    {
+                        "id": "119",
+                        "url": "http:\/\/cast.writtn.com\/episode\/119\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/56f2a0f362cd94938da23c6c\/1462383104642\/1500w\/Hello+Internet+slides.131.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #59: Consumed by Donkey Kong ",
+                        "duration": "7630"
+                    },
+                    {
+                        "id": "120",
+                        "url": "http:\/\/cast.writtn.com\/episode\/120\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/56d4b03ce32140fc7fce8d77\/1462383133073\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #58: Hawk & Mouse",
+                        "duration": "6164"
+                    },
+                    {
+                        "id": "121",
+                        "url": "http:\/\/cast.writtn.com\/episode\/121\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/56c4d48a2fe131b524a9c261\/1462383193731\/1500w\/",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #57: Podcasters React",
+                        "duration": "7569"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": [
@@ -25918,8 +26036,55 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "2": {
+                        "id": "59529",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59529\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000346464990-lex6ww-original.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "54. Google I\/O (feat. \u0418\u043b\u0438\u044f \u0422\u0435\u043c\u0435\u043b\u043a\u043e\u0432 - Soregashi)",
+                        "duration": "8933"
+                    },
+                    "3": {
+                        "id": "59182",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59182\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000343627557-bio0fu-original.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "53. IT \u043b\u0438\u0434\u0435\u0440\u0441\u0442\u0432\u043e \u0438 \u043c\u0435\u043d\u0438\u0434\u0436\u043c\u044a\u043d\u0442 (\u0441\u044a\u0441 \u0421\u0442\u0435\u0444\u0430\u043d \u041a\u044a\u043d\u0435\u0432 \u0438 \u0421\u0435\u0440\u0436 \u041e\u0432\u0430\u043d\u0435\u0441\u044f\u043d)",
+                        "duration": "9956"
+                    },
+                    "4": {
+                        "id": "59106",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59106\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 68: A Noble Profession",
+                        "duration": "4631"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "59376",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59376\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/mBnpwLOlcKo\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Agar SPHERIFICATION | DIY  Edible Jelly Orbeez - KITCHEN SCIENCE | Molecular Gastronomy",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59571",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59571\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QDk-xa1oBXw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "GRAPEFRUIT PEEL STEAK Bistec de Toronja | HARD TIMES - recipes from times of food scarcity",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-05-11\/20180511_180739.jpg"
@@ -25945,8 +26110,199 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": [
+                    {
+                        "id": "59511",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59511\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/5491ba63e4b01aaa7af07490\/5508409fe4b00705aab90691\/5af33f5a70a6adbb11607ed0\/1525892290764\/1500w\/Web-Thumbnail.png",
+                        "channel_title": "The Artifexian Podcast",
+                        "type": 1,
+                        "title": "AP #32 : Worldbilling",
+                        "duration": "5821"
+                    },
+                    {
+                        "id": "4821",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4821\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 2: Redundant Office",
+                        "duration": "4487"
+                    },
+                    {
+                        "id": "4822",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4822\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 1: I Don't Really Like Work",
+                        "duration": "5211"
+                    },
+                    {
+                        "id": "1632",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1632\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/11191\/1430772597-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "13: Begrudging Applause (Aaron Patterson)",
+                        "duration": "3207"
+                    },
+                    {
+                        "id": "1633",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1633\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/10518\/1429292510-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "12: A Poor Man's binding.pry",
+                        "duration": "1915"
+                    },
+                    {
+                        "id": "1634",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1634\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/9885\/1428083112-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "11: Form-ing Opinions",
+                        "duration": "2239"
+                    },
+                    {
+                        "id": "1635",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1635\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/9377\/1426785406-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "10: I Don't Get Functional Programming",
+                        "duration": "2435"
+                    },
+                    {
+                        "id": "1636",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1636\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/8905\/1425591030-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "9: Monorails, For the Kids",
+                        "duration": "2077"
+                    },
+                    {
+                        "id": "1637",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1637\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/7880\/1424456397-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "8: Attributes API, Relation#or, Paid Open Source",
+                        "duration": "2249"
+                    },
+                    {
+                        "id": "1638",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1638\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/7232\/1422631435-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "7: At the Car Wash",
+                        "duration": "2932"
+                    },
+                    {
+                        "id": "1639",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1639\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/6707\/1421426011-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "6: Shh! Library Under Maintenance",
+                        "duration": "2532"
+                    },
+                    {
+                        "id": "1640",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1640\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/6265\/1420044155-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "5: Rails is Not Your Architecture",
+                        "duration": "2350"
+                    },
+                    {
+                        "id": "1641",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1641\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/6079\/1418412309-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "4: Put Everything on the Front End",
+                        "duration": "2300"
+                    },
+                    {
+                        "id": "1642",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1642\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/5881\/1416929928-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "3: Flipping the Script",
+                        "duration": "1537"
+                    },
+                    {
+                        "id": "1643",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1643\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/5536\/1416236743-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "2: Rails 4.2",
+                        "duration": "2151"
+                    },
+                    {
+                        "id": "1644",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1644\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/5277\/1414767229-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "1: Sandi & Derek's Rules",
+                        "duration": "1668"
+                    }
+                ],
+                "youtube": {
+                    "16": {
+                        "id": "59603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59603\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/rD8i5zwtOmc\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Review of the new Toshiba Aurex \u2018Hi-Res Cassette deck\u2019",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "59674",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59674\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BpXFB8ZEH30\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Commodore History Part 3 - The Commodore 64 (complete)",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "59473",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59473\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/sH2J_hhjrao\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #95 - Cat!",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "59675",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59675\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4cBxBOLL3zw\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 237 - Boppin'",
+                        "duration": "0"
+                    },
+                    "20": {
+                        "id": "58175",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58175\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LHAFYrw6onM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 234 - Kid's Zoo: A Baby Animal Adventure",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-05-12\/20180512_163559.jpg"
@@ -25972,7 +26328,116 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "1620",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1620\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/14704\/1438094820-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "25: Throwing the Schema Out With the SOAPy Bathwater (Gordon Fontenot)",
+                        "duration": "3071"
+                    },
+                    {
+                        "id": "1621",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1621\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/14292\/1437439316-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "24: You Look Good in a Lab Coat (Richard Schneeman)",
+                        "duration": "2464"
+                    },
+                    {
+                        "id": "1622",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1622\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/14116\/1436897502-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "23: Why Did They Call it Rust?!",
+                        "duration": "2589"
+                    },
+                    {
+                        "id": "1623",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1623\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/13888\/1436279627-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "22: No Capes! (Eileen Uchitelle)",
+                        "duration": "2292"
+                    },
+                    {
+                        "id": "1624",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1624\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/13549\/1435615052-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "21: The \"Best\" Canada (Godfrey Chan)",
+                        "duration": "1418"
+                    },
+                    {
+                        "id": "1625",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1625\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/13282\/1435066882-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "20: Intentionally Excruciatingly Painful",
+                        "duration": "2462"
+                    },
+                    {
+                        "id": "1626",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1626\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/13093\/1434465524-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "19: The Oncoming Storm (Sam Phippen)",
+                        "duration": "1751"
+                    },
+                    {
+                        "id": "1627",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1627\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/12940\/1433871825-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "18: This Podcast is Rigged (But Not Animated)",
+                        "duration": "2354"
+                    },
+                    {
+                        "id": "1628",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1628\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/12743\/1433217754-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "17: Railing About Performance (Sam Saffron)",
+                        "duration": "2806"
+                    },
+                    {
+                        "id": "1629",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1629\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/12600\/1432737461-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "16: Wizards Are Hard to Kill",
+                        "duration": "2200"
+                    },
+                    {
+                        "id": "1630",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1630\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/11908\/1431987999-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "15: Might As Well Be About Trains (Sarah Mei)",
+                        "duration": "1878"
+                    },
+                    {
+                        "id": "1631",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1631\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/11459\/1431440323-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "14: An Acceptable Level of Hassle (David Heinemeier Hansson)",
+                        "duration": "3271"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": [
@@ -26001,7 +26466,89 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "59365",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59365\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Of9GOMM9HPg\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Nintendo Labo",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59445",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59445\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5r90DYjZ76g\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "Guam: Why America's Most Isolated Territory Exists",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59266",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59266\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/tUlOqNRDWGw\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Horrifying Gloobee Dolls | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59568",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59568\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/G-GHWm8-PBA\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Galaxy Wars Tattoos | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59631",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59631\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/wm5omDCENPo\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "HP iPAQ RX1955 - The 2005 Windows Pocket PC Experience",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59710",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59710\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/163Cb1bAW7U\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Author Who Tried to END The World (Watchmen \/ Alan Moore) \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59865",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59865\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KvXPag06a5c\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Lid prototype, glass stones, and ceramic tile Iso-path board (1 of 2)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59731",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59731\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iFFuR6354P4\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "\ud83c\udde8\ud83c\udde6KITKATS \ud83c\udde8\ud83c\udde6 & AERO Bar Unboxing - my first taste of 13 flavors of Canadian KitKat Bars",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "59861",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59861\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5R_QCurh_iM\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Creating a Boost Converter WITHOUT a Microcontroller",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
@@ -26025,8 +26572,188 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "1604",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1604\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/21212\/1448408823-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "41: Ugh, I Have to Write Web Apps in This Thing",
+                        "duration": "2125"
+                    },
+                    {
+                        "id": "1605",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1605\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/20314\/1447781604-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "40: ActiveRecord Deprecated Persistence",
+                        "duration": "2062"
+                    },
+                    {
+                        "id": "1606",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1606\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/19968\/1447254216-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "39: Okay with Instability (Yehuda Katz)",
+                        "duration": "4030"
+                    },
+                    {
+                        "id": "1607",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1607\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/19487\/1446500573-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "38: Ugh, Forms",
+                        "duration": "2433"
+                    },
+                    {
+                        "id": "1608",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1608\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/19300\/1446064903-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "37: The Web is Faster Without Garbage",
+                        "duration": "2655"
+                    },
+                    {
+                        "id": "1609",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1609\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/18464\/1444855955-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "36: Python Unchained",
+                        "duration": "3006"
+                    },
+                    {
+                        "id": "1610",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1610\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/18161\/1444229140-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "35: GitHub Ate My R\u00e9sum\u00e9",
+                        "duration": "2412"
+                    },
+                    {
+                        "id": "1611",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1611\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/17866\/1443622862-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "34: README.md",
+                        "duration": "2327"
+                    },
+                    {
+                        "id": "1612",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1612\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/17544\/1442950625-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "33: Just Put it in a Module, Man",
+                        "duration": "2423"
+                    },
+                    {
+                        "id": "1613",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1613\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/17282\/1442327616-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "32: Bug For Bug Compatibility",
+                        "duration": "3036"
+                    },
+                    {
+                        "id": "1614",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1614\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/17063\/1441896081-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "31: Oxidizing an ORM",
+                        "duration": "2904"
+                    },
+                    {
+                        "id": "1615",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1615\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/16292\/1441211092-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "30: Just Go to Slash Wibble",
+                        "duration": "2786"
+                    },
+                    {
+                        "id": "1616",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1616\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/16052\/1440529016-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "29: Django Unchained (Mike Burns)",
+                        "duration": "1406"
+                    },
+                    {
+                        "id": "1617",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1617\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/15484\/1439908955-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "28: Minisode 0.1.1",
+                        "duration": "557"
+                    },
+                    {
+                        "id": "1618",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1618\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/15290\/1439413304-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "27: I've Got 29.97 Problems (and codecs are some)",
+                        "duration": "2636"
+                    },
+                    {
+                        "id": "1619",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1619\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/14861\/1438703563-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "26: My Cache is in the Cloud",
+                        "duration": "2039"
+                    }
+                ],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-05-16": {
+            "health": {
+                "weight": 78.7,
+                "height": 173,
+                "age": 13664
+            },
+            "nutrition": {
+                "calories": 1180.23,
+                "fat": 66.77,
+                "carbohydrates": 67.74,
+                "protein": 80.28
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "60002",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60002\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/20t9taIroaY\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #96 - Full Maximized Windows",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
