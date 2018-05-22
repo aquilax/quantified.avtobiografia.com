@@ -26808,8 +26808,271 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": {
+                    "0": {
+                        "id": "1579",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1579\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/39129\/1465335339-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "66: Make Ruby Scripting Great Again (Terence Lee)",
+                        "duration": "2371"
+                    },
+                    "1": {
+                        "id": "1580",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1580\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/38323\/1464137684-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "65: Free as in Puppy (Katrina Owen)",
+                        "duration": "2752"
+                    },
+                    "2": {
+                        "id": "1581",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1581\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/37807\/1463519737-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "64: Open Mic SF",
+                        "duration": "3311"
+                    },
+                    "3": {
+                        "id": "1582",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1582\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/37431\/1462926288-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "63: Types Are Only Good If You Use Them",
+                        "duration": "2296"
+                    },
+                    "4": {
+                        "id": "1583",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1583\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/37016\/1462324347-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "62: Shipping is the Fastest Way to Get Somewhere",
+                        "duration": "2056"
+                    },
+                    "5": {
+                        "id": "1584",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1584\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/36469\/1461723030-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "61: I'm Not Telling You My Birthday",
+                        "duration": "1864"
+                    },
+                    "6": {
+                        "id": "1585",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1585\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/35887\/1461125691-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "60: Remote Control (Katherine Fellows)",
+                        "duration": "2282"
+                    },
+                    "7": {
+                        "id": "1586",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1586\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/35132\/1460496591-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "59: I Wish They Wouldn't Do That",
+                        "duration": "2459"
+                    },
+                    "8": {
+                        "id": "1587",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1587\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/34726\/1459910523-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "58: Nobody Gets Fired For Buying IBM",
+                        "duration": "2736"
+                    },
+                    "9": {
+                        "id": "1588",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1588\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/33945\/1459293269-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "57: Mutability Ruins the Whole Party (Jos\u00e9 Valim)",
+                        "duration": "3350"
+                    },
+                    "10": {
+                        "id": "1589",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1589\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/32885\/1458681214-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "56: Most People Aren't Building Trello",
+                        "duration": "2333"
+                    },
+                    "11": {
+                        "id": "1590",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1590\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/28535\/1457465461-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "55: Hot Dog is Not a Dessert",
+                        "duration": "2454"
+                    },
+                    "12": {
+                        "id": "1591",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1591\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/28027\/1456870925-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "54: Argument Error",
+                        "duration": "2545"
+                    },
+                    "13": {
+                        "id": "1592",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1592\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/27556\/1456262276-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "53: Cache Machine",
+                        "duration": "2608"
+                    },
+                    "14": {
+                        "id": "1593",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1593\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/26938\/1455685295-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "52: You're an Elixir Developer Now",
+                        "duration": "2791"
+                    },
+                    "19": {
+                        "id": "1594",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1594\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/26106\/1455067705-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "51: Is Sim City Running? (Steve Klabnik)",
+                        "duration": "2636"
+                    },
+                    "20": {
+                        "id": "1595",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1595\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/25713\/1454452613-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "50: Open Mic",
+                        "duration": "1710"
+                    },
+                    "21": {
+                        "id": "1596",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1596\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/24840\/1453848507-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "49: A More Practical Haskell",
+                        "duration": "2080"
+                    },
+                    "22": {
+                        "id": "1597",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1597\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/24575\/1453391529-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "48: Is Everyone Trying Their Best?",
+                        "duration": "2084"
+                    },
+                    "23": {
+                        "id": "1598",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1598\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/24297\/1452634439-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "47: Star Wars Oranges",
+                        "duration": "3252"
+                    },
+                    "24": {
+                        "id": "1599",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1599\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/24081\/1452106741-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "46: Don't Breathe, Save the Planet",
+                        "duration": "2054"
+                    },
+                    "25": {
+                        "id": "1600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1600\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/23543\/1450815940-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "45: I Think I'd Prefer An Error to Nonsense",
+                        "duration": "2877"
+                    },
+                    "26": {
+                        "id": "1601",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1601\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/23115\/1450301949-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "44: It Won't Crash... It Might Crash",
+                        "duration": "2849"
+                    },
+                    "27": {
+                        "id": "1602",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1602\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/22209\/1449674107-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "43: That's DOCTOR Internet Technologist",
+                        "duration": "3043"
+                    },
+                    "28": {
+                        "id": "1603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1603\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/21516\/1449073954-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "42: That's Incredibly Ambitious (Grayson Wright)",
+                        "duration": "2252"
+                    }
+                },
+                "youtube": {
+                    "15": {
+                        "id": "59920",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59920\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Lbx7KNbKsqc\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Exploring the Need For Speed Porsche Unleashed TEXACO Demos",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "59935",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59935\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/K39_zWn2ZVQ\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "FRY BREAD & Navajo TACOS | HARD TIMES - recipes from times of food scarcity",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "60035",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60035\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HXe9iZQpJ1M\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why Israelis and Palestinians both claim Jerusalem",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "60077",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60077\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cC8aqfAWupg\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Rare Vintage HiFi: Pioneer SD-1000 Stereo Display Scope",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
@@ -26833,7 +27096,170 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "4820",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4820\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 3: Good for Brain Health",
+                        "duration": "5532"
+                    },
+                    {
+                        "id": "60117",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60117\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/147894\/1526620146-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "154: We All Have Work to Do (Eileen Uchitelle)",
+                        "duration": "2467"
+                    },
+                    {
+                        "id": "59591",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59591\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/144655\/1525964079-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "153: \ud83c\udfb6 I Would Lose 3,000 Crates, and I Would Lose 12,000 More \ud83c\udfb6",
+                        "duration": "2202"
+                    },
+                    {
+                        "id": "1567",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1567\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/46565\/1473357229-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "78: I'm an Adult and I Choose Java",
+                        "duration": "3011"
+                    },
+                    {
+                        "id": "1566",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1566\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/47265\/1473802710-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "79: Comments in Your Queries",
+                        "duration": "2478"
+                    },
+                    {
+                        "id": "1565",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1565\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/47945\/1474431313-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": " 80: Back to the Futures",
+                        "duration": "2340"
+                    },
+                    {
+                        "id": "1564",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1564\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/48629\/1474994225-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "81: Is This Really a CVE?",
+                        "duration": "1641"
+                    },
+                    {
+                        "id": "1568",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1568\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/45627\/1472585534-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "77: The Floors Are Not Zero Indexed",
+                        "duration": "1972"
+                    },
+                    {
+                        "id": "1569",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1569\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/44701\/1471378535-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "76: The One With Laila & Brenda",
+                        "duration": "2458"
+                    },
+                    {
+                        "id": "1570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1570\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/44363\/1470863266-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "75: I'm Not Sure That's Better",
+                        "duration": "2029"
+                    },
+                    {
+                        "id": "1571",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1571\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/43848\/1470235878-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "74: A Dip in the Connection Pool",
+                        "duration": "2088"
+                    },
+                    {
+                        "id": "1572",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1572\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/43366\/1469643506-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "73: Probably In My Other Pants",
+                        "duration": "2611"
+                    },
+                    {
+                        "id": "1573",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1573\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/42695\/1469026677-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "72: Surprises Cut For Time (Aaron Patterson)",
+                        "duration": "2608"
+                    },
+                    {
+                        "id": "1574",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1574\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/42285\/1468354448-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "71: It's a Total Hack",
+                        "duration": "2545"
+                    },
+                    {
+                        "id": "1575",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1575\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/41380\/1467748958-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "70: Make Small Things (Sandi Metz)",
+                        "duration": "3861"
+                    },
+                    {
+                        "id": "1576",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1576\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/40924\/1467137687-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "69: No More Drills",
+                        "duration": "2431"
+                    },
+                    {
+                        "id": "1577",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1577\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/40561\/1466606116-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "68: Mostly Undocumented",
+                        "duration": "1989"
+                    },
+                    {
+                        "id": "1578",
+                        "url": "http:\/\/cast.writtn.com\/episode\/1578\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/39902\/1466004384-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "67: Longtime Listener, First Time Caller (Rafael Franca)",
+                        "duration": "2370"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": []
@@ -26850,6 +27276,104 @@
                 "fat": 280.4,
                 "carbohydrates": 304.21,
                 "protein": 143.1
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "59350",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59350\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Exposing the biases we have of the world",
+                        "duration": "588"
+                    },
+                    {
+                        "id": "59254",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59254\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Cancer screening, the Windrush Generation, Audiograms",
+                        "duration": "1429"
+                    },
+                    {
+                        "id": "58925",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58925\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Puerto Rico - statistics versus politics",
+                        "duration": "638"
+                    },
+                    {
+                        "id": "58861",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58861\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Straws, women on boards, plus animals born each day",
+                        "duration": "1422"
+                    },
+                    {
+                        "id": "59633",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59633\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Abortion, modern slavery, math versus maths",
+                        "duration": "1406"
+                    },
+                    {
+                        "id": "59891",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59891\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Tulipmania mythology",
+                        "duration": "664"
+                    },
+                    {
+                        "id": "60147",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60147\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Poverty, Progress 8 and how green is grass?",
+                        "duration": "1440"
+                    },
+                    {
+                        "id": "60092",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60092\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000349447926-7cw0yh-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "55. \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u0441\u044a\u0441\u0442\u0435\u0437\u0430\u043d\u0438\u044f",
+                        "duration": "8161"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-05-21": {
+            "health": {
+                "weight": 78.5,
+                "height": 173,
+                "age": 13669
+            },
+            "nutrition": {
+                "calories": 1655.55,
+                "fat": 106.56,
+                "carbohydrates": 81.53,
+                "protein": 93.14
             },
             "exercise": {
                 "pushups": 0,
