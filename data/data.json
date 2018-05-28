@@ -27476,13 +27476,458 @@
                 "steps": 0
             },
             "media": {
-                "books": [],
-                "podcast": [],
-                "youtube": [],
+                "books": [
+                    {
+                        "id": "13589182",
+                        "title": "Mastery",
+                        "author": "Robert Greene",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2132605370?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1348274726l\/13589182.jpg",
+                        "user_rating": 2,
+                        "marked_as_read": "2018-05-24T15:57:41+00:00"
+                    }
+                ],
+                "podcast": {
+                    "0": {
+                        "id": "60398",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60398\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "6. Spycatcher",
+                        "duration": "1931"
+                    },
+                    "1": {
+                        "id": "59925",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59925\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "5. The Penguin",
+                        "duration": "1968"
+                    },
+                    "14": {
+                        "id": "60487",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60487\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 69: Minimum Viable",
+                        "duration": "5891"
+                    }
+                },
+                "youtube": {
+                    "2": {
+                        "id": "59876",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59876\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YI3tsmFsrOg\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "The Deadliest Being on Planet Earth \u2013 The Bacteriophage",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "60318",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60318\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JgQ-07VgJuY\/hqdefault.jpg",
+                        "channel_title": "Primitive Technology",
+                        "type": 2,
+                        "title": "Primitive Technology: Blower and charcoal",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "60160",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60160\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UIZgzbtg5j8\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "The 1980's Maths Teachers' Enemy - CASIO NUMBER INVADERS are back",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "60319",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60319\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/b5aUF8aaFg8\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making an anti-seizure medication from almond oil and urine (re-uploaded)",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "60333",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60333\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vDYnxxUV4Nk\/hqdefault.jpg",
+                        "channel_title": "Clickspring",
+                        "type": 2,
+                        "title": "The Antikythera Mechanism Episode 7 - Making The Saros & Exeligmos Train",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "60339",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60339\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/STwYJr3AHRU\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "HACKED!: Powerbank gets a Fast Charge Feature",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "60345",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60345\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zFtsSIzPC3s\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Poundland Special: Royal Wedding Finger Cars VlogStar | Ashens",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "60388",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60388\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZjS6rLKnU0c\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Unreal 20 Years Later: A Retrospective",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "60153",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60153\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Fh0Td6jXC58\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Thrifts [Ep.39] The Junk Shop",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "60120",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60120\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4QenHVGMK6s\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Crown ROAST of FRANKFURTERS Retro Recipe Weight Watchers c. 1969",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "60331",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60331\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Lxlmv9txJ-g\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "SPAM FRIES - crispy breaded meat fries | You Made What?!",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "60408",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60408\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YhkYQX-mHvM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "1984 Food Packet Survival, General Purpose | U.S. AIR FORCE Pilot Emergency MRE RATION TASTE TEST",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "60320",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60320\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/y5yQXtUeyUY\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Hidden Meaning in Team America: World Police \u2013 Earthling Cinema",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "60467",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60467\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NZN9uq6d8qA\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Is DEADPOOL 2 a Two-Hour \"LOGAN\" Joke? \u2013 Wisecrack Quick Take",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "60482",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60482\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_rjjCkcXknE\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "The Worst VIC-20 Ever - Part 2",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "60494",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60494\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/V7EcSfpGTIs\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #97 - Who Needs Backspace?",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "59982",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59982\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jGZagqJ833c\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Why is NASA so Slow ?",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": [
                     "\/photos\/2018-05-24\/20180524_181729.jpg"
                 ]
+            }
+        },
+        "2018-05-25": {
+            "health": {
+                "weight": 78.1,
+                "height": 173,
+                "age": 13673
+            },
+            "nutrition": {
+                "calories": 1549.21,
+                "fat": 92.87,
+                "carbohydrates": 67.97,
+                "protein": 99.05
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "37539612",
+                        "title": "The Five Dysfunctions of a Team: A Leadership Fable",
+                        "author": "Patrick Lencioni",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2374323852?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1513306261l\/37539612.jpg",
+                        "user_rating": 5,
+                        "marked_as_read": "2018-05-25T15:46:09+00:00"
+                    }
+                ],
+                "podcast": {
+                    "3": {
+                        "id": "60603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60603\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b06149a0e2e7287abbb4b52\/1527178465524\/1500w\/Hello+Internet+slides.002.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #102: Secret Cinema",
+                        "duration": "7066"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "60522",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60522\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vhgp_WId5ds\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Picking on Rockstar Games",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "60557",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60557\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jGfvkjzLrNw\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why people are buying cartoon cats on the blockchain",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "60555",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60555\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BRB0pnb_JqY\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Assembling a Stirling Engine Kit - The engine that can be powered by a set-top box",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "60631",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60631\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/S3bDDSEg8BU\/hqdefault.jpg",
+                        "channel_title": "Chris Notap",
+                        "type": 2,
+                        "title": "Make Your Own \u25cf Foaming Hand Soap Refill  ( save $  )",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "60586",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60586\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/E6QRNSCH9JU\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Clara's Great Depression DANDELION SALAD | HARD TIMES - recipes from times of food scarcity",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "59252",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59252\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/B9d420RLWL4\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Star Wars Episode I Racer - PC Game Review",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "60630",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60630\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6e5lzHtxdW4\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR Oddware Follow-up: \"The Timer\" X10 System Controller",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": [
+                    "\/photos\/2018-05-25\/20180525_182239.jpg"
+                ]
+            }
+        },
+        "2018-05-26": {
+            "health": {
+                "weight": 78.2,
+                "height": 173,
+                "age": 13674
+            },
+            "nutrition": {
+                "calories": 3497.97,
+                "fat": 224.93,
+                "carbohydrates": 265.65,
+                "protein": 100.24
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "60673",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60673\/quantified",
+                        "image": "https:\/\/imagecdn.acast.com\/image?h=1500&w=1500&source=https%3A%2F%2Fmediacdn.acast.com%2Fassets%2F51ef7f90-7398-433b-92de-ca642882f3bd%2Fcover-image-jhknrxya--j9v867u9-dannyinvalleynew.jpg",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Sir Richard Branson: \"Moon hotels\"",
+                        "duration": "2830"
+                    },
+                    {
+                        "id": "60620",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60620\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000352514019-9n3i7s-original.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "56. \u0421\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0438\u0433\u0440\u0438 (feat. \u041c\u0438\u0445\u0430\u0438\u043b \u041b\u043e\u0437\u0430\u043d\u043e\u0432)",
+                        "duration": "6810"
+                    },
+                    {
+                        "id": "60664",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60664\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/149920\/1527273412-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "155: Abstractions on Abstractions (Alex Sullivan)",
+                        "duration": "2649"
+                    },
+                    {
+                        "id": "4817",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4817\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 6: General Purpose Problem",
+                        "duration": "6084"
+                    },
+                    {
+                        "id": "4818",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4818\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 5: Work Simulator",
+                        "duration": "5406"
+                    },
+                    {
+                        "id": "4819",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4819\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 4: Posting Day",
+                        "duration": "6093"
+                    }
+                ],
+                "youtube": {
+                    "6": {
+                        "id": "60647",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60647\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/I2O7blSSzpI\/hqdefault.jpg",
+                        "channel_title": "LEMMiNO",
+                        "type": 2,
+                        "title": "Cicada 3301: An Internet Mystery",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "60350",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60350\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/A_vpfBJZ7JI\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Restoration - The Worst VIC-20 I've ever seen - Part 1",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "60429",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60429\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RGW_5bqrYIo\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Solo: A Star Wars Story - Movie Review",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "60459",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60459\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/89aDUceXUIg\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "The not now.",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-05-27": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13675
+            },
+            "nutrition": {
+                "calories": 0,
+                "fat": 0,
+                "carbohydrates": 0,
+                "protein": 0
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
             }
         }
     }
