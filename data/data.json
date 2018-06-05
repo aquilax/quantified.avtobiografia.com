@@ -28122,10 +28122,10 @@
                 "age": 13681
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 3277.85,
+                "fat": 182.77,
+                "carbohydrates": 246.5,
+                "protein": 92.38
             },
             "exercise": {
                 "pushups": 0,
@@ -28146,6 +28146,499 @@
                 ],
                 "podcast": [],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-06-03": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13682
+            },
+            "nutrition": {
+                "calories": 2908.04,
+                "fat": 185.25,
+                "carbohydrates": 217.54,
+                "protein": 97.78
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-06-04": {
+            "health": {
+                "weight": 78.8,
+                "height": 173,
+                "age": 13683
+            },
+            "nutrition": {
+                "calories": 2524.45,
+                "fat": 149.28,
+                "carbohydrates": 191.73,
+                "protein": 104.4
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "4788",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4788\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 35: An Episode Out of Time 2: Out of Timer",
+                        "duration": "4928"
+                    },
+                    "1": {
+                        "id": "4789",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4789\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 34: Punch Card System",
+                        "duration": "5725"
+                    },
+                    "2": {
+                        "id": "4790",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4790\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 33: Cortek",
+                        "duration": "4889"
+                    },
+                    "3": {
+                        "id": "4791",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4791\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 32: Dropping Acid",
+                        "duration": "6091"
+                    },
+                    "4": {
+                        "id": "4792",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4792\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 31: Later Comes Eventually",
+                        "duration": "5762"
+                    },
+                    "5": {
+                        "id": "4793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4793\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 30: Cortexaversary",
+                        "duration": "4044"
+                    },
+                    "6": {
+                        "id": "4794",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4794\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 29: Dvorak",
+                        "duration": "5273"
+                    },
+                    "7": {
+                        "id": "4795",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4795\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 28: Formalizing and Systematizing",
+                        "duration": "5460"
+                    },
+                    "8": {
+                        "id": "4796",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4796\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 27: Danger Inches Away",
+                        "duration": "5442"
+                    },
+                    "9": {
+                        "id": "4797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4797\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 26: Pick your Poison",
+                        "duration": "6131"
+                    },
+                    "10": {
+                        "id": "4798",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4798\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 25: Creativity, inc. ",
+                        "duration": "6739"
+                    },
+                    "11": {
+                        "id": "4799",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4799\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 24: Open Field In Every Direction",
+                        "duration": "5336"
+                    },
+                    "12": {
+                        "id": "4800",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4800\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 23: Business Monk",
+                        "duration": "5680"
+                    },
+                    "13": {
+                        "id": "4801",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4801\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 22: Statistics Aren't Everything",
+                        "duration": "6068"
+                    },
+                    "14": {
+                        "id": "4802",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4802\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 21: The E-Myth Revisited",
+                        "duration": "5429"
+                    },
+                    "15": {
+                        "id": "4803",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4803\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 20: New Year",
+                        "duration": "5103"
+                    },
+                    "16": {
+                        "id": "4804",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4804\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 19: Brick of Obligation",
+                        "duration": "6412"
+                    },
+                    "17": {
+                        "id": "4805",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4805\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 18: King in a Castle",
+                        "duration": "5925"
+                    },
+                    "18": {
+                        "id": "4806",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4806\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 17: Dialing Down",
+                        "duration": "7455"
+                    },
+                    "19": {
+                        "id": "4807",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4807\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 16: Structural Trust",
+                        "duration": "7414"
+                    },
+                    "20": {
+                        "id": "4808",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4808\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 15: Tempest in a Teapot",
+                        "duration": "6599"
+                    },
+                    "21": {
+                        "id": "4809",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4809\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 14: Conflicted About Email",
+                        "duration": "5546"
+                    },
+                    "22": {
+                        "id": "4810",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4810\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 13: Trail of Tears",
+                        "duration": "6416"
+                    },
+                    "23": {
+                        "id": "4811",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4811\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 12: The Rule of Two",
+                        "duration": "5643"
+                    },
+                    "24": {
+                        "id": "4812",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4812\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 11: 0% Entertaining",
+                        "duration": "5632"
+                    },
+                    "25": {
+                        "id": "4813",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4813\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 10: Zero Artistic Skills",
+                        "duration": "6357"
+                    },
+                    "26": {
+                        "id": "4814",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4814\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 9: Draft A Day",
+                        "duration": "5138"
+                    },
+                    "27": {
+                        "id": "4815",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4815\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 8: An Episode Out Of Time",
+                        "duration": "5423"
+                    },
+                    "28": {
+                        "id": "4816",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4816\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 7: Ultimately a Nightmare",
+                        "duration": "5043"
+                    },
+                    "31": {
+                        "id": "60797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60797\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
+                        "channel_title": "Death in Ice Valley",
+                        "type": 1,
+                        "title": "7. Mystery Men",
+                        "duration": "2096"
+                    },
+                    "37": {
+                        "id": "60987",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60987\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b106a46562fa72ca39925e6\/1527802901350\/1500w\/Hello+Internet+slides.002.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. 103: Don't Read The Comments",
+                        "duration": "0"
+                    },
+                    "47": {
+                        "id": "61043",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61043\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/151988\/1527868203-artwork.jpg",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "156: It's a Commercial Enterprise (Olivier Lacan)",
+                        "duration": "2464"
+                    },
+                    "48": {
+                        "id": "60947",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60947\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000354879933-vmb3l9-original.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "57. \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430 \u041d\u0430\u0443\u043a\u0430 (\u0441 \u041b\u044e\u0431\u043e \u043e\u0442 \u0420\u0430\u0446\u0438\u043e)",
+                        "duration": "9939"
+                    }
+                },
+                "youtube": {
+                    "29": {
+                        "id": "59416",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59416\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QmCdrDLyNXQ\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making fuming nitric acid",
+                        "duration": "0"
+                    },
+                    "30": {
+                        "id": "60761",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60761\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/K4zFefh5T-8\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Aerospike Engines - Why Aren't We Using them Now?",
+                        "duration": "0"
+                    },
+                    "32": {
+                        "id": "60845",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60845\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hWbZZslsKqc\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Dunk Souls Remastered",
+                        "duration": "0"
+                    },
+                    "33": {
+                        "id": "60843",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60843\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5TSsEok2khg\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "BIG NEWS! (But No, It's Not That I'm Pregnant)",
+                        "duration": "0"
+                    },
+                    "34": {
+                        "id": "60871",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60871\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jdNDYBt9e_U\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "The Most Valuable Airspace in the World",
+                        "duration": "0"
+                    },
+                    "35": {
+                        "id": "60899",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60899\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jlLUuX2a0Cg\/hqdefault.jpg",
+                        "channel_title": "CGP Grey",
+                        "type": 2,
+                        "title": "Q&A With Grey: Just Because Edition",
+                        "duration": "0"
+                    },
+                    "36": {
+                        "id": "60911",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60911\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XGbFhFqoMPg\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Curved Penises",
+                        "duration": "0"
+                    },
+                    "38": {
+                        "id": "60885",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60885\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MNKZC9sTxyo\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #98 - Half Baked Plushies",
+                        "duration": "0"
+                    },
+                    "39": {
+                        "id": "61054",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61054\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CkqWPbIAN7g\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 238 - Lands of Lore: Guardians of Destiny",
+                        "duration": "0"
+                    },
+                    "40": {
+                        "id": "61062",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61062\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HA05pYsXV9U\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Why Our Heroes Are Different Now (God of War, The Last Jedi, Logan) \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "41": {
+                        "id": "60806",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60806\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XGdY7TAKRYU\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "FRANKFURTER SPECTACULAR pineapple & hot dog centerpiece Weight Watchers 1970 | Weenies Retro Edition",
+                        "duration": "0"
+                    },
+                    "42": {
+                        "id": "60975",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60975\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cIJNEE_aaZg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "\ud83d\udd25DIY Extreme WASABI Ice Cream SUNDAE topped with 6 Japanese Wasabi SNACKS ft. TabiEats",
+                        "duration": "0"
+                    },
+                    "43": {
+                        "id": "61071",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61071\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kEV4At138lw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "\ud83c\uddec\ud83c\uddf7GREEK Special Forces 24-hour Ration MRE Unboxing & Taste Test - pocket stove demo",
+                        "duration": "0"
+                    },
+                    "44": {
+                        "id": "61079",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61079\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/dVYJfl3tOQk\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Anycubic Photon Review - $539 DLP 3D Printer || Moai Comparison",
+                        "duration": "0"
+                    },
+                    "45": {
+                        "id": "61001",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61001\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1e3kzMGAGkM\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "The 3-in-1 oddness of the Triplecorder",
+                        "duration": "0"
+                    },
+                    "46": {
+                        "id": "61012",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61012\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hoMvMiAfVXs\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR 486 Update! Unboxing & Installing Windows 3.0",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
