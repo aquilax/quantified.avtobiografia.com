@@ -28662,7 +28662,44 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "4784",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4784\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 39: You'll Never Guess What Happens!",
+                        "duration": "5661"
+                    },
+                    {
+                        "id": "4785",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4785\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 38: A Vlog Is What You Make It",
+                        "duration": "6493"
+                    },
+                    {
+                        "id": "4786",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4786\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 37: Doomsday Bunker",
+                        "duration": "6886"
+                    },
+                    {
+                        "id": "4787",
+                        "url": "http:\/\/cast.writtn.com\/episode\/4787\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 36: Cortex Cottage",
+                        "duration": "5228"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": []
@@ -28679,6 +28716,141 @@
                 "fat": 270.97,
                 "carbohydrates": 151.69,
                 "protein": 133.6
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "7": {
+                        "id": "60720",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60720\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/1AfjDkQUxQYO9q0TkGnkp_M97Ps=\/1500x1500\/https:\/\/acastprod.blob.core.windows.net:443\/media\/v1\/1f6f3485-51b2-43f6-8d8d-6e4ec6413fe5\/dannyinthevalley1400x1400logo-j4oipd4r.jpg",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Slack co-founder Cal Henderson: 'Email is the cockroach of the Internet' ",
+                        "duration": "2122"
+                    },
+                    "8": {
+                        "id": "60721",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60721\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/jlBIwRbYVWFCRy6ed8VdI2ctIhc=\/1500x1500\/https:\/\/acastprod.blob.core.windows.net:443\/media\/v1\/8695e745-69f8-4d71-83ab-5054dcd499ba\/dannyinthevalley1400x1400logo-j4oip5q3.jpg",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Hyperloop's Dirk Ahlborn: \u201cThe moon landing of transport\u201d",
+                        "duration": "3448"
+                    },
+                    "9": {
+                        "id": "60722",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60722\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/8npuu_UFVJCCLw5i3GVHA7LFu7I=\/1500x1500\/https:\/\/acastprod.blob.core.windows.net:443\/media\/v1\/3f6d620a-77ab-4c32-955d-9a467c940780\/dannyinthevalley1400x1400logo-j35twcbb.jpg",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Meta AR's Ryan Pamplin: \"The end of the flatties\"",
+                        "duration": "2980"
+                    },
+                    "10": {
+                        "id": "60723",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60723\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/vLe3idGQx-SzCnVPy5b0-cGyACQ=\/1500x1500\/https:\/\/acastprod.blob.core.windows.net:443\/media\/v1\/89fee18b-6afd-40be-b57b-567d220a85f3\/dannyinthevalley1000x1000logo-j2umwtj9.png",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Jason Calacanis: \"A cacophony of idiots\"",
+                        "duration": "2633"
+                    },
+                    "11": {
+                        "id": "60724",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60724\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/iqYC9EQdfHeRWDstnzCtYip_OwA=\/1500x1500\/https:\/\/acastprod.blob.core.windows.net:443\/media\/v1\/0fd1a6d6-b55a-4d3e-b731-04ba5ffd7af3\/dannyinthevalley1400x1400logo-j2km51ii.jpg",
+                        "channel_title": "Danny In The Valley",
+                        "type": 1,
+                        "title": "Comet Labs' Saman Farid: \"Let's be friends with the robots\"",
+                        "duration": "2652"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "61152",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61152\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QUzVesdY6OU\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Planet X3 for MS-DOS Update & KIckstarter",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61129",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61129\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_-UJDDQGdsc\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - An Odd Chinese Need For Speed PC Game Collection",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61134",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61134\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/WDQNWYOogOI\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Donkey Kong TV Show",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61144",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61144\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4s4PjOyujn8\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Great Depression Era MOCK APPLE PIE - Apple-less Ritz Cracker Pie | HARD TIMES",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61180",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61180\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/ODZhOM2aaXo\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "Thor Ragnarok | Stuff You Like 171",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61186",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61186\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/78zYtjTm2yY\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "\"Educational\" temperature controller.  (In a bad way.)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "61226",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61226\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/B2iOuyHVaiM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #99 - Twice the Richard!",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-06-07": {
+            "health": {
+                "weight": 78.5,
+                "height": 173,
+                "age": 13686
+            },
+            "nutrition": {
+                "calories": 25.2,
+                "fat": 1.2,
+                "carbohydrates": 1.8,
+                "protein": 1.28
             },
             "exercise": {
                 "pushups": 0,
