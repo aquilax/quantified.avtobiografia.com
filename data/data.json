@@ -29571,172 +29571,8 @@
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "5": {
-                        "id": "60678",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60678\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/amB8FdYwT78egWQSrE7_m_xOfyY=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/74498aac-bd59-41a2-8507-56725c735117\/cover-image-jg6psg2u--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Five Questions with.... NYU's Scott Galloway",
-                        "duration": "1237"
-                    },
-                    "6": {
-                        "id": "60679",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60679\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/OElx6yLfiOgJ274iN-YrAfnbTv8=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/98d264cf-5100-42e1-b827-fa7bceede907\/cover-image-jg6pjjzh--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Vicarious founder Scott Phoenix: \"Humanity's last invention\"",
-                        "duration": "2307"
-                    },
-                    "7": {
-                        "id": "60680",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60680\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/z6GGyPGxHIblNypqPgfjhN0zIqw=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/e525d037-5cdc-4736-874e-2320e4e8e645\/cover-image-jfw9mnjc--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Bill Gates: \"The report card of humanity\" ",
-                        "duration": "2618"
-                    },
-                    "8": {
-                        "id": "60681",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60681\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/TrPWA76Znvx8Ld3lET9oYsEuLQI=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/87d58f62-b900-4edb-8912-6f2da3318aa5\/cover-image-jfmrv0q7-dannyinvalleynew_1_.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Zipline's Keller Rinaudo: \"Blood from the sky\" ",
-                        "duration": "1676"
-                    },
-                    "9": {
-                        "id": "60682",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60682\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/HtihYYo2Y7oSuCHNfP-jeIOjUnc=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/58a01890-0baf-4d76-a492-70b6aa5078ae\/cover-image-jfd51fn1-dannyinvalleynew_1_.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Five questions with... Benedict Evans",
-                        "duration": "2756"
-                    },
-                    "10": {
-                        "id": "60683",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60683\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/Sb-Xc5Ka9z0GBwSbtNidFlv83mU=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/c1b5e6d2-e549-4540-9a81-091a57b871b1\/cover-image-jf2vk0wn-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Former Facebook executive Antonio Garcia Martinez: \"A gaping wound of data\"",
-                        "duration": "1797"
-                    },
-                    "11": {
-                        "id": "60684",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60684\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/UYTDTsY5BVMJh4MPDB5bAd8GY-I=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/c68c73fb-a7e4-42c6-82a8-5003febd6df9\/cover-image-jf2w5jqv-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Ethereum\u2019s Joe Lubin: \u201cBuilding a crypto-Google\u201d",
-                        "duration": "1818"
-                    },
-                    "12": {
-                        "id": "60685",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60685\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/Y6EfVixr4neejow6HAw0r9e2keE=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/f126e06e-a10f-49ee-9999-559aa66c2d3b\/cover-image-jesqzznn-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Groupon founder Andrew Mason: \u201cI may not be Jeff Bezos or Jesus Christ, but I've done ok\u201d",
-                        "duration": "2318"
-                    },
-                    "13": {
-                        "id": "60686",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60686\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/RZqKoCuB-t476Bo-yBFXHmehCPk=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/9d4ca2a7-a411-462d-bdff-e92dbc5bd519\/cover-image-jeiromb4-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Sophia Mahfooz: \u201cIt\u2019s torture or an adventure, depending on your perspective\u2019\u201d",
-                        "duration": "3018"
-                    },
-                    "14": {
-                        "id": "60677",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60677\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/z-PSZDfCpH5miMycAdGUDvyDp88=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/b1631ae5-ef90-4c15-94cb-45ef1eaec81f\/cover-image-jggjlmzy--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "TheBoardlist's Sukhinder Singh Cassidy: \"Women are the new unicorns\"",
-                        "duration": "2299"
-                    }
-                },
-                "youtube": {
-                    "0": {
-                        "id": "61387",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61387\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/K6y9PJipfpk\/hqdefault.jpg",
-                        "channel_title": "Mark Brown",
-                        "type": 2,
-                        "title": "Are Score Systems Still Relevant? | Game Maker's Toolkit",
-                        "duration": "0"
-                    },
-                    "1": {
-                        "id": "61905",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61905\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/vwbz9gxoQFg\/hqdefault.jpg",
-                        "channel_title": "Mark Brown",
-                        "type": 2,
-                        "title": "Forging God of War's Leviathan Axe | Game Maker's Toolkit",
-                        "duration": "0"
-                    },
-                    "2": {
-                        "id": "61946",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61946\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/Sszlm7wYjA8\/hqdefault.jpg",
-                        "channel_title": "sexplanations",
-                        "type": 2,
-                        "title": "Are Blue Balls Real?",
-                        "duration": "0"
-                    },
-                    "3": {
-                        "id": "61979",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61979\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/9PNqVilJESg\/hqdefault.jpg",
-                        "channel_title": "Vox",
-                        "type": 2,
-                        "title": "Why Americans suck at soccer (well, the men)",
-                        "duration": "0"
-                    },
-                    "4": {
-                        "id": "61980",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61980\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/K816PVC3nho\/hqdefault.jpg",
-                        "channel_title": "bigclivedotcom",
-                        "type": 2,
-                        "title": "Inside an ozone room deodoriser.",
-                        "duration": "0"
-                    },
-                    "15": {
-                        "id": "61835",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61835\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/q430dWj9sG4\/hqdefault.jpg",
-                        "channel_title": "videogamedunkey",
-                        "type": 2,
-                        "title": "The Smash Bros. Killer",
-                        "duration": "0"
-                    },
-                    "16": {
-                        "id": "61908",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61908\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/FQ2jmrz_xgU\/hqdefault.jpg",
-                        "channel_title": "Wendover Productions",
-                        "type": 2,
-                        "title": "Brazil's Geography Problem",
-                        "duration": "0"
-                    },
-                    "17": {
-                        "id": "61894",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61894\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/onERDyIhjAI\/hqdefault.jpg",
-                        "channel_title": "bigclivedotcom",
-                        "type": 2,
-                        "title": "Inside an electric fly trap.",
-                        "duration": "0"
-                    }
-                },
+                "podcast": [],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
@@ -29814,42 +29650,6 @@
                         "type": 1,
                         "title": "Beyond Meat's Ethan Brown: \"Burger 2.0\"",
                         "duration": "2846"
-                    },
-                    "12": {
-                        "id": "60674",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60674\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/YaE3AUFb7BAB_5-filPyEXdrjXU=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/f5f8e715-4c97-44c0-9a0d-173ae84c84d6\/cover-image-jh8xdub0--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "Jaron Lanier: \"The bummer machine\"",
-                        "duration": "2500"
-                    },
-                    "13": {
-                        "id": "60675",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60675\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/5EuiQSQ2qn3b5BVosvHmnxqk-fo=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/b433b1ac-9dce-4736-9198-2b92c8b3149a\/cover-image-jh1mdjsq--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "PlateJoy\u2019s Christina Bognet: \u201cHealthy-eating algorithms\u201d",
-                        "duration": "2695"
-                    },
-                    "14": {
-                        "id": "60676",
-                        "url": "http:\/\/cast.writtn.com\/episode\/60676\/quantified",
-                        "image": "https:\/\/thumborcdn.acast.com\/OXSnc-F8AP2vHH-YKsbWLV4fcCE=\/1500x1500\/https:\/\/mediacdn.acast.com\/assets\/5d1f77a1-c68f-4b63-a2e9-ce9db7bdbac8\/cover-image-jgqoaiuu--j9v867u9-dannyinvalleynew.jpg",
-                        "channel_title": "Danny In The Valley",
-                        "type": 1,
-                        "title": "SPECIAL: Inside the world of Esports",
-                        "duration": "2092"
-                    },
-                    "15": {
-                        "id": "61838",
-                        "url": "http:\/\/cast.writtn.com\/episode\/61838\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p060mryf.jpg",
-                        "channel_title": "Death in Ice Valley",
-                        "type": 1,
-                        "title": "10. Underground",
-                        "duration": "2371"
                     }
                 },
                 "youtube": {
@@ -30412,10 +30212,10 @@
                 "age": 13705
             },
             "nutrition": {
-                "calories": 1887.3,
-                "fat": 127.67,
-                "carbohydrates": 86.1,
-                "protein": 98.93
+                "calories": 1812.68,
+                "fat": 123.42,
+                "carbohydrates": 77.92,
+                "protein": 98.15
             },
             "exercise": {
                 "pushups": 0,
@@ -30490,6 +30290,348 @@
                         "duration": "0"
                     }
                 ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-06-27": {
+            "health": {
+                "weight": 79.3,
+                "height": 173,
+                "age": 13706
+            },
+            "nutrition": {
+                "calories": 2364.18,
+                "fat": 150.72,
+                "carbohydrates": 97.12,
+                "protein": 134.61
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "38464",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38464\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/77924\/1500891884-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Automated Testing #2",
+                        "duration": "4188"
+                    },
+                    "1": {
+                        "id": "38465",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38465\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/74030\/1498550710-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Automated Testing",
+                        "duration": "3917"
+                    },
+                    "2": {
+                        "id": "38466",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38466\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/73206\/1497870857-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Refactoring",
+                        "duration": "3693"
+                    },
+                    "3": {
+                        "id": "38467",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38467\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/68273\/1496660103-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Safe Deploys in Rails",
+                        "duration": "1676"
+                    },
+                    "4": {
+                        "id": "38468",
+                        "url": "http:\/\/cast.writtn.com\/episode\/38468\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/67957\/1496067989-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Rails Service Layer",
+                        "duration": "2546"
+                    },
+                    "5": {
+                        "id": "62366",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62366\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/72\/49\/f7\/a4\/7249f7a4-163e-443e-9d0b-c4d2133eb36c\/28ee9ab994e1d3017649f8beb239f7f01c4c677cd3dce26ccec4a27f8c066901c8de40be841fe20e91c8ec5b8713ae3fda343671b3dbf73b9bd537cee88d7988.jpeg",
+                        "channel_title": "Business Wars",
+                        "type": 1,
+                        "title": "Nintendo vs Sony - Interview with Vance Wallace | 7",
+                        "duration": "1700"
+                    },
+                    "6": {
+                        "id": "62367",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62367\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/72\/49\/f7\/a4\/7249f7a4-163e-443e-9d0b-c4d2133eb36c\/28ee9ab994e1d3017649f8beb239f7f01c4c677cd3dce26ccec4a27f8c066901c8de40be841fe20e91c8ec5b8713ae3fda343671b3dbf73b9bd537cee88d7988.jpeg",
+                        "channel_title": "Business Wars",
+                        "type": 1,
+                        "title": "Nintendo vs Sony - No Surrender | 6",
+                        "duration": "1614"
+                    },
+                    "9": {
+                        "id": "60173",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60173\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/32715169.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 217: No Such Thing As A Trapezium-Shaped Hankie",
+                        "duration": "2436"
+                    },
+                    "10": {
+                        "id": "59678",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59678\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/32672032.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 216: No Such Thing As A Lobster War",
+                        "duration": "2387"
+                    },
+                    "11": {
+                        "id": "59277",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59277\/quantified",
+                        "image": "https:\/\/d15mj6e6qmt1na.cloudfront.net\/i\/32600788.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 215: No Such Thing As A Chihuahua Dog Sled Team",
+                        "duration": "2888"
+                    },
+                    "12": {
+                        "id": "61757",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61757\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Darin Fisher",
+                        "duration": "809"
+                    },
+                    "13": {
+                        "id": "61408",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61408\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io-mariko.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Mariko Kosaka",
+                        "duration": "1333"
+                    },
+                    "14": {
+                        "id": "61060",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61060\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Rob \"the bobdod\" Dodson",
+                        "duration": "891"
+                    },
+                    "15": {
+                        "id": "60730",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60730\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Monica Dinculescu",
+                        "duration": "933"
+                    },
+                    "16": {
+                        "id": "60731",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60731\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Dion Almaer & Ben Galbraith",
+                        "duration": "1742"
+                    },
+                    "17": {
+                        "id": "36161",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36161\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP018: Vinay Gupta - Techno-Social Systems",
+                        "duration": "4379"
+                    },
+                    "18": {
+                        "id": "36162",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36162\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP017: Sci Fi, Copyright, and The Sharing Economy",
+                        "duration": "1937"
+                    },
+                    "19": {
+                        "id": "36163",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36163\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/7\/8\/6\/c7868406f78c565d\/FTP016_-_Vitalik_Buterin_on_Ethereum_and_Decentralized_Platforms.jpg",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP016: Vitalik Buterin - Ethereum and Decentralized Blockchain Platforms",
+                        "duration": "3125"
+                    },
+                    "20": {
+                        "id": "36164",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36164\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP015: Zoltan Istvan - Transhumanism and Future Politics",
+                        "duration": "3792"
+                    },
+                    "21": {
+                        "id": "36165",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36165\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/1\/0\/4\/5\/1045d5eedb51512a\/FTP014_-_Revolution.jpg",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP014: The Exponential Revolution",
+                        "duration": "2008"
+                    },
+                    "22": {
+                        "id": "36166",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36166\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP013: Conscious Evolution - Eliminating Discrimination",
+                        "duration": "1775"
+                    },
+                    "23": {
+                        "id": "36167",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36167\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP012: The Future of Marketing is Storytelling",
+                        "duration": "2224"
+                    },
+                    "24": {
+                        "id": "36168",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36168\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP011: Bitcoin, Blockchain, and Basic Income",
+                        "duration": "2121"
+                    },
+                    "25": {
+                        "id": "36169",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36169\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP010: Nikola Danaylov - Shaping Our Own Future",
+                        "duration": "2169"
+                    },
+                    "26": {
+                        "id": "36170",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36170\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP009: The Future of Education",
+                        "duration": "1723"
+                    },
+                    "27": {
+                        "id": "36171",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36171\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP008:  Jon Myers and Terry Lin - The Future of Work",
+                        "duration": "1921"
+                    },
+                    "28": {
+                        "id": "36172",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36172\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP007: Jesse Lawler - Transhumanism and Evolution",
+                        "duration": "2381"
+                    },
+                    "29": {
+                        "id": "36173",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36173\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP006: Individuality and The Borg",
+                        "duration": "1453"
+                    },
+                    "30": {
+                        "id": "36174",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36174\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP005: Minecraft and Virtual Reality",
+                        "duration": "1067"
+                    },
+                    "31": {
+                        "id": "36175",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36175\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP004: Would You Date a Machine?",
+                        "duration": "951"
+                    },
+                    "32": {
+                        "id": "36176",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36176\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP003: The Fermi Paradox",
+                        "duration": "756"
+                    },
+                    "33": {
+                        "id": "36177",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36177\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP002: Creativity and Singularity",
+                        "duration": "964"
+                    },
+                    "34": {
+                        "id": "36178",
+                        "url": "http:\/\/cast.writtn.com\/episode\/36178\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/c\/3\/6\/2\/c362854f177ec56e\/Future_Thinkers_Podcast.png",
+                        "channel_title": "Future Thinkers Podcast",
+                        "type": 1,
+                        "title": "FTP001: Technology and Spirituality",
+                        "duration": "1145"
+                    }
+                },
+                "youtube": {
+                    "7": {
+                        "id": "62325",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62325\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/83STpUXHilk\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "Prototype: TS80 USB-C soldering iron - A TS100 Successor?",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "62302",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62302\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/sgP_o7vugqw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Emergency 24-hour RATION Mission Specifics | Menu 1 - Tuscan Beef & Chicken & Rice",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
