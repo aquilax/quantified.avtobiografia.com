@@ -30783,7 +30783,7 @@
                     "14": {
                         "id": "62579",
                         "url": "http:\/\/cast.writtn.com\/episode\/62579\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b3671a703ce64d31149c6a2\/1530302413522\/1500w\/Hello+Internet+slides.003.png",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b3671a703ce64d31149c6a2\/1530470869865\/1500w\/Hello+Internet+slides.003.png",
                         "channel_title": "Hello Internet",
                         "type": 1,
                         "title": "H.I. #104: Fruitbooting",
@@ -30912,8 +30912,163 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
-                "youtube": [],
+                "podcast": [
+                    {
+                        "id": "59740",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59740\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "EventTarget, imports, and nudists",
+                        "duration": "3014"
+                    },
+                    {
+                        "id": "59741",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59741\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Twelve things for 2018",
+                        "duration": "1526"
+                    },
+                    {
+                        "id": "59742",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59742\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "WebRTC again, and about:blank weirdness",
+                        "duration": "1003"
+                    },
+                    {
+                        "id": "59743",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59743\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Web-whispers and sleepy thoughts",
+                        "duration": "3107"
+                    },
+                    {
+                        "id": "59744",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59744\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Wet Nose Cough",
+                        "duration": "3722"
+                    },
+                    {
+                        "id": "59745",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59745\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "A is for Effort",
+                        "duration": "3863"
+                    },
+                    {
+                        "id": "59746",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59746\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-5-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Slippers and chips",
+                        "duration": "4015"
+                    },
+                    {
+                        "id": "59747",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59747\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-5-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Quizzing, animating, and canceling",
+                        "duration": "2859"
+                    },
+                    {
+                        "id": "59748",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59748\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-5-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Legs, Wasps, and Eventually Some Web Stuff.",
+                        "duration": "2742"
+                    },
+                    {
+                        "id": "59749",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59749\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-5-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Springy CSS, Storage, and Bisecting.",
+                        "duration": "3596"
+                    },
+                    {
+                        "id": "59750",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59750\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-4-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Promises, Mistakes, and Door Handles",
+                        "duration": "3145"
+                    },
+                    {
+                        "id": "59751",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59751\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-3-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Poetry and Delegated Event Listeners",
+                        "duration": "1950"
+                    },
+                    {
+                        "id": "59752",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59752\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-2-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "CORS, Forced Layouts, and Raptor Kebab Shops.",
+                        "duration": "1837"
+                    },
+                    {
+                        "id": "59753",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59753\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/http203-episode-1-art.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Making Burgers and Maintainable Code",
+                        "duration": "1813"
+                    },
+                    {
+                        "id": "62615",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62615\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/2\/a\/5\/a\/2a5af697fdb11a49\/Copy_of_KetogenicGirl_Coffee_2_copy_3.png",
+                        "channel_title": "Fast Keto with Ketogenic Girl",
+                        "type": 1,
+                        "title": "Keto & Fasting 101",
+                        "duration": "4896"
+                    },
+                    {
+                        "id": "62616",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62616\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/2\/a\/5\/a\/2a5af697fdb11a49\/Copy_of_KetogenicGirl_Coffee_2_copy_3.png",
+                        "channel_title": "Fast Keto with Ketogenic Girl",
+                        "type": 1,
+                        "title": "Keto & Exercise 101",
+                        "duration": "3610"
+                    }
+                ],
+                "youtube": {
+                    "16": {
+                        "id": "59434",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59434\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/a87btDiR7YA\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Madame Cristo - Grilled Ham & Cheese - Food Wishes",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
@@ -30929,6 +31084,59 @@
                 "fat": 158.2,
                 "carbohydrates": 67.46,
                 "protein": 84.58
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "62621",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62621\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/io.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "I\/O chat with Darin Fisher",
+                        "duration": "946"
+                    },
+                    {
+                        "id": "59738",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59738\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Smooshes, WASMs, and conversational call stacks",
+                        "duration": "3163"
+                    },
+                    {
+                        "id": "59739",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59739\/quantified",
+                        "image": "\/web\/shows\/http203\/podcast\/images\/surma-and-jake-2.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "Cooties, symbols, and shaders",
+                        "duration": "3518"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-07-04": {
+            "health": {
+                "weight": 78.9,
+                "height": 173,
+                "age": 13713
+            },
+            "nutrition": {
+                "calories": 2017.51,
+                "fat": 154.6,
+                "carbohydrates": 65.43,
+                "protein": 92.17
             },
             "exercise": {
                 "pushups": 0,
