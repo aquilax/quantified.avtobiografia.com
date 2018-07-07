@@ -30783,7 +30783,7 @@
                     "14": {
                         "id": "62579",
                         "url": "http:\/\/cast.writtn.com\/episode\/62579\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b3671a703ce64d31149c6a2\/1530470869865\/1500w\/Hello+Internet+slides.003.png",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b3671a703ce64d31149c6a2\/1530705429270\/1500w\/Hello+Internet+slides.003.png",
                         "channel_title": "Hello Internet",
                         "type": 1,
                         "title": "H.I. #104: Fruitbooting",
@@ -31137,6 +31137,364 @@
                 "fat": 154.6,
                 "carbohydrates": 65.43,
                 "protein": 92.17
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-07-05": {
+            "health": {
+                "weight": 78.7,
+                "height": 173,
+                "age": 13714
+            },
+            "nutrition": {
+                "calories": 2382.88,
+                "fat": 190.5,
+                "carbohydrates": 49.75,
+                "protein": 110.49
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "62570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62570\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/161414\/1530077164-artwork.jpg",
+                        "channel_title": "--force push",
+                        "type": 1,
+                        "title": "Remote 101",
+                        "duration": "3310"
+                    },
+                    "7": {
+                        "id": "62812",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62812\/quantified",
+                        "image": "http:\/\/www.detectivepodcast.com\/wp-content\/themes\/detectivepodcast\/images\/rss_logo_bg.jpg",
+                        "channel_title": "\u0413\u0440\u0430\u0434\u0441\u043a\u0438 \u0414\u0435\u0442\u0435\u043a\u0442\u0438\u0432",
+                        "type": 1,
+                        "title": "\u0415\u043f\u0438\u0437\u043e\u0434 5: \u0421\u043e\u0444\u0438\u0439\u0441\u043a\u043e\u0442\u043e \u043c\u043e\u0440\u0435",
+                        "duration": "1470"
+                    },
+                    "29": {
+                        "id": "62781",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62781\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 71: Dark Synergy",
+                        "duration": "6361"
+                    },
+                    "30": {
+                        "id": "61906",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61906\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Out of the Fire, Into the Frying Pan",
+                        "duration": "2949"
+                    },
+                    "31": {
+                        "id": "61208",
+                        "url": "http:\/\/cast.writtn.com\/episode\/61208\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Hotbox: The Oven From Turnspit Dogs to Microwaves",
+                        "duration": "3317"
+                    },
+                    "32": {
+                        "id": "59442",
+                        "url": "http:\/\/cast.writtn.com\/episode\/59442\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Ripe for Global Domination: The Story of the Avocado",
+                        "duration": "2899"
+                    },
+                    "33": {
+                        "id": "60413",
+                        "url": "http:\/\/cast.writtn.com\/episode\/60413\/quantified",
+                        "image": "https:\/\/gastropod.com\/wp-content\/uploads\/powerpress\/GPAvatar3000px-small.png",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Feed the World: How the U.S. Became the World\u2019s Biggest Food Aid Donor\u2014And Why That Might Not be Such a Great Thing",
+                        "duration": "3030"
+                    }
+                },
+                "youtube": {
+                    "1": {
+                        "id": "62444",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62444\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hDDthYOfdqQ\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "Vaginal Fluid Handbook",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "62496",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62496\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Cm73ft4f0Po\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "Quest For Glory Retrospective Part 1 - So You Want To Be A Hero",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "62462",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62462\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BzHFRfOVOuQ\/hqdefault.jpg",
+                        "channel_title": "Errant Signal",
+                        "type": 2,
+                        "title": "Secret Little Haven (Spoilers)",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "62513",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62513\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/vJWQaSJDzEo\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "How The Real Soviet Rocketmen Changed the World",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "58610",
+                        "url": "http:\/\/cast.writtn.com\/episode\/58610\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/jBZ8ly4erzs\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making an edible blue dye | Edible Chem",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "62561",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62561\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YfjoU1_9GQ8\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Experimenting with Photochromism",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "62627",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62627\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Gqhh3M_FeTc\/hqdefault.jpg",
+                        "channel_title": "John Heisz - I Build It",
+                        "type": 2,
+                        "title": "Precision Cheese Slicer - Homemade Kitchen Gadget",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "62638",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62638\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/erKCA71q7cg\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "Next soldering station: Unisolder or Pace ADS200 ?",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "62725",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62725\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/RS7IzU2VJIQ\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Plastic Pollution: How Humans are Turning the World into Plastic",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "62709",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62709\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6wMhlpUkO-c\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "YouTube mouse maze: (pause video to play) beta",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "62630",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62630\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/GXUPqVZIyfY\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Hotel Transylvania 3: Summer Vacation - Movie Review",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "62704",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62704\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PTpzK29_V5Q\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Won't You Be My Neighbor? - Movie Review",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "62642",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62642\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_6QIutZfsFs\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "DIY Solar Tracker || How much solar energy can it save?",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "62724",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62724\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZdBSXcna6rc\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "8-Bit Unboxing May-June 2018",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "62758",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62758\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4Gztub4_ZvI\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Celebrating 9 Years of LGR!",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "62631",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62631\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hdHmBzhT-MI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "TANGHULU \u51b0\u7cd6\u846b\u82a6 Recipe - crunchy edible glass candy-coated strawberries FAILS included",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "62767",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62767\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DUVBHpollIM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "GIANT OSTRICH CLOUD EGG  - how to open & cook an ostrich egg",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "62811",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62811\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eSG_yl2a40w\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "Pureflix and Old Fashioned | Jesus Bro Part 1 | Stuff You Like 172",
+                        "duration": "0"
+                    },
+                    "20": {
+                        "id": "62622",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62622\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/W307nbJNK_E\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Philosophy of Bo Burnham \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "21": {
+                        "id": "62804",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62804\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6UcQxHYda54\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "[NEW SHOW!] The Film Tourist: The Scene That Changes the Entire Meaning of The Wolf of Wall Street",
+                        "duration": "0"
+                    },
+                    "22": {
+                        "id": "62706",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62706\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PulkOR_c11I\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "240V Polish Christmas lights with series resistors.",
+                        "duration": "0"
+                    },
+                    "23": {
+                        "id": "62817",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62817\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iH08rrt38m8\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Waluigi Tennis",
+                        "duration": "0"
+                    },
+                    "24": {
+                        "id": "62830",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62830\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_Ni4saQznwo\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Steamed BBQ Pork Buns (Char Siu Bao)  - Food Wishes",
+                        "duration": "0"
+                    },
+                    "25": {
+                        "id": "62848",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62848\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/MXXiRJAKC4w\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "e-books in the '90s with Sony's Data Discman",
+                        "duration": "0"
+                    },
+                    "26": {
+                        "id": "62413",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62413\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/m31r1GHPPdA\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "MQA-CD : New Hi-Res CDs from Japan",
+                        "duration": "0"
+                    },
+                    "27": {
+                        "id": "62837",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62837\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/C-NizS98tG8\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #101 - Clone Bugs",
+                        "duration": "0"
+                    },
+                    "28": {
+                        "id": "62850",
+                        "url": "http:\/\/cast.writtn.com\/episode\/62850\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cdl8p9akJJw\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why the US national anthem is terrible \u2014 and perfect",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-07-06": {
+            "health": {
+                "weight": 78.3,
+                "height": 173,
+                "age": 13715
+            },
+            "nutrition": {
+                "calories": 1554.78,
+                "fat": 99.68,
+                "carbohydrates": 54.51,
+                "protein": 109.56
             },
             "exercise": {
                 "pushups": 0,
