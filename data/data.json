@@ -34382,24 +34382,6 @@
                         "type": 1,
                         "title": "65. \u0415\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0430\u0442\u0430 \u0438\u043d\u0442\u0435\u043b\u0438\u0433\u0435\u043d\u0442\u043d\u043e\u0441\u0442 (feat. \u0421\u043b\u0430\u0432\u0438 \u0421\u0442\u043e\u0435\u0432)",
                         "duration": "10239"
-                    },
-                    "49": {
-                        "id": "64880",
-                        "url": "http:\/\/cast.writtn.com\/episode\/64880\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "HQ2",
-                        "duration": "1377"
-                    },
-                    "50": {
-                        "id": "64775",
-                        "url": "http:\/\/cast.writtn.com\/episode\/64775\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "Is the economy great again?",
-                        "duration": "1200"
                     }
                 },
                 "youtube": {
@@ -34581,15 +34563,6 @@
                         "channel_title": "LGR",
                         "type": 2,
                         "title": "Cleaning a Classic: BMC BM-12A Monochrome Monitor",
-                        "duration": "0"
-                    },
-                    "48": {
-                        "id": "65381",
-                        "url": "http:\/\/cast.writtn.com\/episode\/65381\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/CzwtCBj5jEs\/hqdefault.jpg",
-                        "channel_title": "LGR",
-                        "type": 2,
-                        "title": "LGR Oddware - MiniDisc Data Storage: Sony MDH-10",
                         "duration": "0"
                     }
                 },
@@ -34911,10 +34884,10 @@
                 "age": 13762
             },
             "nutrition": {
-                "calories": 890.78,
-                "fat": 61.2,
-                "carbohydrates": 23.85,
-                "protein": 52.41
+                "calories": 1818.53,
+                "fat": 142.41,
+                "carbohydrates": 26.69,
+                "protein": 93.19
             },
             "exercise": {
                 "pushups": 0,
@@ -34962,6 +34935,249 @@
                         "duration": "0"
                     }
                 ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-08-23": {
+            "health": {
+                "weight": 74.5,
+                "height": 173,
+                "age": 13763
+            },
+            "nutrition": {
+                "calories": 2043.99,
+                "fat": 160.98,
+                "carbohydrates": 29.59,
+                "protein": 103.28
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "2": {
+                        "id": "64636",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64636\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000243675565-eigtmm-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Smug Aliens (Narration Only)",
+                        "duration": "1548"
+                    },
+                    "3": {
+                        "id": "64638",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64638\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000242604494-syzqpd-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Ringworlds (Narration Only)",
+                        "duration": "1886"
+                    },
+                    "4": {
+                        "id": "64641",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64641\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000241654962-sjfhbt-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Colonizing Venus (Narration Only)",
+                        "duration": "1680"
+                    },
+                    "5": {
+                        "id": "64642",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64642\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000240677583-ko2w3v-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Interplanetary Warfare (Narration Only)",
+                        "duration": "1662"
+                    },
+                    "6": {
+                        "id": "64644",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64644\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000239688775-syq9w4-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Rare Intelligence (Narration Only)",
+                        "duration": "2288"
+                    },
+                    "7": {
+                        "id": "64647",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64647\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000238694951-lt0nfu-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Colonizing Mars (Narration Only)",
+                        "duration": "2014"
+                    },
+                    "8": {
+                        "id": "64649",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64649\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000237732036-y99tye-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Quiet Revolution (Narration Only)",
+                        "duration": "1487"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "64774",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64774\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bbTnby-sOEs\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Fresh Spinach Pasta - Food Wishes",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "64928",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64928\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5fA8K4moXdI\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Airline Chicken Breast (Enhanced) - Food Wishes",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "65433",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65433\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DyGLE0usN_I\/hqdefault.jpg",
+                        "channel_title": "Primitive Technology",
+                        "type": 2,
+                        "title": "Primitive Technology: Iron prills",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "65419",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65419\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/FQaAhLravTk\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Crazy Rich Asians - Movie Review",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "65132",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65132\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XgCdOibDHoo\/hqdefault.jpg",
+                        "channel_title": "John Heisz - I Build It",
+                        "type": 2,
+                        "title": "Making Grilled Cheese feat. the Precision Cheese Slicer and other projects",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "65449",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65449\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SIo_Gv7K7Fo\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "How to create a simple Touchscreen GUI || Arduino LCD & Touchscreen Tutorial",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "65460",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65460\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/3fGcZBTyvZY\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Tiny Arcade Machines | Ashens",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "64750",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64750\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x5KEQHh7XN0\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Forsaken: Six Degrees of Late '90s FPS Freedom",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "64850",
+                        "url": "http:\/\/cast.writtn.com\/episode\/64850\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iT1l8Dcjb1Y\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Using a Floppy Disk Drive on a Smartphone",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "65481",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65481\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KQSIT18bOvg\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - DOOM 3 VOODOO",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "65559",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65559\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/poHXO8Ttxb0\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "Much Ado About Nothing | Stuff You Like 174",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "65569",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65569\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0yTgZ2_42xw\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Blu-ray region-lock blues...and fixes",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "65562",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65562\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PG7lqaCJ6yA\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Think Different Challenge - The Apple PIIe - Part 4",
+                        "duration": "0"
+                    },
+                    "20": {
+                        "id": "65578",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65578\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/tQJwB7S3NPI\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #107 - Softkey is Cheating!",
+                        "duration": "0"
+                    },
+                    "21": {
+                        "id": "65425",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65425\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YEGRoubRlPo\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 245 - Star Trek Pinball",
+                        "duration": "0"
+                    },
+                    "22": {
+                        "id": "65581",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65581\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4AZSoQ-RaKY\/hqdefault.jpg",
+                        "channel_title": "BBC Earth Lab",
+                        "type": 2,
+                        "title": "Why do Supermarket Eggs look Perfect? | Earth Lab",
+                        "duration": "0"
+                    },
+                    "23": {
+                        "id": "65434",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65434\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/QDZtUyTZJDc\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Hidden Meaning in Jaws \u2013 Earthling Cinema",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
