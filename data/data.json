@@ -36342,7 +36342,17 @@
             },
             "media": {
                 "books": [],
-                "podcast": [],
+                "podcast": [
+                    {
+                        "id": "47847",
+                        "url": "http:\/\/cast.writtn.com\/episode\/47847\/quantified",
+                        "image": "http:\/\/www.lostdecadegames.com\/media\/images\/lostcast\/600x600.jpg",
+                        "channel_title": "Lostcast",
+                        "type": 1,
+                        "title": "Lostcast 246: Penultimania",
+                        "duration": "4596"
+                    }
+                ],
                 "youtube": [],
                 "movies": [],
                 "photos": []
@@ -36355,10 +36365,10 @@
                 "age": 13783
             },
             "nutrition": {
-                "calories": 789.34,
-                "fat": 44.92,
-                "carbohydrates": 46.86,
-                "protein": 46.48
+                "calories": 1885.49,
+                "fat": 134.71,
+                "carbohydrates": 61.47,
+                "protein": 95.3
             },
             "exercise": {
                 "pushups": 0,
@@ -36370,6 +36380,442 @@
                 "podcast": [],
                 "youtube": [],
                 "movies": [],
+                "photos": []
+            }
+        },
+        "2018-09-13": {
+            "health": {
+                "weight": 75.1,
+                "height": 173,
+                "age": 13784
+            },
+            "nutrition": {
+                "calories": 2417.37,
+                "fat": 189.69,
+                "carbohydrates": 33.27,
+                "protein": 126.35
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "48553",
+                        "url": "http:\/\/cast.writtn.com\/episode\/48553\/quantified",
+                        "image": "http:\/\/www.lostdecadegames.com\/media\/images\/lostcast\/600x600.jpg",
+                        "channel_title": "Lostcast",
+                        "type": 1,
+                        "title": "Lostcast 247: Ship It!",
+                        "duration": "10242"
+                    },
+                    "10": {
+                        "id": "67259",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67259\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000403409991-iio91f-original.jpg",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "68. \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0435\u043d \u0435\u043f\u0438\u0437\u043e\u0434: Article 11 \u0438 13 (feat. \u0410\u043d\u0430 \u041b\u0430\u0437\u0430\u0440\u043e\u0432\u0430)",
+                        "duration": "5539"
+                    },
+                    "12": {
+                        "id": "67301",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67301\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5b97dcd840ec9ace916df311\/1536684261660\/1500w\/Hello+Internet+slides.002.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #109: Twitter War Room",
+                        "duration": "7209"
+                    },
+                    "16": {
+                        "id": "67338",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67338\/quantified",
+                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/powerpress\/noun_Radio_1148532.jpg",
+                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
+                        "type": 1,
+                        "title": "05. \u0411\u0435\u0437\u043e\u0433\u043b\u0435\u0434\u0430\u043b\u043d\u0438\u0442\u0435 Canon \u0438 Nikon, Marvel\u2019s Spider-Man \u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u0435\u0442\u043e \u043d\u0430 HTC",
+                        "duration": "4029"
+                    }
+                },
+                "youtube": {
+                    "1": {
+                        "id": "65154",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65154\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6MSksJhPcVA\/hqdefault.jpg",
+                        "channel_title": "Fun Fun Function",
+                        "type": 2,
+                        "title": "Let's code a speed typing game with ReasonML and Comic Sans as editor font",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "65428",
+                        "url": "http:\/\/cast.writtn.com\/episode\/65428\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8Gn6_YoiuVI\/hqdefault.jpg",
+                        "channel_title": "pocket83",
+                        "type": 2,
+                        "title": "T-leg workbench design & build (\u00bd hour special!)",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "67146",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67146\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HCxJ4gAt2cs\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "i'm Best Friends with my Own Front Door",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "67156",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67156\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/SeSz6MoX00Q\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Video History: V2000 - The format that came third in a two-horse race",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "67160",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67160\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kJXRyWQgOY4\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Testing LCBs (Lithium Ceramic Batteries) || The Future of Battery Technology?",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "67170",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67170\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BdhvIfmRtvQ\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Planet X3 Status Update - Part 3",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "67195",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67195\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/e0kKAgp2uZ0\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Radio Shack Computer Keyboard Calculator",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "67218",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67218\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/v1SpVYmcTGM\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Spider-Man",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "67214",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67214\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CmgsNodnuUk\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "SELF-HEATING Instant Chinese Spicy HOT POT - add water & watch it heat itself like an MRE",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "67279",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67279\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EodxubsO8EI\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "How Fighting Wildfires Works",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "67299",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67299\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Go0BQugwGgM\/hqdefault.jpg",
+                        "channel_title": "Mark Brown",
+                        "type": 2,
+                        "title": "Playing Past Your Mistakes | Game Maker's Toolkit",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "67295",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67295\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UcqzDbB-9tI\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Lemon Pepper Potatoes - Food Wishes",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "67312",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67312\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TdJLhl0c0ZM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #110 - Why is it Named THAT?!",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "66239",
+                        "url": "http:\/\/cast.writtn.com\/episode\/66239\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/E85HMNJix_o\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why protected bike lanes are more valuable than parking spaces",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "67314",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67314\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1UnIDL-eHOs\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why we say \u201cOK\u201d",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "66382",
+                        "url": "http:\/\/cast.writtn.com\/episode\/66382\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/GEu3lv6i0LY\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "Peppermint - Movie Review",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-09-14": {
+            "health": {
+                "weight": 75.2,
+                "height": 173,
+                "age": 13785
+            },
+            "nutrition": {
+                "calories": 1800.18,
+                "fat": 143.94,
+                "carbohydrates": 57.59,
+                "protein": 66.04
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "5": {
+                        "id": "67334",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67334\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "CAROLINAS, PLEASE EVACUATE",
+                        "duration": "1214"
+                    },
+                    "6": {
+                        "id": "46223",
+                        "url": "http:\/\/cast.writtn.com\/episode\/46223\/quantified",
+                        "image": "http:\/\/www.lostdecadegames.com\/media\/images\/lostcast\/600x600.jpg",
+                        "channel_title": "Lostcast",
+                        "type": 1,
+                        "title": "Lostcast 243: Podcast of the West",
+                        "duration": "3378"
+                    },
+                    "7": {
+                        "id": "67186",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67186\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: The Safest Car in the World?",
+                        "duration": "548"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "67332",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67332\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZaCNrS38hgM\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "My Sex Surprises",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "67348",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67348\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EjsBV25Z5rU\/hqdefault.jpg",
+                        "channel_title": "Chris Notap",
+                        "type": 2,
+                        "title": "How to Make a \u25cf Simple Catch and Release Coke Bottle Mousetrap ( that works ! )",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "67384",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67384\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4DE_4HUX94E\/hqdefault.jpg",
+                        "channel_title": "Ars Technica",
+                        "type": 2,
+                        "title": "10 Things You Might Not Have Noticed in Fortnite | Ars Technica",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "67372",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67372\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/P8MQTgdjcLE\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Poland is pushing the EU into crisis",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "67404",
+                        "url": "http:\/\/cast.writtn.com\/episode\/67404\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zr85ftKtE4M\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Indecision",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-09-15": {
+            "health": {
+                "weight": 74.5,
+                "height": 173,
+                "age": 13786
+            },
+            "nutrition": {
+                "calories": 4503.71,
+                "fat": 390.5,
+                "carbohydrates": 132.33,
+                "protein": 116.12
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-09-16": {
+            "health": {
+                "weight": 75.1,
+                "height": 173,
+                "age": 13787
+            },
+            "nutrition": {
+                "calories": 3233.78,
+                "fat": 254.16,
+                "carbohydrates": 110.66,
+                "protein": 115.38
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "68357",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68357\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UdjzmmcJgDM\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "DC-2: The Story of the First Robot Ever 'Arrested'",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68380",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68380\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/s2ebZXQ_J8Q\/hqdefault.jpg",
+                        "channel_title": "Mark Brown",
+                        "type": 2,
+                        "title": "The Best Games from GMTK Game Jam 2018",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68373",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68373\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hKd3Ui8f0-c\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Mario's Balloon World",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68360",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68360\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ycfisyJ1Ys0\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "The Predator - Movie Review",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68388",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68388\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/myHg8ulY6To\/hqdefault.jpg",
+                        "channel_title": "Food Wishes",
+                        "type": 2,
+                        "title": "Feta Roast Chicken - Food Wishes",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68390",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68390\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/gc46jzozR-Q\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "ADG Episode 247 - Wheel of Fortune",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68404",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68404\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YKcldVnVEP8\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "The Wisecrack Guide to The Purge TV Series \u2013 Wisecrack Quick Take",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68335",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68335\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bghWnedqHGo\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Sauerkraut (Pickled Cabbage) Cherry Cola Mayonnaise Chocolate CAKE",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": "tt3778644",
+                        "title": "Solo: A Star Wars Story",
+                        "year": "2018",
+                        "url": "https:\/\/www.imdb.com\/title\/tt3778644\/"
+                    }
+                ],
                 "photos": []
             }
         }
