@@ -37335,10 +37335,10 @@
                 "age": 13797
             },
             "nutrition": {
-                "calories": 3056.37,
-                "fat": 242.7,
-                "carbohydrates": 88.85,
-                "protein": 119.68
+                "calories": 3308.37,
+                "fat": 263.9,
+                "carbohydrates": 92.85,
+                "protein": 130.08
             },
             "exercise": {
                 "pushups": 0,
@@ -37428,6 +37428,50 @@
                         "channel_title": "videogamedunkey",
                         "type": 2,
                         "title": "Kingdom Hearts Explained",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-09-27": {
+            "health": {
+                "weight": 75.6,
+                "height": 173,
+                "age": 13798
+            },
+            "nutrition": {
+                "calories": 3315.48,
+                "fat": 268.62,
+                "carbohydrates": 103.32,
+                "protein": 122.89
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "68890",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68890\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/v8lUkxlwOZY\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Deck construction: fatal flaw? Solution?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "68943",
+                        "url": "http:\/\/cast.writtn.com\/episode\/68943\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/c-VU6oeFkPw\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "The Art of Point and Click Adventure Games - Bitmap Book Review",
                         "duration": "0"
                     }
                 ],
