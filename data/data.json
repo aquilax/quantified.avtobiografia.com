@@ -41005,7 +41005,7 @@
             "health": {
                 "weight": 0,
                 "height": 0,
-                "age": 6
+                "age": 7
             },
             "nutrition": {
                 "calories": 0,
@@ -41569,15 +41569,6 @@
                         "type": 1,
                         "title": "Reflections on the smart phone",
                         "duration": "1745"
-                    },
-                    "99": {
-                        "id": "72184",
-                        "url": "http:\/\/cast.writtn.com\/episode\/72184\/quantified",
-                        "image": "http:\/\/www.abc.net.au\/radionational\/image\/10452030-4x3-140x105.jpg",
-                        "channel_title": "Future Tense - ABC - RN",
-                        "type": 1,
-                        "title": "Transitioning to a new  economy",
-                        "duration": "1746"
                     }
                 },
                 "youtube": {
@@ -41911,7 +41902,7 @@
                         "image": "https:\/\/i3.ytimg.com\/vi\/62tIvfP9A2w\/hqdefault.jpg",
                         "channel_title": "Vox",
                         "type": 2,
-                        "title": "Jazz Deconstructed: John Coltrane's \"Giant Steps\"",
+                        "title": "The most feared song in jazz, explained",
                         "duration": "0"
                     },
                     "46": {
@@ -41932,7 +41923,7 @@
             "health": {
                 "weight": 0,
                 "height": 0,
-                "age": 5
+                "age": 6
             },
             "nutrition": {
                 "calories": 0,
@@ -41957,7 +41948,7 @@
             "health": {
                 "weight": 0,
                 "height": 0,
-                "age": 4
+                "age": 5
             },
             "nutrition": {
                 "calories": 0,
@@ -41982,6 +41973,41 @@
             "health": {
                 "weight": 0,
                 "height": 0,
+                "age": 4
+            },
+            "nutrition": {
+                "calories": 0,
+                "fat": 0,
+                "carbohydrates": 0,
+                "protein": 0
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "73473",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73473\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Dn2PFebi2ww\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Does it suck? Chinese DIY Pure Sine Wave Inverter || Sinusoidal PWM (SPWM) Tutorial",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-11-20": {
+            "health": {
+                "weight": 0,
+                "height": 0,
                 "age": 3
             },
             "nutrition": {
@@ -42003,7 +42029,7 @@
                 "photos": []
             }
         },
-        "2018-11-20": {
+        "2018-11-21": {
             "health": {
                 "weight": 0,
                 "height": 0,
@@ -42028,7 +42054,7 @@
                 "photos": []
             }
         },
-        "2018-11-21": {
+        "2018-11-22": {
             "health": {
                 "weight": 0,
                 "height": 0,
