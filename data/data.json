@@ -1,0 +1,196 @@
+{
+    "data": {
+        "2018-11-25": {
+            "health": {
+                "weight": 77.6,
+                "height": 173,
+                "age": 13857
+            },
+            "nutrition": {
+                "calories": 3013.53,
+                "fat": 245.69,
+                "carbohydrates": 126.37,
+                "protein": 80.1
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [
+                    {
+                        "id": "350",
+                        "title": "Stranger in a Strange Land",
+                        "author": "Robert A. Heinlein",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/1739274326?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1156897088l\/350.jpg",
+                        "user_rating": 3,
+                        "marked_as_read": "2018-11-25T08:18:51+00:00"
+                    }
+                ],
+                "podcast": [],
+                "youtube": [],
+                "movies": [
+                    {
+                        "id": "tt2873282",
+                        "title": "Red Sparrow",
+                        "year": "2018",
+                        "url": "https:\/\/www.imdb.com\/title\/tt2873282\/"
+                    }
+                ],
+                "photos": []
+            }
+        },
+        "2018-11-26": {
+            "health": {
+                "weight": 77.5,
+                "height": 173,
+                "age": 13858
+            },
+            "nutrition": {
+                "calories": 2195.08,
+                "fat": 142.18,
+                "carbohydrates": 134.4,
+                "protein": 79.77
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-11-27": {
+            "health": {
+                "weight": 77.8,
+                "height": 173,
+                "age": 13859
+            },
+            "nutrition": {
+                "calories": 1459.36,
+                "fat": 94.96,
+                "carbohydrates": 69.6,
+                "protein": 75.28
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-11-28": {
+            "health": {
+                "weight": 77.8,
+                "height": 173,
+                "age": 13860
+            },
+            "nutrition": {
+                "calories": 2265.24,
+                "fat": 126.63,
+                "carbohydrates": 176.78,
+                "protein": 89.44
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-11-29": {
+            "health": {
+                "weight": 78,
+                "height": 173,
+                "age": 13861
+            },
+            "nutrition": {
+                "calories": 2147.73,
+                "fat": 131.51,
+                "carbohydrates": 139.94,
+                "protein": 94.75
+            },
+            "exercise": {
+                "pushups": 10,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-11-30": {
+            "health": {
+                "weight": 77.8,
+                "height": 173,
+                "age": 13862
+            },
+            "nutrition": {
+                "calories": 1415.91,
+                "fat": 71.68,
+                "carbohydrates": 127.19,
+                "protein": 64.66
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-12-01": {
+            "health": {
+                "weight": 78,
+                "height": 173,
+                "age": 13863
+            },
+            "nutrition": {
+                "calories": 0,
+                "fat": 0,
+                "carbohydrates": 0,
+                "protein": 0
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        }
+    }
+}
