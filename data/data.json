@@ -57,7 +57,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 6376
             },
             "media": {
                 "books": [],
@@ -82,7 +82,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 12783
             },
             "media": {
                 "books": [],
@@ -107,7 +107,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4535
             },
             "media": {
                 "books": [],
@@ -132,7 +132,7 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5763
             },
             "media": {
                 "books": [],
@@ -149,15 +149,15 @@
                 "age": 13862
             },
             "nutrition": {
-                "calories": 1415.91,
+                "calories": 1422.82,
                 "fat": 71.68,
-                "carbohydrates": 127.19,
-                "protein": 64.66
+                "carbohydrates": 128.63,
+                "protein": 64.67
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4539
             },
             "media": {
                 "books": [],
@@ -174,10 +174,35 @@
                 "age": 13863
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 4498.23,
+                "fat": 309.65,
+                "carbohydrates": 287.67,
+                "protein": 134.4
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 10616
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-12-02": {
+            "health": {
+                "weight": 78.3,
+                "height": 173,
+                "age": 13864
+            },
+            "nutrition": {
+                "calories": 2259.47,
+                "fat": 177.83,
+                "carbohydrates": 110.39,
+                "protein": 60.78
             },
             "exercise": {
                 "pushups": 0,
@@ -188,7 +213,20 @@
                 "books": [],
                 "podcast": [],
                 "youtube": [],
-                "movies": [],
+                "movies": [
+                    {
+                        "id": "tt1270797",
+                        "title": "Venom",
+                        "year": "2018",
+                        "url": "https:\/\/www.imdb.com\/title\/tt1270797\/"
+                    },
+                    {
+                        "id": "tt1295072",
+                        "title": "The Trotsky",
+                        "year": "2009",
+                        "url": "https:\/\/www.imdb.com\/title\/tt1295072\/"
+                    }
+                ],
                 "photos": []
             }
         }
