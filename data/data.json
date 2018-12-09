@@ -343,7 +343,7 @@
                     "30": {
                         "id": "73690",
                         "url": "http:\/\/cast.writtn.com\/episode\/73690\/quantified",
-                        "image": "http:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
+                        "image": "https:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
                         "channel_title": "Science Vs",
                         "type": 1,
                         "title": "7 Minute Workout: Fit or Fad?",
@@ -352,7 +352,7 @@
                     "31": {
                         "id": "74118",
                         "url": "http:\/\/cast.writtn.com\/episode\/74118\/quantified",
-                        "image": "http:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
+                        "image": "https:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
                         "channel_title": "Science Vs",
                         "type": 1,
                         "title": "Ancient Aliens: Who Really Built the Pyramids?",
@@ -654,7 +654,7 @@
                         "image": "https:\/\/i2.ytimg.com\/vi\/1rPMkeaY6Ao\/hqdefault.jpg",
                         "channel_title": "John Heisz - I Build It",
                         "type": 2,
-                        "title": "This Push Stick Looks STUNNING - Here's How I Made it",
+                        "title": "Spalted Maple Push Stick - Here's How I Made it",
                         "duration": "0"
                     },
                     "44": {
@@ -814,6 +814,31 @@
             },
             "exercise": {
                 "pushups": 10,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-12-08": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13870
+            },
+            "nutrition": {
+                "calories": 3014.3,
+                "fat": 173.82,
+                "carbohydrates": 273.49,
+                "protein": 76.33
+            },
+            "exercise": {
+                "pushups": 0,
                 "crunches": 0,
                 "steps": 0
             },
