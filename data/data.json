@@ -1037,7 +1037,7 @@
                         "image": "https:\/\/i3.ytimg.com\/vi\/zOBa6Of80No\/hqdefault.jpg",
                         "channel_title": "LGR",
                         "type": 2,
-                        "title": "The Unexpected Weirdness of Christmas Stories: Nutcracker",
+                        "title": "Hidden Weirdness in Christmas Stories: Nutcracker",
                         "duration": "0"
                     },
                     "14": {
@@ -1303,10 +1303,10 @@
                 "age": 13874
             },
             "nutrition": {
-                "calories": 2510.63,
-                "fat": 179.95,
-                "carbohydrates": 87.91,
-                "protein": 121.6
+                "calories": 2714.37,
+                "fat": 194.59,
+                "carbohydrates": 90.35,
+                "protein": 135.02
             },
             "exercise": {
                 "pushups": 13,
@@ -1479,6 +1479,31 @@
                         "duration": "585"
                     }
                 ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2018-12-13": {
+            "health": {
+                "weight": 78.4,
+                "height": 173,
+                "age": 13875
+            },
+            "nutrition": {
+                "calories": 3081.98,
+                "fat": 274.21,
+                "carbohydrates": 85.96,
+                "protein": 148.5
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
                 "youtube": [],
                 "movies": [],
                 "photos": []
