@@ -3932,6 +3932,958 @@
                 "movies": [],
                 "photos": []
             }
+        },
+        "2019-01-19": {
+            "health": {
+                "weight": 79.8,
+                "height": 173,
+                "age": 13912
+            },
+            "nutrition": {
+                "calories": 39298.81,
+                "fat": 1161.16,
+                "carbohydrates": 1464.34,
+                "protein": 5498.78
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-01-20": {
+            "health": {
+                "weight": 80.1,
+                "height": 173,
+                "age": 13913
+            },
+            "nutrition": {
+                "calories": 2467.2,
+                "fat": 130.32,
+                "carbohydrates": 213.31,
+                "protein": 97.74
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "51": {
+                        "id": "75226",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75226\/quantified",
+                        "image": "https:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
+                        "channel_title": "Science Vs",
+                        "type": 1,
+                        "title": "The Mystery of the Man Who Died Twice",
+                        "duration": "2558"
+                    },
+                    "52": {
+                        "id": "74855",
+                        "url": "http:\/\/cast.writtn.com\/episode\/74855\/quantified",
+                        "image": "https:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
+                        "channel_title": "Science Vs",
+                        "type": 1,
+                        "title": "The Science Of Being Transgender",
+                        "duration": "2452"
+                    },
+                    "53": {
+                        "id": "76427",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76427\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/5b2cf993266c07b1ca7a812f\/t\/5be6533e21c67c7011438ef6\/1541821257628\/1500w\/podcast_square2_2000x2000.jpg",
+                        "channel_title": "The Numberphile Podcast",
+                        "type": 1,
+                        "title": "The Klein Bottle Guy - with Cliff Stoll",
+                        "duration": "3547"
+                    },
+                    "54": {
+                        "id": "76415",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76415\/quantified",
+                        "image": "http:\/\/static.megaphone.fm\/podcasts\/88893760-2e99-11e7-8a1e-5b5aeda498c7\/image\/uploads_2F1525293055614-btla492s9fs-64cffb73149b7382d686b0c32e57d6e7_2FBenchmark.png",
+                        "channel_title": "Benchmark",
+                        "type": 1,
+                        "title": "Introducing \"Works For Me,\" A New Podcast From Bloomberg",
+                        "duration": "206"
+                    },
+                    "55": {
+                        "id": "76568",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76568\/quantified",
+                        "image": "https:\/\/images.fireside.fm\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/cover.jpg?v=2",
+                        "channel_title": "\u0422\u0435\u0445\u0411\u0430\u043b\u043e\u043d",
+                        "type": 1,
+                        "title": "124: \u0413\u043e\u043b\u0435\u043c\u0438 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0441\u0442\u0438 \u0432 \u043c\u0430\u043b\u044a\u043a \u041a\u0438\u0442\u0430\u0439 \u0437\u0430 Apple",
+                        "duration": "3142"
+                    },
+                    "56": {
+                        "id": "75330",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75330\/quantified",
+                        "image": "https:\/\/images.fireside.fm\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/cover.jpg?v=2",
+                        "channel_title": "\u0422\u0435\u0445\u0411\u0430\u043b\u043e\u043d",
+                        "type": 1,
+                        "title": "123: \u041b\u0438\u0447\u043d\u0438 \u0434\u0430\u043d\u043d\u0438 \u0438 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u043d\u0438 \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u0446\u0438",
+                        "duration": "5333"
+                    },
+                    "57": {
+                        "id": "74618",
+                        "url": "http:\/\/cast.writtn.com\/episode\/74618\/quantified",
+                        "image": "https:\/\/images.fireside.fm\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/cover.jpg?v=2",
+                        "channel_title": "\u0422\u0435\u0445\u0411\u0430\u043b\u043e\u043d",
+                        "type": 1,
+                        "title": "122: \u0412\u0441\u0438\u0447\u043a\u0438\u0442\u0435 \u044f\u0431\u044a\u043b\u043a\u0438 \u0432 \u0435\u0434\u0438\u043d \u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+                        "duration": "4894"
+                    },
+                    "58": {
+                        "id": "76609",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76609\/quantified",
+                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
+                        "channel_title": "Exchanges at Goldman Sachs",
+                        "type": 1,
+                        "title": "Tech Talk 2019",
+                        "duration": "1113"
+                    },
+                    "59": {
+                        "id": "75223",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75223\/quantified",
+                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
+                        "channel_title": "Exchanges at Goldman Sachs",
+                        "type": 1,
+                        "title": "Founders' Spotlight: What It's Really Like to Start and Scale a Business",
+                        "duration": "1972"
+                    },
+                    "60": {
+                        "id": "76654",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76654\/quantified",
+                        "image": "https:\/\/stealthisshow.com\/wp-content\/uploads\/powerpress\/34101882.png",
+                        "channel_title": "STEAL THIS SHOW",
+                        "type": 1,
+                        "title": "Loomio: Rebuilding Our Cultural OS, with Rich Bartlett",
+                        "duration": "4405"
+                    },
+                    "61": {
+                        "id": "75167",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75167\/quantified",
+                        "image": "https:\/\/stealthisshow.com\/wp-content\/uploads\/powerpress\/34101882.png",
+                        "channel_title": "STEAL THIS SHOW",
+                        "type": 1,
+                        "title": "How To Build A Counterpower, with Inhabit",
+                        "duration": "4150"
+                    },
+                    "62": {
+                        "id": "76729",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76729\/quantified",
+                        "image": "http:\/\/www.abc.net.au\/radionational\/image\/9999494-4x3-140x105.jpg",
+                        "channel_title": "Future Tense - ABC - RN",
+                        "type": 1,
+                        "title": "Who would want to be a diplomat?",
+                        "duration": "1747"
+                    },
+                    "63": {
+                        "id": "76385",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76385\/quantified",
+                        "image": "http:\/\/www.abc.net.au\/radionational\/image\/9981026-4x3-140x105.jpg",
+                        "channel_title": "Future Tense - ABC - RN",
+                        "type": 1,
+                        "title": "A not so diplomatic future",
+                        "duration": "1747"
+                    },
+                    "64": {
+                        "id": "76089",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76089\/quantified",
+                        "image": "http:\/\/www.abc.net.au\/radionational\/image\/9576922-4x3-140x105.jpg",
+                        "channel_title": "Future Tense - ABC - RN",
+                        "type": 1,
+                        "title": "Faked reality",
+                        "duration": "1746"
+                    },
+                    "65": {
+                        "id": "76677",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76677\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/248694\/1546878801-artwork.jpg",
+                        "channel_title": "Giant Robots Smashing Into Other Giant Robots",
+                        "type": 1,
+                        "title": "303: Building Something Special (Margaret McKenna)",
+                        "duration": "1712"
+                    },
+                    "66": {
+                        "id": "76336",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76336\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/248015\/1546625502-artwork.jpg",
+                        "channel_title": "Giant Robots Smashing Into Other Giant Robots",
+                        "type": 1,
+                        "title": "302: What Stage Are We In? (Sam Clemens)",
+                        "duration": "2450"
+                    },
+                    "67": {
+                        "id": "76778",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76778\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "665: How Retirement Changes Your Identity",
+                        "duration": "1560"
+                    },
+                    "68": {
+                        "id": "76434",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76434\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "664: The Harsh Reality of Innovative Companies",
+                        "duration": "1343"
+                    },
+                    "69": {
+                        "id": "76182",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76182\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "663: How One Google Engineer Turned Tragedy into a Moonshot",
+                        "duration": "1461"
+                    },
+                    "70": {
+                        "id": "75536",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75536\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "662: Improving Civility in the Workplace",
+                        "duration": "1522"
+                    },
+                    "71": {
+                        "id": "76786",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76786\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0605llh.jpg",
+                        "channel_title": "People Fixing The World",
+                        "type": 1,
+                        "title": "The Talent Show for Honest People",
+                        "duration": "1415"
+                    },
+                    "72": {
+                        "id": "76440",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76440\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0605llh.jpg",
+                        "channel_title": "People Fixing The World",
+                        "type": 1,
+                        "title": "Does the world need more babies?",
+                        "duration": "1394"
+                    },
+                    "73": {
+                        "id": "76139",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76139\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0605llh.jpg",
+                        "channel_title": "People Fixing The World",
+                        "type": 1,
+                        "title": "Checking in with the Problem Solvers",
+                        "duration": "2004"
+                    },
+                    "74": {
+                        "id": "76839",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76839\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Apple in China, and Payday Lending",
+                        "duration": "1912"
+                    },
+                    "75": {
+                        "id": "76180",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76180\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "New Year\u2019s Crystal Ball Episode",
+                        "duration": "2128"
+                    },
+                    "76": {
+                        "id": "76851",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76851\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/07fROJ_9RSQLN_rfFSPs8Xij10g=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/c35a1e4a-8f3e-4e5e-b285-11e2bb109be2\/cover-image-jqzjf8yd-wells_fargo_podcast.jpg",
+                        "channel_title": "FT Big Read",
+                        "type": 1,
+                        "title": "Wells Fargo: repairing a damaged brand",
+                        "duration": "735"
+                    },
+                    "77": {
+                        "id": "76557",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76557\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/uME9g7AkvGZyNr2-SnoriPPWnBo=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/9fb4c0ed-c941-4ac3-88b8-9c990e494659\/cover-image-jqqoqvnl-data_brokers_picture.jpg",
+                        "channel_title": "FT Big Read",
+                        "type": 1,
+                        "title": "Data brokers: regulators tackle the 'privacy deathstars'",
+                        "duration": "818"
+                    },
+                    "78": {
+                        "id": "75284",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75284\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/wEMas7SFRAI7uMnDWzbSH6jvS00=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/e023e766-5995-416c-b166-1f69b48efa7b\/cover-image-jpy0k2to-1400_george-soros.jpg",
+                        "channel_title": "FT Big Read",
+                        "type": 1,
+                        "title": "Person of the Year 2018: George Soros",
+                        "duration": "1305"
+                    },
+                    "79": {
+                        "id": "76850",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76850\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/1N00mMhgGUXzQ_i_i3Sk4AWINko=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/a8c5b45b-00a2-4566-902a-482f6197470e\/cover-image-jqzjktjq-congo_vote.jpg",
+                        "channel_title": "FT World Weekly",
+                        "type": 1,
+                        "title": "Congo's moment of truth    ",
+                        "duration": "808"
+                    },
+                    "80": {
+                        "id": "76603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76603\/quantified",
+                        "image": "https:\/\/thumborcdn.acast.com\/2BE9SbZkDN92qHngsV3rhZELp7c=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/15d247a1-600d-40bd-9c8d-8b50f3d9b28a\/cover-image-jqrm0qrv-euparliament.jpg",
+                        "channel_title": "FT World Weekly",
+                        "type": 1,
+                        "title": "Europe's watershed year",
+                        "duration": "866"
+                    },
+                    "81": {
+                        "id": "76506",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76506\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p053y7bh.jpg",
+                        "channel_title": "The Inquiry",
+                        "type": 1,
+                        "title": "Can We Stop a Mass Extinction?",
+                        "duration": "1444"
+                    },
+                    "82": {
+                        "id": "76852",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76852\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p053y7bh.jpg",
+                        "channel_title": "The Inquiry",
+                        "type": 1,
+                        "title": "What Would It Take to Impeach Trump?",
+                        "duration": "1451"
+                    },
+                    "83": {
+                        "id": "76192",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76192\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p053y7bh.jpg",
+                        "channel_title": "The Inquiry",
+                        "type": 1,
+                        "title": "Are We Heading for Another Mass Extinction?",
+                        "duration": "1440"
+                    },
+                    "84": {
+                        "id": "77020",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77020\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/254265\/1547686362-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "35: Make the Web Look Great with Matt Perry. On declarative animation, open source management, and importance of the open web",
+                        "duration": "2809"
+                    },
+                    "85": {
+                        "id": "77021",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77021\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/249935\/1547061073-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "34: Just Use a Button with Jen Luker",
+                        "duration": "2190"
+                    },
+                    "86": {
+                        "id": "77022",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77022\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/242817\/1545214691-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "33: Transcendence and the Future of React with Laurie Voss",
+                        "duration": "2892"
+                    },
+                    "87": {
+                        "id": "77023",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77023\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/239198\/1544598153-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "32: Steal the Platform with Vincent Riemer",
+                        "duration": "2314"
+                    },
+                    "88": {
+                        "id": "77024",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77024\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/235678\/1543912763-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "31: Hooks are Mixins with Ryan Florence",
+                        "duration": "2659"
+                    },
+                    "89": {
+                        "id": "77025",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77025\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/232892\/1543397356-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "30: Develop in the Cloud with Christina Holland",
+                        "duration": "1941"
+                    },
+                    "90": {
+                        "id": "77026",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77026\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/229926\/1542699470-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "29: Don't Rewrite Your App for Hooks and Suspense with Jared Palmer",
+                        "duration": "2862"
+                    },
+                    "91": {
+                        "id": "76845",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76845\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Surveillance",
+                        "duration": "1689"
+                    },
+                    "92": {
+                        "id": "76501",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76501\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Migrants - Refugees",
+                        "duration": "1732"
+                    },
+                    "93": {
+                        "id": "76184",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76184\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Work - what is it good for?",
+                        "duration": "1742"
+                    },
+                    "94": {
+                        "id": "75551",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75551\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Identity",
+                        "duration": "2623"
+                    },
+                    "95": {
+                        "id": "76043",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76043\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
+                        "channel_title": "Time to Eat the Dogs",
+                        "type": 1,
+                        "title": "The Medieval Pilgrimage",
+                        "duration": "1807"
+                    },
+                    "96": {
+                        "id": "76051",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76051\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
+                        "channel_title": "Time to Eat the Dogs",
+                        "type": 1,
+                        "title": "Inventing the American Astronaut",
+                        "duration": "2045"
+                    },
+                    "97": {
+                        "id": "75999",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75999\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
+                        "channel_title": "Time to Eat the Dogs",
+                        "type": 1,
+                        "title": "Replay: The Medieval Pilgrimage",
+                        "duration": "1807"
+                    },
+                    "98": {
+                        "id": "76000",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76000\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
+                        "channel_title": "Time to Eat the Dogs",
+                        "type": 1,
+                        "title": "Replay: Inventing the American Astronaut",
+                        "duration": "2045"
+                    },
+                    "99": {
+                        "id": "76911",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76911\/quantified",
+                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/2018\/11\/tranzistor-logo.png",
+                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
+                        "type": 1,
+                        "title": "20. CES \u0438 \u043f\u043b\u0430\u043d\u043e\u0432\u0435\u0442\u0435 \u043d\u0438 \u0437\u0430 2019",
+                        "duration": "6280"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "77000",
+                        "url": "http:\/\/cast.writtn.com\/episode\/77000\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/aRuJxNVsll0\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "What Emmy Eats in a Week 2019 - easy ways to get greens & fermented foods in your diet",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "75487",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75487\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Pd8whXYUz20\/hqdefault.jpg",
+                        "channel_title": "Jill Bearup",
+                        "type": 2,
+                        "title": "Merry Christmas! See you in 2019!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76449",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76449\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/msjuRoZ0Vu8\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "The New Economy of the Warming Arctic",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76625",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76625\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HEMhpInIACk\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Compaq and Hyperion - The First IBM Clones",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76224",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76224\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kPFnqUR_8Ug\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Sun at Aphelion Vs Perihelion",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76386",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76386\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Q2yZNOOdsnE\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Coating Copper in Brass and Bronze",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76606",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76606\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/o9UGvnS0lAE\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Can I Burn Through Starlite?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "75509",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75509\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Wu-vtUvqRm0\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Archived Livestream (Dec 2018) - Deltarune",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76460",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76460\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BAbJS1tbI-c\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #126 - Rated at Gallons per Mile",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76631",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76631\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/HVtDAr7dcjM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Stat Balancing - One Must Fall 2097 - ADG Pro 1",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "75678",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75678\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/M7CkdB5z9PY\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Aliens under the Ice \u2013 Life on Rogue Planets",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76658",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76658\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8PmM6SUn7Es\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Is Organic Really Better? Healthy Food or Trendy Scam?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "73925",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73925\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6DNAmDYiu6k\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "Tape Recorders of Mission Impossible Ep.1",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76705",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76705\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0i3gRFekbt0\/hqdefault.jpg",
+                        "channel_title": "Techmoan",
+                        "type": 2,
+                        "title": "RETROTECH - The Bone Fone",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76966",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76966\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Nksb2RCNsF0\/hqdefault.jpg",
+                        "channel_title": "Clickspring",
+                        "type": 2,
+                        "title": "Antikythera Fragment #8 - Layout Line Visibility",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "75867",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75867\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/O2yPnnDfqpw\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "i just did a bad thing",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76304",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76304\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/phsLfS3VaRg\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "ball & stick",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76999",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76999\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/q-qqrGtlHkg\/hqdefault.jpg",
+                        "channel_title": "bill wurtz",
+                        "type": 2,
+                        "title": "at the airport terminal",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76791",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76791\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/fyv1i2YbNt0\/hqdefault.jpg",
+                        "channel_title": "MindYourDecisions",
+                        "type": 2,
+                        "title": "Math Problem From Marvel's Agents Of S.H.I.E.L.D.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76458",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76458\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bJj0xOeLbhs\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Epoxy for Leather Glove Repair? Test result: \u2605\u2605\u2605\u00bd",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76866",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76866\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/awHOXKG_QaQ\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "The Orange Axe (flea market restore, split handle)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76830",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76830\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TGN1Zi5aZfI\/hqdefault.jpg",
+                        "channel_title": "sexplanations",
+                        "type": 2,
+                        "title": "The Front Hole Debate",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "75400",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75400\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/iNkkMMaXSBI\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Super Seducer 2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76570\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1UhFWoDZLxA\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Dunkey's Best of 2018",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76932",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76932\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XkksE5DKj8Y\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Super Duper Smash Bros. Ultimate",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76444",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76444\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Kuldry0X13M\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "An Entire Box of Street Fighter The Movie Trading Cards | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76667",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76667\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Icd3jf4BJdM\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Wish.com Random Item Reviews | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76898",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76898\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zWoWImKAjmI\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Subscription Boxes January 2019 - Loot Crate, Akibento, Munchpak | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76879",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76879\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_Wb2Rddn3nk\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "The problem with video gambling machines",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76945",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76945\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VJhsjUPDulw\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "How tax brackets actually work",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76657",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76657\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/t9QZm6sdHRc\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Decoding a BINK video using libavcodec (remastered)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76982",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76982\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TtKmQI_prxs\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Introduction to Finnish phonology",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76467",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76467\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Iz-XTR3pwrE\/hqdefault.jpg",
+                        "channel_title": "Game Maker's Toolkit",
+                        "type": 2,
+                        "title": "The Year Stealth Games Got Serious | Game Maker's Toolkit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76988",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76988\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eXEQ8VBqXBY\/hqdefault.jpg",
+                        "channel_title": "Game Maker's Toolkit",
+                        "type": 2,
+                        "title": "Should Roguelikes Have Persistent Upgrades? | Game Maker's Toolkit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76371",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76371\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/pQnCdDpU1to\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "GameShark for Windows 95: The PC Game Enhancer",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76597",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76597\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/p5t-UNIkv28\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Building a \"Lego\" NES Mini Console (with a Raspberry Pi)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76953",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76953\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UtRqgszxZlg\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR Oddware: SpaceOrb 360 RealLife 3D Game Controller",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76993",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76993\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1Ph_ORewpE0\/hqdefault.jpg",
+                        "channel_title": "Primitive Technology",
+                        "type": 2,
+                        "title": "Primitive Technology: Stone Yam planters",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "71963",
+                        "url": "http:\/\/cast.writtn.com\/episode\/71963\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/L4KwFZCSZYI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "CANDY CORN Elotes - DIY cob of candy corn slathered in mayo, butter & cheese",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "72157",
+                        "url": "http:\/\/cast.writtn.com\/episode\/72157\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/w1bP7Zxhgns\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "EGGLETTES vs. EGG - Is it Better to Hard-Boil an Egg Without its Shell? - DOES IT WORK?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "72274",
+                        "url": "http:\/\/cast.writtn.com\/episode\/72274\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KMw8Vwg5tPg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "$55 GAC Fruit Taste Test | Fruity Fruits - Baby Jackfruit, Qu\u00e1 Guc",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "73368",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73368\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OoN1riVG5Cw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Emmy Eats Cajun LOUISIANA - BOUDIN sausages (5 flavors!) & cracklins, pralines, Steen's cane syrup",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "72361",
+                        "url": "http:\/\/cast.writtn.com\/episode\/72361\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/P0Lc1iX1X6Y\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "X\u00f4i Gac - GAC Fruit Rice  Recipe Test & Taste",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "73460",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73460\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/REzuF5cqy6I\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Japanese EDIBLE WATER BALLOONS - gush when you bite them - Fushigidama Candy Kit | Whatcha Eating?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "73539",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73539\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Y0hnwtpS9dE\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Cajun Fried Alligator Recipe Taste Test \ud83d\udc0a",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "73739",
+                        "url": "http:\/\/cast.writtn.com\/episode\/73739\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1e929eJQBwc\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "PEANUT BUTTER Potato Salad - Retro Recipe Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76382",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76382\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EYdputFNDBM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "KFC SECRET Recipe Revealed? - Deep Fried vs. AIR FRIED - KFC's 11 herbs & spices",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76556",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76556\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0dy_B2oVqXk\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Shuwa Shuwa Slime -Japanese EDIBLE blue SNOT SLIME kit with sprinkles | Whatcha Eating?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76649",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76649\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/b74jmh-wlEg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Confederate Hospital TOAST SOUP Civil War Recipe | HARD TIMES - food in times of scarcity",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76732",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76732\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0xdW4xccFkE\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "MILKY WAY Bar Swirl CAKE with Milky Way Glaze - Retro Recipe-from-the-back-of-box Test",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "76908",
+                        "url": "http:\/\/cast.writtn.com\/episode\/76908\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/FevqXhy6Hz4\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "DIY INKIGAYO Sandwich - the egg salad, STRAWBERRY JAM & cabbage K-POP STAR sandwich",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
         }
     }
 }
