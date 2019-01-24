@@ -4355,69 +4355,6 @@
                         "type": 1,
                         "title": "Migrants - Refugees",
                         "duration": "1732"
-                    },
-                    "93": {
-                        "id": "76184",
-                        "url": "http:\/\/cast.writtn.com\/episode\/76184\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
-                        "channel_title": "Thinking Allowed",
-                        "type": 1,
-                        "title": "Work - what is it good for?",
-                        "duration": "1742"
-                    },
-                    "94": {
-                        "id": "75551",
-                        "url": "http:\/\/cast.writtn.com\/episode\/75551\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
-                        "channel_title": "Thinking Allowed",
-                        "type": 1,
-                        "title": "Identity",
-                        "duration": "2623"
-                    },
-                    "95": {
-                        "id": "76043",
-                        "url": "http:\/\/cast.writtn.com\/episode\/76043\/quantified",
-                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
-                        "channel_title": "Time to Eat the Dogs",
-                        "type": 1,
-                        "title": "The Medieval Pilgrimage",
-                        "duration": "1807"
-                    },
-                    "96": {
-                        "id": "76051",
-                        "url": "http:\/\/cast.writtn.com\/episode\/76051\/quantified",
-                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
-                        "channel_title": "Time to Eat the Dogs",
-                        "type": 1,
-                        "title": "Inventing the American Astronaut",
-                        "duration": "2045"
-                    },
-                    "97": {
-                        "id": "75999",
-                        "url": "http:\/\/cast.writtn.com\/episode\/75999\/quantified",
-                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
-                        "channel_title": "Time to Eat the Dogs",
-                        "type": 1,
-                        "title": "Replay: The Medieval Pilgrimage",
-                        "duration": "1807"
-                    },
-                    "98": {
-                        "id": "76000",
-                        "url": "http:\/\/cast.writtn.com\/episode\/76000\/quantified",
-                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
-                        "channel_title": "Time to Eat the Dogs",
-                        "type": 1,
-                        "title": "Replay: Inventing the American Astronaut",
-                        "duration": "2045"
-                    },
-                    "99": {
-                        "id": "76911",
-                        "url": "http:\/\/cast.writtn.com\/episode\/76911\/quantified",
-                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/2018\/11\/tranzistor-logo.png",
-                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
-                        "type": 1,
-                        "title": "20. CES \u0438 \u043f\u043b\u0430\u043d\u043e\u0432\u0435\u0442\u0435 \u043d\u0438 \u0437\u0430 2019",
-                        "duration": "6280"
                     }
                 },
                 "youtube": [
@@ -4924,6 +4861,31 @@
             },
             "exercise": {
                 "pushups": 10,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-01-23": {
+            "health": {
+                "weight": 80.3,
+                "height": 173,
+                "age": 13916
+            },
+            "nutrition": {
+                "calories": 2270.47,
+                "fat": 121.38,
+                "carbohydrates": 137.35,
+                "protein": 122.97
+            },
+            "exercise": {
+                "pushups": 0,
                 "crunches": 0,
                 "steps": 0
             },
