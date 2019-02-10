@@ -5320,15 +5320,15 @@
                 "age": 13927
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 3327.68,
+                "fat": 248.31,
+                "carbohydrates": 167.7,
+                "protein": 101.68
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 1128
             },
             "media": {
                 "books": [],
@@ -5345,15 +5345,15 @@
                 "age": 13928
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 3122.38,
+                "fat": 215.28,
+                "carbohydrates": 175.93,
+                "protein": 113.71
             },
             "exercise": {
                 "pushups": 10,
                 "crunches": 0,
-                "steps": 0
+                "steps": 2645
             },
             "media": {
                 "books": [],
@@ -5370,15 +5370,15 @@
                 "age": 13929
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 1557.26,
+                "fat": 96.09,
+                "carbohydrates": 70.82,
+                "protein": 83.4
             },
             "exercise": {
                 "pushups": 12,
                 "crunches": 0,
-                "steps": 0
+                "steps": 14565
             },
             "media": {
                 "books": [],
@@ -5395,15 +5395,15 @@
                 "age": 13930
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 2616.16,
+                "fat": 147.6,
+                "carbohydrates": 184.77,
+                "protein": 117.84
             },
             "exercise": {
                 "pushups": 10,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5281
             },
             "media": {
                 "books": [],
@@ -5555,7 +5555,7 @@
                     {
                         "id": "77727",
                         "url": "http:\/\/cast.writtn.com\/episode\/77727\/quantified",
-                        "image": "https:\/\/media.simplecast.com\/episode\/image\/263441\/1548950031-artwork.jpg",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/263441\/1549550684-artwork.jpg",
                         "channel_title": "--force push",
                         "type": 1,
                         "title": "High Availability Systems",
@@ -5934,13 +5934,63 @@
                 "age": 13931
             },
             "nutrition": {
+                "calories": 2415.9,
+                "fat": 168.1,
+                "carbohydrates": 108.61,
+                "protein": 100.06
+            },
+            "exercise": {
+                "pushups": 12,
+                "crunches": 0,
+                "steps": 5311
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-02-08": {
+            "health": {
+                "weight": 80,
+                "height": 173,
+                "age": 13932
+            },
+            "nutrition": {
+                "calories": 2693.62,
+                "fat": 166.3,
+                "carbohydrates": 143.97,
+                "protein": 135.33
+            },
+            "exercise": {
+                "pushups": 14,
+                "crunches": 0,
+                "steps": 3079
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-02-09": {
+            "health": {
+                "weight": 80.2,
+                "height": 173,
+                "age": 13933
+            },
+            "nutrition": {
                 "calories": 0,
                 "fat": 0,
                 "carbohydrates": 0,
                 "protein": 0
             },
             "exercise": {
-                "pushups": 12,
+                "pushups": 0,
                 "crunches": 0,
                 "steps": 0
             },
