@@ -7049,7 +7049,7 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4615
             },
             "media": {
                 "books": [],
@@ -7274,7 +7274,7 @@
             "exercise": {
                 "pushups": 12,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5196
             },
             "media": {
                 "books": [],
@@ -7445,7 +7445,7 @@
             "exercise": {
                 "pushups": 10,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5431
             },
             "media": {
                 "books": [],
@@ -7507,7 +7507,7 @@
             "exercise": {
                 "pushups": 12,
                 "crunches": 0,
-                "steps": 0
+                "steps": 6648
             },
             "media": {
                 "books": [],
@@ -7669,7 +7669,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 16112
             },
             "media": {
                 "books": [],
@@ -7901,7 +7901,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 13335
             },
             "media": {
                 "books": [],
@@ -7934,6 +7934,213 @@
                         "url": "https:\/\/www.imdb.com\/title\/tt1536537\/"
                     }
                 ],
+                "photos": []
+            }
+        },
+        "2019-02-18": {
+            "health": {
+                "weight": 82.2,
+                "height": 173,
+                "age": 13942
+            },
+            "nutrition": {
+                "calories": 2117.43,
+                "fat": 159.5,
+                "carbohydrates": 41.12,
+                "protein": 114.92
+            },
+            "exercise": {
+                "pushups": 15,
+                "crunches": 0,
+                "steps": 4576
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "75369",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75369\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Can Netflix Keep Winning? And Why People Are Fleeing Latin America",
+                        "duration": "1916"
+                    },
+                    {
+                        "id": "75370",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75370\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "How Bad is Airline Service, Really? And Other Customer Service Complaints",
+                        "duration": "1775"
+                    },
+                    {
+                        "id": "75371",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75371\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Is Retail Dying? Plus, How Are Companies Spending their Tax Cuts?",
+                        "duration": "1902"
+                    },
+                    {
+                        "id": "75372",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75372\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Debating Minimum Wage, and Reflections on a Year of #MeToo",
+                        "duration": "2193"
+                    },
+                    {
+                        "id": "75373",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75373\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "New Media and Predictive Policing",
+                        "duration": "1815"
+                    },
+                    {
+                        "id": "75374",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75374\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Trade and Soccer",
+                        "duration": "1806"
+                    },
+                    {
+                        "id": "75375",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75375\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Food, food, and more food!",
+                        "duration": "1756"
+                    },
+                    {
+                        "id": "75376",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75376\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "The #MeToo Movement and Its Impact on Business (Live)",
+                        "duration": "2519"
+                    },
+                    {
+                        "id": "75377",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75377\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Is the Job of the Presidency Too Big? Plus, Vaping Among Teens",
+                        "duration": "1760"
+                    },
+                    {
+                        "id": "75378",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75378\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Brainstorming Gun Control Ideas, and the Affordable Housing Dilemma",
+                        "duration": "1887"
+                    },
+                    {
+                        "id": "75379",
+                        "url": "http:\/\/cast.writtn.com\/episode\/75379\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "A Conversation with Teens",
+                        "duration": "1515"
+                    }
+                ],
+                "youtube": {
+                    "11": {
+                        "id": "79431",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79431\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ySH5SudRwak\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Who actually pays for your credit card rewards?",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "79456",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79456\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/t3p4-RJDob8\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "Kidtech My First Keyboard from 1994: It's Peanut Butter-Proof!",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "78145",
+                        "url": "http:\/\/cast.writtn.com\/episode\/78145\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/H5yvhP-9mik\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Django Unchained: How to DESTROY An Ideology \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "79554",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79554\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/U_sZdX3tFFU\/hqdefault.jpg",
+                        "channel_title": "Wisecrack",
+                        "type": 2,
+                        "title": "Starship Troopers: How to Make Fascism SEXY \u2013 Wisecrack Edition",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "79652",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79652\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7c9L4TQls5w\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Resident Evil 2",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "79406",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79406\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ynvtZ4awK4U\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "COCOA POD - How to Open & Eat a Cacao Pod - Fruity Fruits",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "79561",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79561\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ydEV-M6xvFQ\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Instant Pot WINE - grape juice to wine? | FERMENTED",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "79655",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79655\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/n3Xv_g3g-mA\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Loneliness",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "79664",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79664\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1VRIqtq293U\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "I'm Moving to Nevada! (eventually)",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
                 "photos": []
             }
         }
