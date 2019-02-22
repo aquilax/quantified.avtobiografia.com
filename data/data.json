@@ -8179,7 +8179,7 @@
                         "image": "https:\/\/thumborcdn.acast.com\/h_oCDcTSRm1uR4XZJh3Bhp1IjUs=\/3000x3000\/https:\/\/mediacdn.acast.com\/assets\/86f1b7bb-aed6-41cf-a3c0-e3feb1cb2949\/cover-image-js4j9ov9--j9v867u9-dannyinvalleynew.jpg",
                         "channel_title": "Danny In The Valley",
                         "type": 1,
-                        "title": "Patreon's Jack Conte: \"\u201cPeople used to pay for things\u201d",
+                        "title": "Patreon's Jack Conte: \u201cPeople used to pay for things\u201d",
                         "duration": "2615"
                     },
                     "25": {
@@ -8493,10 +8493,10 @@
                 "age": 13944
             },
             "nutrition": {
-                "calories": 2276.47,
-                "fat": 152.3,
-                "carbohydrates": 104.35,
-                "protein": 90.73
+                "calories": 2176.47,
+                "fat": 147.55,
+                "carbohydrates": 99.1,
+                "protein": 98.73
             },
             "exercise": {
                 "pushups": 18,
@@ -8716,6 +8716,158 @@
                         "duration": "0"
                     }
                 },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-02-21": {
+            "health": {
+                "weight": 80.1,
+                "height": 173,
+                "age": 13945
+            },
+            "nutrition": {
+                "calories": 2666.39,
+                "fat": 196.76,
+                "carbohydrates": 79.45,
+                "protein": 132.69
+            },
+            "exercise": {
+                "pushups": 10,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "79834",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79834\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/83\/19974a8c-bfdd-42f4-81cc-a8a9c356abd1.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Onsdag 20 februari 2019",
+                        "duration": "459"
+                    },
+                    {
+                        "id": "79881",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79881\/quantified",
+                        "image": "http:\/\/www.abc.net.au\/radionational\/image\/10815886-4x3-140x105.jpg",
+                        "channel_title": "Future Tense - ABC - RN",
+                        "type": 1,
+                        "title": "All at sea - mapping, mining and Arctic shipping",
+                        "duration": "1746"
+                    },
+                    {
+                        "id": "79364",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79364\/quantified",
+                        "image": "https:\/\/static.megaphone.fm\/podcasts\/f521b120-2c30-11e6-b5f3-63ee984ee1a4\/image\/uploads_2F1517347312822-v37qyb83kc-1c379943507491e49d3d2dac9fce5299_2F20171116_ScienceVSl-ShowCover.png",
+                        "channel_title": "Science Vs",
+                        "type": 1,
+                        "title": "Introducing: Conviction",
+                        "duration": "2158"
+                    },
+                    {
+                        "id": "79878",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79878\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "WeWork, and Can the Government Really Print as Much Money as It Wants?",
+                        "duration": "1898"
+                    },
+                    {
+                        "id": "79871",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79871\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "HQ2-1",
+                        "duration": "1481"
+                    },
+                    {
+                        "id": "79869",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79869\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Our Ears Are Unlocking an Era of Aural Data",
+                        "duration": "269"
+                    },
+                    {
+                        "id": "79831",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79831\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "The Confounding Climate Science of Lab-Grown Meat",
+                        "duration": "488"
+                    },
+                    {
+                        "id": "79782",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79782\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "3 Smart Things: What You Might Not Know About Attention",
+                        "duration": "89"
+                    },
+                    {
+                        "id": "79746",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79746\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Why a Grape Turns Into a Fireball in a Microwave",
+                        "duration": "383"
+                    },
+                    {
+                        "id": "79720",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79720\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "R.I.P., Opportunity Rover: the Hardest-Working Robot in the Solar System",
+                        "duration": "312"
+                    },
+                    {
+                        "id": "79705",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79705\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Darpa Wants to Solve Science's Replication Crisis With Robots",
+                        "duration": "438"
+                    },
+                    {
+                        "id": "79774",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79774\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "A little privacy, please",
+                        "duration": "1211"
+                    },
+                    {
+                        "id": "79723",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79723\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "2020 vision",
+                        "duration": "1217"
+                    },
+                    {
+                        "id": "79380",
+                        "url": "http:\/\/cast.writtn.com\/episode\/79380\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000488831367-akqwmh-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Happily Ever After (Narration Only)",
+                        "duration": "1536"
+                    }
+                ],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
