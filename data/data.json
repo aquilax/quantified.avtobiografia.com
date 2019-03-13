@@ -11023,7 +11023,7 @@
                     {
                         "id": "73776",
                         "url": "http:\/\/cast.writtn.com\/episode\/73776\/quantified",
-                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/acb4830a-2a3d-11e9-bd0b-0ebe27f14992\/images\/main.jpg?1552285084160",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/acb4830a-2a3d-11e9-bd0b-0ebe27f14992\/images\/main.jpg?1552315025006",
                         "channel_title": "80,000 Hours Podcast with Rob Wiblin",
                         "type": 1,
                         "title": "#48 - Brian Christian on better living through the wisdom of computer science",
@@ -11054,7 +11054,7 @@
                         "channel_title": "No Such Thing As A Fish",
                         "type": 1,
                         "title": "Episode 259: No Such Thing As Flyagra",
-                        "duration": "2362"
+                        "duration": "2440"
                     },
                     {
                         "id": "80845",
@@ -11271,6 +11271,68 @@
                         "type": 1,
                         "title": "Jon Vlassopulos: \"We're all nano-influencers\" ",
                         "duration": "3122"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-03-12": {
+            "health": {
+                "weight": 81.3,
+                "height": 173,
+                "age": 13964
+            },
+            "nutrition": {
+                "calories": 1856.39,
+                "fat": 119.21,
+                "carbohydrates": 90,
+                "protein": 97.5
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "80932",
+                        "url": "http:\/\/cast.writtn.com\/episode\/80932\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Inside the High-Stakes Race to Make Quantum Computers Work",
+                        "duration": "1473"
+                    },
+                    {
+                        "id": "80832",
+                        "url": "http:\/\/cast.writtn.com\/episode\/80832\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "The Fish on Your Plate May Not Be What You Ordered",
+                        "duration": "256"
+                    },
+                    {
+                        "id": "80794",
+                        "url": "http:\/\/cast.writtn.com\/episode\/80794\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Oceans Are 'Spiking a Fever' With Record Heat Waves",
+                        "duration": "349"
+                    },
+                    {
+                        "id": "80825",
+                        "url": "http:\/\/cast.writtn.com\/episode\/80825\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "Trump's money man",
+                        "duration": "1479"
                     }
                 ],
                 "youtube": [],
