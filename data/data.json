@@ -11964,7 +11964,7 @@
                         "id": "81190",
                         "url": "http:\/\/cast.writtn.com\/episode\/81190\/quantified",
                         "image": "https:\/\/uploads.guim.co.uk\/2018\/01\/15\/Science_3000_x_3000.jpg",
-                        "channel_title": "The Guardian's Science Weekly",
+                        "channel_title": "Science Weekly",
                         "type": 1,
                         "title": " Cross Section: Matt Parker - Science Weekly podcast ",
                         "duration": "1337"
@@ -12049,6 +12049,113 @@
                         "type": 1,
                         "title": "A mass shooting, live-streamed",
                         "duration": "973"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-03-19": {
+            "health": {
+                "weight": 82,
+                "height": 173,
+                "age": 13971
+            },
+            "nutrition": {
+                "calories": 1428.07,
+                "fat": 78.12,
+                "carbohydrates": 96.69,
+                "protein": 67.01
+            },
+            "exercise": {
+                "pushups": 6,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "81170",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81170\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000503910513-ouwsrr-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Clarketech (Narration Only)",
+                        "duration": "1841"
+                    },
+                    {
+                        "id": "81175",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81175\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/283387\/1552259008-artwork.jpg",
+                        "channel_title": "React Podcast",
+                        "type": 1,
+                        "title": "39: Take Your Time with Kyle Shevlin. On healing from burnout, interviewing as a senior dev, building your brand, knowing your worth, and overcoming the desire for more.",
+                        "duration": "1991"
+                    },
+                    {
+                        "id": "81253",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81253\/quantified",
+                        "image": "https:\/\/images.theabcdn.com\/i\/34531151.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 260: No Such Thing As A Giant War Sausage",
+                        "duration": "2135"
+                    },
+                    {
+                        "id": "81309",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81309\/quantified",
+                        "image": "https:\/\/media.simplecast.com\/episode\/image\/285526\/1552856296-artwork.jpg",
+                        "channel_title": "The Yak Shave",
+                        "type": 1,
+                        "title": "12: A new cat named Merb!",
+                        "duration": "2498"
+                    },
+                    {
+                        "id": "81171",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81171\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/0f887a1d-fc69-4795-8d42-190a2d0b22f8.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Torsdag 14 mars 2019",
+                        "duration": "525"
+                    },
+                    {
+                        "id": "81223",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81223\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/83\/fed2c1c9-3312-4fe0-bc89-6432687d6982.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Fredag 15 mars 2019",
+                        "duration": "631"
+                    },
+                    {
+                        "id": "81018",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81018\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/e1beb0eb-5e68-46d7-bad3-5a3e0e2b39bd.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Tisdag 12 mars 2019",
+                        "duration": "596"
+                    },
+                    {
+                        "id": "81080",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81080\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/b2ed8087-c437-46ac-b7a9-b35a358cff83.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Onsdag 13 mars 2019",
+                        "duration": "422"
+                    },
+                    {
+                        "id": "80426",
+                        "url": "http:\/\/cast.writtn.com\/episode\/80426\/quantified",
+                        "image": "http:\/\/static.libsyn.com\/p\/assets\/d\/f\/c\/4\/dfc4fdd5ac86e525\/final_3.jpg",
+                        "channel_title": "Time to Eat the Dogs",
+                        "type": 1,
+                        "title": "Replay: Descartes, Traveler",
+                        "duration": "1810"
                     }
                 ],
                 "youtube": [],
