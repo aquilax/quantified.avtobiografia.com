@@ -13752,20 +13752,20 @@
                     {
                         "id": "81668",
                         "url": "http:\/\/cast.writtn.com\/episode\/81668\/quantified",
-                        "image": "https:\/\/media.simplecast.com\/episode\/image\/286995\/1553270407-artwork.jpg",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/d18d7b\/d18d7bdf-ac1f-4699-9e83-a49c914b196a\/a71f8a53-61dc-4d76-a146-87eaf72bb674\/1400x1400\/1553270407artwork.jpg?aid=rss_feed",
                         "channel_title": "--force push",
                         "type": 1,
                         "title": "Hiring",
-                        "duration": "3188"
+                        "duration": "3189"
                     },
                     {
                         "id": "82054",
                         "url": "http:\/\/cast.writtn.com\/episode\/82054\/quantified",
-                        "image": "https:\/\/media.simplecast.com\/episode\/image\/288583\/1553785924-artwork.jpg",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/d18d7b\/d18d7bdf-ac1f-4699-9e83-a49c914b196a\/9395c179-965a-44d2-8650-d995596be547\/1400x1400\/1553785924artwork.jpg?aid=rss_feed",
                         "channel_title": "--force push",
                         "type": 1,
                         "title": "GraphQL",
-                        "duration": "3642"
+                        "duration": "3643"
                     },
                     {
                         "id": "82047",
@@ -14186,10 +14186,10 @@
                 "age": 13987
             },
             "nutrition": {
-                "calories": 1713.71,
-                "fat": 103.55,
-                "carbohydrates": 77.15,
-                "protein": 90.61
+                "calories": 1818.43,
+                "fat": 110.74,
+                "carbohydrates": 77.92,
+                "protein": 99.13
             },
             "exercise": {
                 "pushups": 6,
@@ -14256,6 +14256,263 @@
                 ],
                 "youtube": [],
                 "movies": [],
+                "photos": []
+            }
+        },
+        "2019-04-05": {
+            "health": {
+                "weight": 80.8,
+                "height": 173,
+                "age": 13988
+            },
+            "nutrition": {
+                "calories": 1837.93,
+                "fat": 93.49,
+                "carbohydrates": 86.08,
+                "protein": 83.3
+            },
+            "exercise": {
+                "pushups": 6,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "83274",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83274\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Scientists Need More Cat DNA, and Lil Bub Is Here to Help",
+                        "duration": "389"
+                    },
+                    {
+                        "id": "83203",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83203\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "By 2080, Tropical Diseases Could Be Headed to Alaska",
+                        "duration": "254"
+                    },
+                    {
+                        "id": "83116",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83116\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "Data Centers Gobble Energy. Could a \u2018Fossil-Free\u2019 Label Help?",
+                        "duration": "398"
+                    },
+                    {
+                        "id": "83099",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83099\/quantified",
+                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
+                        "channel_title": "WIRED Science \u2013 Spoken Edition",
+                        "type": 1,
+                        "title": "The Fungi Decimating Amphibians Is Worse Than We Thought",
+                        "duration": "392"
+                    },
+                    {
+                        "id": "83283",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83283\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "Banned: Aid",
+                        "duration": "1144"
+                    },
+                    {
+                        "id": "83187",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83187\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "RU$H HOUR",
+                        "duration": "1259"
+                    },
+                    {
+                        "id": "83222",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83222\/quantified",
+                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/2019\/02\/1440-logo.png",
+                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
+                        "type": 1,
+                        "title": "\u0422\u043e\u0432\u0430 \u043b\u0438 \u0435 \u043a\u0440\u0430\u044f\u0442 \u043d\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0434\u043e\u0431\u0440\u0438\u0442\u0435 \u043d\u043e\u0432\u0438\u043d\u0438 \u0432 \u043b\u043e\u0448\u0430\u0442\u0430 \u0433\u043e\u0434\u0438\u043d\u0430 \u043d\u0430 Huawei \u0438 \u043e\u0449\u0435 \u0441\u0442\u0440\u0430\u043d\u043d\u0438 \u043d\u0435\u0449\u0430 \u043e\u0442 Apple",
+                        "duration": "5005"
+                    },
+                    {
+                        "id": "81729",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81729\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05zs6l0.jpg",
+                        "channel_title": "The Why Factor",
+                        "type": 1,
+                        "title": "Mothers and daughters",
+                        "duration": "1398"
+                    },
+                    {
+                        "id": "81922",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81922\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p053y7bh.jpg",
+                        "channel_title": "The Inquiry",
+                        "type": 1,
+                        "title": "How is space changing Earth?",
+                        "duration": "1428"
+                    },
+                    {
+                        "id": "83158",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83158\/quantified",
+                        "image": "https:\/\/uploads.guim.co.uk\/2018\/11\/12\/Audio_Long_Reads_Badge_3000x3000_opt.png",
+                        "channel_title": "The Guardian's Audio Long Reads",
+                        "type": 1,
+                        "title": " Dirty lies: how the car industry hid the truth about diesel emissions \u2013 podcast ",
+                        "duration": "1595"
+                    },
+                    {
+                        "id": "83184",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83184\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
+                        "channel_title": "The Compass",
+                        "type": 1,
+                        "title": "The green city: San Francisco, USA",
+                        "duration": "1590"
+                    },
+                    {
+                        "id": "81963",
+                        "url": "http:\/\/cast.writtn.com\/episode\/81963\/quantified",
+                        "image": "http:\/\/static.megaphone.fm\/podcasts\/88893760-2e99-11e7-8a1e-5b5aeda498c7\/image\/uploads_2F1554230127702-cxofe7ghhd4-5bd46897d231bce8ad48f0c1279c040c_2Fstephanomics-5x.png",
+                        "channel_title": "Stephanomics",
+                        "type": 1,
+                        "title": "Coming Soon: Stephanomics",
+                        "duration": "141"
+                    },
+                    {
+                        "id": "83233",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83233\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/5491ba63e4b01aaa7af07490\/5508409fe4b00705aab90691\/5ca38cd5a4222f172f135ab6\/1554320407060\/1500w\/WEB+THUMBNAIL.png",
+                        "channel_title": "The Artifexian Podcast",
+                        "type": 1,
+                        "title": "AP #3E: Aam Womp M\u0259\u0259v\u0259 Bamama",
+                        "duration": "6839"
+                    },
+                    {
+                        "id": "83210",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83210\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Apple\u2019s Big Event, Plus Is Corporate Debt at a Crisis Level?",
+                        "duration": "1910"
+                    }
+                ],
+                "youtube": {
+                    "14": {
+                        "id": "82099",
+                        "url": "http:\/\/cast.writtn.com\/episode\/82099\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZB27L6OuxHE\/hqdefault.jpg",
+                        "channel_title": "8-Bit Keys",
+                        "type": 2,
+                        "title": "25 YouTubers in One Place!  Thoman Synth Reactor 2019 #TSR19",
+                        "duration": "0"
+                    },
+                    "15": {
+                        "id": "83164",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83164\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/E3jfvncofiA\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "How Airlines Decide Where to Fly",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "83142",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83142\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/WDK6WmfMdJQ\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #137 - Mr. Condescending Dialogue Box",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "83066",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83066\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4VyjfgtHyl0\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Brad Makes Tortillas | It's Alive: Goin' Places | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "83227",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83227\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/E4G5Y2ghqEQ\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Priya Makes Saag Feta | From the Test Kitchen | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "83136",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83136\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/okRxI8-iuxs\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside an Indian mosquito plug-in vapouriser\/vaporizer.",
+                        "duration": "0"
+                    },
+                    "20": {
+                        "id": "83278",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83278\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/2R3L_nvNP6Y\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "A look inside a British home electrical panel.",
+                        "duration": "0"
+                    },
+                    "21": {
+                        "id": "83272",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83272\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JoufCLlY8QE\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Earworm is back with Season 2",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-04-06": {
+            "health": {
+                "weight": 80.9,
+                "height": 173,
+                "age": 13989
+            },
+            "nutrition": {
+                "calories": 0,
+                "fat": 0,
+                "carbohydrates": 0,
+                "protein": 0
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [
+                    {
+                        "id": "tt0019421",
+                        "title": "Steamboat Bill, Jr.",
+                        "year": "1928",
+                        "url": "https:\/\/www.imdb.com\/title\/tt0019421\/"
+                    }
+                ],
                 "photos": []
             }
         }
