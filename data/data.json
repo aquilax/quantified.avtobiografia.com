@@ -17781,7 +17781,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 21988
             },
             "media": {
                 "books": [],
@@ -17806,165 +17806,11 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 10841
             },
             "media": {
                 "books": [],
-                "podcast": [
-                    {
-                        "id": "81322",
-                        "url": "http:\/\/cast.writtn.com\/episode\/81322\/quantified",
-                        "image": "https:\/\/media.simplecast.com\/episode\/image\/284748\/1552591735-artwork.jpg",
-                        "channel_title": "Giant Robots Smashing Into Other Giant Robots",
-                        "type": 1,
-                        "title": "312: Seeking Strengths (Gareth Burrowes)",
-                        "duration": "2332"
-                    },
-                    {
-                        "id": "85296",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85296\/quantified",
-                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/8baee26e-ea0a-4a1e-a944-7a1167cc278b\/1400x1400\/046_The_Why_and_What_of_FI.jpg?aid=rss_feed",
-                        "channel_title": "Financial Independence Europe Podcast",
-                        "type": 1,
-                        "title": "046 - The Why and What of FI",
-                        "duration": "2423"
-                    },
-                    {
-                        "id": "84096",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84096\/quantified",
-                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/8264985b-0ae3-49a0-bfbd-ec6938db4d99\/1400x1400\/044_How_to_Get_Promoted_at_Work_Chief_Money_Man.jpg?aid=rss_feed",
-                        "channel_title": "Financial Independence Europe Podcast",
-                        "type": 1,
-                        "title": "044 - How to Get Promoted at Work | Chief Money Man",
-                        "duration": "2532"
-                    },
-                    {
-                        "id": "85357",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85357\/quantified",
-                        "image": "http:\/\/www.goldmansachs.com\/s\/images\/logo_2000.png",
-                        "channel_title": "Exchanges at Goldman Sachs",
-                        "type": 1,
-                        "title": "Why Are Savings Rates Back in Focus in the UK?",
-                        "duration": "1294"
-                    },
-                    {
-                        "id": "85305",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85305\/quantified",
-                        "image": "http:\/\/commondatastorage.googleapis.com\/megaphone-prod\/podcasts\/c283aff8-4847-11e9-a63d-afb0b2bc5914\/image\/uploads_2F1556569478057-3vymtnj3t7-9ba1e93ae4f4107f6ee1fed4ce24a9e6_2Flvs.jpg",
-                        "channel_title": "Darknet Diaries",
-                        "type": 1,
-                        "title": "Ep 37: LVS",
-                        "duration": "1823"
-                    },
-                    {
-                        "id": "85381",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85381\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0361mz5.jpg",
-                        "channel_title": "The Compass",
-                        "type": 1,
-                        "title": "Knife crime: Glasgow, Scotland",
-                        "duration": "1614"
-                    },
-                    {
-                        "id": "85310",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85310\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5cc8a02ff4e1fcb1e71aa7f3\/1556742223086\/1500w\/Hello+Internet+slides.002.png",
-                        "channel_title": "Hello Internet",
-                        "type": 1,
-                        "title": "H.I. #123: Pop Quiz",
-                        "duration": "5064"
-                    },
-                    {
-                        "id": "85129",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85129\/quantified",
-                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/2019\/02\/1440-logo.png",
-                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
-                        "type": 1,
-                        "title": "\u0413\u043e\u043b\u0435\u043c\u0438\u044f\u0442 \u0431\u0440\u0430\u0442 \u043d\u0430 \u0415\u0432\u0440\u043e\u043f\u0430, \u0433\u043b\u043e\u0431\u0438 \u0432 \u043c\u0438\u043b\u0438\u0430\u0440\u0434\u0438 \u0437\u0430 Facebook \u0438 \u043a\u0430\u043a\u0432\u043e \u0432\u0438\u0434\u044f\u0445\u043c\u0435 \u0432 \u0442\u044a\u043c\u043d\u0438\u0446\u0430\u0442\u0430 \u043d\u0430 \u201c\u0418\u0433\u0440\u0430 \u043d\u0430 \u0442\u0440\u043e\u043d\u043e\u0432\u0435\u201d 8.03",
-                        "duration": "4494"
-                    },
-                    {
-                        "id": "85139",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85139\/quantified",
-                        "image": "https:\/\/media.simplecast.com\/episode\/image\/294218\/1556312949-artwork.jpg",
-                        "channel_title": "The Bike Shed",
-                        "type": 1,
-                        "title": "196: I Can Be Wrong on the Internet",
-                        "duration": "2308"
-                    },
-                    {
-                        "id": "85121",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85121\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "Fighting Measles, LA Pulls a Classic Move: Quarantine",
-                        "duration": "370"
-                    },
-                    {
-                        "id": "85314",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85314\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "Meet the Pro-Vaxxers Helping to Stave Off the Next Pandemic",
-                        "duration": "531"
-                    },
-                    {
-                        "id": "85103",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85103\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "The Plan to Grab the World's Carbon With Supercharged Plants",
-                        "duration": "527"
-                    },
-                    {
-                        "id": "85110",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85110\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "Standoff at the NRA",
-                        "duration": "1041"
-                    },
-                    {
-                        "id": "85317",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85317\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "After the smoke clears",
-                        "duration": "1448"
-                    },
-                    {
-                        "id": "82001",
-                        "url": "http:\/\/cast.writtn.com\/episode\/82001\/quantified",
-                        "image": "https:\/\/images.theabcdn.com\/i\/34603401.jpg",
-                        "channel_title": "No Such Thing As A Fish",
-                        "type": 1,
-                        "title": "Episode 262: No Such Thing As A Man In A Wine Bottle",
-                        "duration": "2341"
-                    },
-                    {
-                        "id": "83312",
-                        "url": "http:\/\/cast.writtn.com\/episode\/83312\/quantified",
-                        "image": "https:\/\/images.theabcdn.com\/i\/34640958.jpg",
-                        "channel_title": "No Such Thing As A Fish",
-                        "type": 1,
-                        "title": "Episode 263: No Such Thing As Millipede Lipbalm",
-                        "duration": "2291"
-                    },
-                    {
-                        "id": "85057",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85057\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
-                        "channel_title": "More or Less: Behind the Stats",
-                        "type": 1,
-                        "title": "Bernie Sanders and the cost of having a baby",
-                        "duration": "572"
-                    }
-                ],
+                "podcast": [],
                 "youtube": [],
                 "movies": [],
                 "photos": []
@@ -17985,338 +17831,12 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 7735
             },
             "media": {
                 "books": [],
-                "podcast": {
-                    "0": {
-                        "id": "85415",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85415\/quantified",
-                        "image": "https:\/\/govori-internet.com\/wp-content\/uploads\/2017\/09\/gi_logo_1440_white_background.png",
-                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
-                        "type": 1,
-                        "title": "\u0414\u0435\u0442\u0441\u043a\u043e\u0442\u043e \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 (feat. \u0418\u0432\u0430\u0439\u043b\u043e \u0438 \u041c\u0438\u0448\u0430 \u043e\u0442 \u0422\u0435\u0445\u043d\u043e\u043a\u0440\u0430\u0442\u0438.",
-                        "duration": "8779"
-                    },
-                    "26": {
-                        "id": "85397",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85397\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p053y7bh.jpg",
-                        "channel_title": "The Inquiry",
-                        "type": 1,
-                        "title": "Can you make gangs good?",
-                        "duration": "1416"
-                    },
-                    "27": {
-                        "id": "85447",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85447\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p062pvc5.jpg",
-                        "channel_title": "The Food Chain",
-                        "type": 1,
-                        "title": "Widowed: Food after loss",
-                        "duration": "1589"
-                    },
-                    "28": {
-                        "id": "85410",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85410\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "These Super-Precise Clocks Help Weave Together Space And Time",
-                        "duration": "523"
-                    },
-                    "29": {
-                        "id": "85337",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85337\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "RIP, Anki: Yet Another Home Robotics Company Powers Down",
-                        "duration": "347"
-                    },
-                    "30": {
-                        "id": "85395",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85395\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "The Grid Might Survive an Electromagnetic Pulse Just Fine",
-                        "duration": "327"
-                    },
-                    "31": {
-                        "id": "85386",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85386\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "Bovine intervention",
-                        "duration": "1396"
-                    },
-                    "32": {
-                        "id": "85348",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85348\/quantified",
-                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-exponential-view-lg.jpg",
-                        "channel_title": "Exponential View with Azeem Azhar",
-                        "type": 1,
-                        "title": "When AI Meets Medicine",
-                        "duration": "2009"
-                    },
-                    "33": {
-                        "id": "85077",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85077\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
-                        "channel_title": "50 Things That Made the Modern Economy",
-                        "type": 1,
-                        "title": "Mail order catalogue",
-                        "duration": "538"
-                    },
-                    "34": {
-                        "id": "85076",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85076\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
-                        "channel_title": "30 Animals That Made Us Smarter",
-                        "type": 1,
-                        "title": "Tardigrade and vaccine transport",
-                        "duration": "845"
-                    },
-                    "35": {
-                        "id": "85401",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85401\/quantified",
-                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg.jpg",
-                        "channel_title": "After Hours",
-                        "type": 1,
-                        "title": "Quick Takes on Uber, Apple\/Qualcomm, Pinterest, Brexit, and More",
-                        "duration": "1918"
-                    }
-                },
-                "youtube": {
-                    "1": {
-                        "id": "84979",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84979\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/FwRFH7MH5N0\/hqdefault.jpg",
-                        "channel_title": "Primitive Technology",
-                        "type": 2,
-                        "title": "Primitive Technology: Fired Clay Bricks",
-                        "duration": "0"
-                    },
-                    "2": {
-                        "id": "85016",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85016\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/5yjdPbCac9g\/hqdefault.jpg",
-                        "channel_title": "GreatScott!",
-                        "type": 2,
-                        "title": "Easy & Powerful Arduino Alternative? #3 Teensy Beginner's Guide",
-                        "duration": "0"
-                    },
-                    "3": {
-                        "id": "85028",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85028\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/zPpfdqxz3Nc\/hqdefault.jpg",
-                        "channel_title": "Cody'sLab",
-                        "type": 2,
-                        "title": "Reforesting The Ranch Part 6: Sprouting Seeds",
-                        "duration": "0"
-                    },
-                    "4": {
-                        "id": "85300",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85300\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/HjK5B4Zout0\/hqdefault.jpg",
-                        "channel_title": "pocket83\u00b2",
-                        "type": 2,
-                        "title": "Tennis hatchet, anyone? Simple trick. Safe.",
-                        "duration": "0"
-                    },
-                    "5": {
-                        "id": "85140",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85140\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/BfNEOfEGe3I\/hqdefault.jpg",
-                        "channel_title": "Wendover Productions",
-                        "type": 2,
-                        "title": "The Economics That Made Boeing Build the 737 Max",
-                        "duration": "0"
-                    },
-                    "6": {
-                        "id": "85332",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85332\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/mgVxSMHNcxM\/hqdefault.jpg",
-                        "channel_title": "Pixelmusement",
-                        "type": 2,
-                        "title": "Shovelware Diggers #141 - What Kind of Time Limit is THAT?!",
-                        "duration": "0"
-                    },
-                    "7": {
-                        "id": "85346",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85346\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/Xv4uVSKzJOs\/hqdefault.jpg",
-                        "channel_title": "Techmoan",
-                        "type": 2,
-                        "title": "What a lovely VU : A metre of meters*",
-                        "duration": "0"
-                    },
-                    "8": {
-                        "id": "85021",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85021\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/ZFEjBtPOPNk\/hqdefault.jpg",
-                        "channel_title": "John Heisz - I Build It",
-                        "type": 2,
-                        "title": "How I Would Build The Great Pyramids",
-                        "duration": "0"
-                    },
-                    "9": {
-                        "id": "85372",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85372\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/OHcsJ1sPQQs\/hqdefault.jpg",
-                        "channel_title": "John Heisz - I Build It",
-                        "type": 2,
-                        "title": "Lifting Giant Stones - Pyramid Building Tilt-Up Method",
-                        "duration": "0"
-                    },
-                    "10": {
-                        "id": "85378",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85378\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/o6_topBnqPQ\/hqdefault.jpg",
-                        "channel_title": "The 8-Bit Guy",
-                        "type": 2,
-                        "title": "Restoring three Commodore PC-compatibles",
-                        "duration": "0"
-                    },
-                    "11": {
-                        "id": "85029",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85029\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/AM1-ecnQsm4\/hqdefault.jpg",
-                        "channel_title": "CGP Grey",
-                        "type": 2,
-                        "title": "Q&A With Grey: Favorites Edition",
-                        "duration": "0"
-                    },
-                    "12": {
-                        "id": "83674",
-                        "url": "http:\/\/cast.writtn.com\/episode\/83674\/quantified",
-                        "image": "https:\/\/i3.ytimg.com\/vi\/RQOhAeNAjKc\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Brad Makes Focaccia Bread with Samin Nosrat | It's Alive | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "13": {
-                        "id": "83966",
-                        "url": "http:\/\/cast.writtn.com\/episode\/83966\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/TgPG9tQPR7k\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Claire Teaches You Cake Filling (Lesson 2) | Baking School | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "14": {
-                        "id": "84016",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84016\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/tl1-Y6hXCt0\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Carla Makes an Omelet Souffl\u00e9 | From the Test Kitchen | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "15": {
-                        "id": "84114",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84114\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/U4dyWZZVeWI\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "How to Make 3 Artisanal Breads from 13 Ingredients | Handcrafted | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "16": {
-                        "id": "84221",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84221\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/QTc0gPyfpCg\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Pastry Chef Attempts to Make Gourmet Peeps | Gourmet Makes | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "17": {
-                        "id": "84286",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84286\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/u-q2dCtRlz0\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Carla Makes Baked Eggs in Tomato | From the Test Kitchen | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "18": {
-                        "id": "84933",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84933\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/uI_t-p3IiEw\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Claire Teaches You Cake Frosting (Lesson 3) | Baking School | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "19": {
-                        "id": "84990",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84990\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/gQZn7f4Y-tA\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Priya Makes Roti Pizza with Cilantro Chutney | From the Test Kitchen | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "20": {
-                        "id": "85130",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85130\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/w-b8rewGA9Q\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Claire Teaches You Cake Assembly (Lesson 4) | Baking School | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "21": {
-                        "id": "85369",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85369\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/tFgTVhYvNPA\/hqdefault.jpg",
-                        "channel_title": "Bon App\u00e9tit",
-                        "type": 2,
-                        "title": "Brad and Andy Try to Make the Perfect Pizza Sauce | Making Perfect: Episode 2 | Bon App\u00e9tit",
-                        "duration": "0"
-                    },
-                    "22": {
-                        "id": "85054",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85054\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/WwhcrpJTzGQ\/hqdefault.jpg",
-                        "channel_title": "Vox",
-                        "type": 2,
-                        "title": "This lake now has legal rights, just like you",
-                        "duration": "0"
-                    },
-                    "23": {
-                        "id": "84643",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84643\/quantified",
-                        "image": "https:\/\/i4.ytimg.com\/vi\/g90nNZ6facA\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "McDonald's Hawaii - Hawaiian menu items only in Hawai'i",
-                        "duration": "0"
-                    },
-                    "24": {
-                        "id": "84991",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84991\/quantified",
-                        "image": "https:\/\/i2.ytimg.com\/vi\/Y0xBu1zwoAU\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "7-Eleven Hawaii Taste Test - What's in a Hawaiian 7-11 convenience store?",
-                        "duration": "0"
-                    },
-                    "25": {
-                        "id": "85107",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85107\/quantified",
-                        "image": "https:\/\/i1.ytimg.com\/vi\/LQ74T6qpuVQ\/hqdefault.jpg",
-                        "channel_title": "emmymadeinjapan",
-                        "type": 2,
-                        "title": "Leonard's Malasadas ALL THE FLAVORS Taste Test - Hawaiian doughnuts | Emmy's Hawaii Adventure E3",
-                        "duration": "0"
-                    }
-                },
+                "podcast": [],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
@@ -18336,7 +17856,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 14498
             },
             "media": {
                 "books": [],
@@ -18361,7 +17881,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 14566
             },
             "media": {
                 "books": [],
@@ -18386,102 +17906,46 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5337
             },
             "media": {
                 "books": [],
-                "podcast": [
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-05-07": {
+            "health": {
+                "weight": 83.1,
+                "height": 173,
+                "age": 14020
+            },
+            "nutrition": {
+                "calories": 1803.66,
+                "fat": 94.91,
+                "carbohydrates": 136.22,
+                "protein": 77.93
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [
                     {
-                        "id": "85060",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85060\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05zs6l0.jpg",
-                        "channel_title": "The Why Factor",
-                        "type": 1,
-                        "title": "Emotional labour",
-                        "duration": "1412"
-                    },
-                    {
-                        "id": "83940",
-                        "url": "http:\/\/cast.writtn.com\/episode\/83940\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05zs6l0.jpg",
-                        "channel_title": "The Why Factor",
-                        "type": 1,
-                        "title": "Separating the art from the artist",
-                        "duration": "1378"
-                    },
-                    {
-                        "id": "84420",
-                        "url": "http:\/\/cast.writtn.com\/episode\/84420\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05zs6l0.jpg",
-                        "channel_title": "The Why Factor",
-                        "type": 1,
-                        "title": "Why is climate change so politicised?",
-                        "duration": "1383"
-                    },
-                    {
-                        "id": "85502",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85502\/quantified",
-                        "image": "https:\/\/uploads.guim.co.uk\/2018\/11\/12\/Audio_Long_Reads_Badge_3000x3000_opt.png",
-                        "channel_title": "The Guardian's Audio Long Reads",
-                        "type": 1,
-                        "title": " How to identify a body: the Marchioness disaster and my life in forensic pathology \u2013 podcast ",
-                        "duration": "1561"
-                    },
-                    {
-                        "id": "85408",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85408\/quantified",
-                        "image": "http:\/\/static.megaphone.fm\/podcasts\/88893760-2e99-11e7-8a1e-5b5aeda498c7\/image\/uploads_2F1554230127702-cxofe7ghhd4-5bd46897d231bce8ad48f0c1279c040c_2Fstephanomics-5x.png",
-                        "channel_title": "Stephanomics",
-                        "type": 1,
-                        "title": "Can't Stop, Won't Stop (Working)",
-                        "duration": "1731"
-                    },
-                    {
-                        "id": "85534",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85534\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p03vrpng.jpg",
-                        "channel_title": "The Curious Cases of Rutherford & Fry",
-                        "type": 1,
-                        "title": "Jurassic Squawk",
-                        "duration": "2234"
-                    },
-                    {
-                        "id": "85554",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85554\/quantified",
-                        "image": "https:\/\/x.govori-internet.com\/wp-content\/uploads\/2019\/02\/2000.png",
-                        "channel_title": "\u0415\u043a\u0441\u043f\u043b\u0435\u0439\u043d\u044a\u0440\u044a\u0442",
-                        "type": 1,
-                        "title": "\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0442\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435",
-                        "duration": "4286"
-                    },
-                    {
-                        "id": "85460",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85460\/quantified",
-                        "image": "http:\/\/media.spokenlayer.com\/cover-art\/2016\/08\/04\/wired-science-1400x1400.png",
-                        "channel_title": "WIRED Science \u2013 Spoken Edition",
-                        "type": 1,
-                        "title": "Women May Soon Start Using AI to Tell Good Eggs From Bad",
-                        "duration": "360"
-                    },
-                    {
-                        "id": "85467",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85467\/quantified",
-                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
-                        "channel_title": "Today, Explained",
-                        "type": 1,
-                        "title": "Track and Female",
-                        "duration": "1498"
-                    },
-                    {
-                        "id": "85433",
-                        "url": "http:\/\/cast.writtn.com\/episode\/85433\/quantified",
-                        "image": "http:\/\/static1.squarespace.com\/static\/5491ba63e4b01aaa7af07490\/5508409fe4b00705aab90691\/5ccae5c5e2c483baf0462b9f\/1556887647989\/1500w\/Web+Thumbnail.png",
-                        "channel_title": "The Artifexian Podcast",
-                        "type": 1,
-                        "title": "AP #40: The Red Book Of Whatever",
-                        "duration": "5251"
+                        "id": "35397007",
+                        "title": "The Existentialist's Survival Guide: How to Live Authentically in an Inauthentic Age",
+                        "author": "Gordon Marino",
+                        "link": "https:\/\/www.goodreads.com\/review\/show\/2809958134?utm_medium=api&utm_source=rss",
+                        "image": "https:\/\/images.gr-assets.com\/books\/1513366453l\/35397007.jpg",
+                        "user_rating": 4,
+                        "marked_as_read": "2019-05-07T04:37:14+00:00"
                     }
                 ],
+                "podcast": [],
                 "youtube": [],
                 "movies": [],
                 "photos": []
