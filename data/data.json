@@ -22525,7 +22525,7 @@
                         "id": "87633",
                         "url": "http:\/\/cast.writtn.com\/episode\/87633\/quantified",
                         "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
-                        "channel_title": "podcast (en) \u2013 omega tau science & engineering podcast",
+                        "channel_title": "omega tau - science & engineering [English only]",
                         "type": 1,
                         "title": "314 \u2013 London Air Ambulance",
                         "duration": "8037"
@@ -22534,7 +22534,7 @@
                         "id": "86098",
                         "url": "http:\/\/cast.writtn.com\/episode\/86098\/quantified",
                         "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
-                        "channel_title": "podcast (en) \u2013 omega tau science & engineering podcast",
+                        "channel_title": "omega tau - science & engineering [English only]",
                         "type": 1,
                         "title": "312 \u2013 The Wendelstein 7-X Fusion Experiment",
                         "duration": "12470"
@@ -23274,6 +23274,131 @@
                         "type": 1,
                         "title": "A foundation-funded atrocity",
                         "duration": "1953"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-06-27": {
+            "health": {
+                "weight": 83.5,
+                "height": 173,
+                "age": 14071
+            },
+            "nutrition": {
+                "calories": 1853.59,
+                "fat": 110.11,
+                "carbohydrates": 117.73,
+                "protein": 74.3
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "89060",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89060\/quantified",
+                        "image": "https:\/\/assets.fireside.fm\/file\/fireside-images\/podcasts\/images\/f\/fe17068a-b004-481b-acb8-05b35d1f89c8\/cover.jpg?v=3",
+                        "channel_title": "\u0422\u0435\u0445\u0411\u0430\u043b\u043e\u043d",
+                        "type": 1,
+                        "title": "136: \u0412\u043f\u0438\u0441\u0432\u0430\u043d\u0435 \u0441\u044a\u0441 . . .",
+                        "duration": "2935"
+                    },
+                    {
+                        "id": "89270",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89270\/quantified",
+                        "image": "http:\/\/tranzistor.net\/wp-content\/uploads\/2019\/02\/1440-logo.png",
+                        "channel_title": "\u0422\u0440\u0430\u043d\u0437\u045d\u0441\u0442\u043e\u0440",
+                        "type": 1,
+                        "title": "Facebook Libra \u043b\u0438 \u0435 \u0432\u0430\u043b\u0443\u0442\u0430\u0442\u0430 \u043d\u0430 \u0431\u044a\u0434\u0435\u0449\u0435\u0442\u043e \u0438 \u043f\u044a\u0440\u0432\u0438 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u044f \u043e\u0442 Harry Potter Wizards Unite",
+                        "duration": "5128"
+                    },
+                    {
+                        "id": "83576",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83576\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/3a21db22-7e9c-4a8f-9780-8e40274c96b3.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Onsdag 10 april 2019",
+                        "duration": "532"
+                    },
+                    {
+                        "id": "83525",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83525\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/6c48d3fe-be84-47e9-912c-01946078e1d0.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Tisdag 9 april 2019",
+                        "duration": "554"
+                    },
+                    {
+                        "id": "83442",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83442\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/4620c144-40be-4caf-8251-73bfd7910104.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "M\u00e5ndag 8 april 2019",
+                        "duration": "601"
+                    },
+                    {
+                        "id": "83309",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83309\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/5ac53aad-398f-4b6b-8e4e-d3296ab47cb5.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Fredag 5 april 2019",
+                        "duration": "540"
+                    },
+                    {
+                        "id": "83230",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83230\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/c8e7f2d8-fa82-4ba3-88e5-74e2e3f963e8.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Torsdag 4 april 2019",
+                        "duration": "570"
+                    },
+                    {
+                        "id": "83180",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83180\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/bd489371-5161-434a-a786-324ed2e2c182.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Onsdag 3 april 2019",
+                        "duration": "521"
+                    },
+                    {
+                        "id": "83220",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83220\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/bd489371-5161-434a-a786-324ed2e2c182.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Onsdag 3 april 2019",
+                        "duration": "482"
+                    },
+                    {
+                        "id": "83100",
+                        "url": "http:\/\/cast.writtn.com\/episode\/83100\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/f12cd766-a4bb-45a6-aae8-1d58f49eb08a.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "Tisdag 2 april 2019",
+                        "duration": "521"
+                    },
+                    {
+                        "id": "82437",
+                        "url": "http:\/\/cast.writtn.com\/episode\/82437\/quantified",
+                        "image": "https:\/\/static-cdn.sr.se\/sida\/images\/4916\/236ca2f7-adc5-4bca-8afd-7fc13bdb9ded.jpg?preset=api-itunes-presentation-image",
+                        "channel_title": "Radio Sweden p\u00e5 l\u00e4tt svenska",
+                        "type": 1,
+                        "title": "M\u00e5ndag 1 april 2019",
+                        "duration": "524"
                     }
                 ],
                 "youtube": [],
