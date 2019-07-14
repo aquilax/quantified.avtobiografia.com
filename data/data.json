@@ -24718,10 +24718,10 @@
                 "age": 14086
             },
             "nutrition": {
-                "calories": 1246.62,
-                "fat": 80.23,
+                "calories": 1486.66,
+                "fat": 99.27,
                 "carbohydrates": 130.15,
-                "protein": 32.65
+                "protein": 48.97
             },
             "exercise": {
                 "pushups": 0,
@@ -24768,6 +24768,31 @@
                         "duration": "3974"
                     }
                 ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-07-13": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14087
+            },
+            "nutrition": {
+                "calories": 2975.43,
+                "fat": 151.26,
+                "carbohydrates": 281.67,
+                "protein": 100.95
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
                 "youtube": [],
                 "movies": [],
                 "photos": []
