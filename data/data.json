@@ -24838,7 +24838,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5382
             },
             "media": {
                 "books": [],
@@ -25134,7 +25134,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4465
             },
             "media": {
                 "books": [],
@@ -25250,7 +25250,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4646
             },
             "media": {
                 "books": [],
@@ -25312,7 +25312,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4835
             },
             "media": {
                 "books": [],
@@ -25337,7 +25337,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11767
             },
             "media": {
                 "books": [],
@@ -25358,6 +25358,31 @@
                 "fat": 105.78,
                 "carbohydrates": 391.93,
                 "protein": 86.2
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 15492
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-07-21": {
+            "health": {
+                "weight": 83.1,
+                "height": 173,
+                "age": 14095
+            },
+            "nutrition": {
+                "calories": 2989.15,
+                "fat": 167.41,
+                "carbohydrates": 225.19,
+                "protein": 135.65
             },
             "exercise": {
                 "pushups": 0,
