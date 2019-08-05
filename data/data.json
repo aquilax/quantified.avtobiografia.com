@@ -26501,7 +26501,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4498
             },
             "media": {
                 "books": [],
@@ -26526,7 +26526,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4536
             },
             "media": {
                 "books": [],
@@ -26831,7 +26831,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4736
             },
             "media": {
                 "books": [],
@@ -26947,7 +26947,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5668
             },
             "media": {
                 "books": [],
@@ -27009,7 +27009,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4683
             },
             "media": {
                 "books": [],
@@ -27023,6 +27023,56 @@
                         "url": "https:\/\/www.imdb.com\/title\/tt4154796\/"
                     }
                 ],
+                "photos": []
+            }
+        },
+        "2019-08-03": {
+            "health": {
+                "weight": 82.2,
+                "height": 173,
+                "age": 14108
+            },
+            "nutrition": {
+                "calories": 1686.33,
+                "fat": 98.26,
+                "carbohydrates": 128.78,
+                "protein": 40.92
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 14405
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-08-04": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14109
+            },
+            "nutrition": {
+                "calories": 3487.86,
+                "fat": 137.21,
+                "carbohydrates": 336.06,
+                "protein": 161.17
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 763
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
                 "photos": []
             }
         }
