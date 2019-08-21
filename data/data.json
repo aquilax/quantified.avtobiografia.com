@@ -28804,6 +28804,176 @@
                 "movies": [],
                 "photos": []
             }
+        },
+        "2019-08-20": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14125
+            },
+            "nutrition": {
+                "calories": 2514.3,
+                "fat": 199.21,
+                "carbohydrates": 103.59,
+                "protein": 67.47
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "91602",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91602\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/033e0ec4-2930-4c8e-b84a-768c6827c290\/3000x3000\/060__how_to_build_any_skill_with_ultralearning_projects_scott_young.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "060 \u2013 How to Build Any Skill with Ultralearning Projects | Scott Young",
+                        "duration": "2668"
+                    },
+                    {
+                        "id": "91222",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91222\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/bb77388a-968b-437c-a22c-898eed74327e\/3000x3000\/episode_059_how_to_maximize_savings_with_children_matthias.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "059 - How to maximize savings with children _ Mathias",
+                        "duration": "1685"
+                    },
+                    {
+                        "id": "90963",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90963\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/c73636c4-b5ae-498d-a18b-6c6adf1790d2\/3000x3000\/058_the_joy_of_building_side_hustles_stanley.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "058 - The Joy of Building Side Hustles | Stanley",
+                        "duration": "2460"
+                    },
+                    {
+                        "id": "90514",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90514\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/9aee0a07-6050-4167-8a46-81c095e429cc\/3000x3000\/057_generating_more_returns_with_factor_investing_luis.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "057 - Generating more returns with factor investing | Luis",
+                        "duration": "2951"
+                    },
+                    {
+                        "id": "90096",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90096\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/014d37aa-bbe2-452e-b114-24f7bc5f85ac\/3000x3000\/056_the_power_of_financially_educating_your_children_roisin.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "056 - The Power of Financially Educating Your Children | Roisin",
+                        "duration": "2690"
+                    },
+                    {
+                        "id": "89793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89793\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/0adc4feb-6a01-4f3b-9730-dbcc85842bac\/3000x3000\/055_the_advantages_of_early_retirement_in_portugal_max.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "055 - The Advantages of Early Retirement in Portugal | Mark",
+                        "duration": "2058"
+                    },
+                    {
+                        "id": "89393",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89393\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/8877e636-4178-44e8-a729-5b7911b51f5b\/3000x3000\/054_how_i_grew_my_side_hustles_to_a_full_time_income_cody_from_fly_to_fi.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "054- How I Grew My Side Hustles to a Full Time Income | Cody from Fly To FI| Cody from Fly To FI",
+                        "duration": "2865"
+                    },
+                    {
+                        "id": "88932",
+                        "url": "http:\/\/cast.writtn.com\/episode\/88932\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/c5593961-ebf4-436c-9c64-42d6956c660d\/db76d7f2-86bd-4ed0-9189-529075e872e7\/3000x3000\/episode_053_choosing_countries_and_investment_strategies_for_early_retirement_max.jpg?aid=rss_feed",
+                        "channel_title": "Financial Independence Europe Podcast",
+                        "type": 1,
+                        "title": "053 - Choosing countries and investment strategies for early retirement | Mark",
+                        "duration": "1529"
+                    },
+                    {
+                        "id": "92707",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92707\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05cllwl.jpg",
+                        "channel_title": "CrowdScience",
+                        "type": 1,
+                        "title": "Global infertility: Could The Handmaid\u2019s Tale become reality?",
+                        "duration": "2412"
+                    },
+                    {
+                        "id": "92794",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92794\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "Solar PV",
+                        "duration": "589"
+                    },
+                    {
+                        "id": "92797",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92797\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Fish schools and windfarm",
+                        "duration": "839"
+                    },
+                    {
+                        "id": "92525",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92525\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-exponential-view-lg.jpg",
+                        "channel_title": "Exponential View with Azeem Azhar",
+                        "type": 1,
+                        "title": "Engineering Biology",
+                        "duration": "1432"
+                    },
+                    {
+                        "id": "92526",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92526\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-exponential-view-lg.jpg",
+                        "channel_title": "Exponential View with Azeem Azhar",
+                        "type": 1,
+                        "title": "Governance in the Age of AI",
+                        "duration": "1469"
+                    },
+                    {
+                        "id": "91882",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91882\/quantified",
+                        "image": "http:\/\/files.libertyfund.org\/econtalk\/EconTalkCDcover1400.jpg",
+                        "channel_title": "EconTalk",
+                        "type": 1,
+                        "title": "Arthur Diamond on Openness to Creative Destruction",
+                        "duration": "4545"
+                    },
+                    {
+                        "id": "91532",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91532\/quantified",
+                        "image": "http:\/\/files.libertyfund.org\/econtalk\/EconTalkCDcover1400.jpg",
+                        "channel_title": "EconTalk",
+                        "type": 1,
+                        "title": "Andy Matuschak on Books and Learning",
+                        "duration": "3987"
+                    },
+                    {
+                        "id": "92690",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92690\/quantified",
+                        "image": "http:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/43131a14-773c-11e9-8a10-ebe0c460d374\/image\/uploads_2F1565917901248-rpcfpwp29ef-497d8d3d140fd97e7247943ff8eb738e_2FGadget-Lab-Podcast-3000-1024x1024.jpg",
+                        "channel_title": "Gadget Lab: Weekly Tech News",
+                        "type": 1,
+                        "title": "How Google\u2019s Secrecy Lead to Company Turmoil",
+                        "duration": "2371"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
         }
     }
 }
