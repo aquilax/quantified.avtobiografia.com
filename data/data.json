@@ -29283,7 +29283,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 117934
+                "steps": 17934
             },
             "media": {
                 "books": [],
@@ -29397,7 +29397,7 @@
                         "channel_title": "The Food Chain",
                         "type": 1,
                         "title": "Food under siege",
-                        "duration": "1588"
+                        "duration": "1615"
                     },
                     "55": {
                         "id": "90973",
@@ -30253,6 +30253,221 @@
                         "duration": "0"
                     }
                 },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-08-30": {
+            "health": {
+                "weight": 81.9,
+                "height": 173,
+                "age": 14135
+            },
+            "nutrition": {
+                "calories": 1942.93,
+                "fat": 90.69,
+                "carbohydrates": 197.9,
+                "protein": 63.54
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "93092",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93092\/quantified",
+                        "image": "https:\/\/images.theabcdn.com\/i\/35287580.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 283: No Such Thing As A Lost Shadow",
+                        "duration": "2660"
+                    },
+                    {
+                        "id": "93310",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93310\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Ethiopia\u2019s 350m trees in a day",
+                        "duration": "538"
+                    },
+                    {
+                        "id": "93118",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93118\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Exam grades, Chernobyl and Ethiopian trees",
+                        "duration": "1480"
+                    },
+                    {
+                        "id": "93369",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93369\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "697: How African-Americans Advance at Work \u2014 And What Organizations Can Do To Help",
+                        "duration": "1449"
+                    },
+                    {
+                        "id": "92877",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92877\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "696: The Challenges (and Triumphs) of a Young Manager",
+                        "duration": "1338"
+                    },
+                    {
+                        "id": "91969",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91969\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "695: How to Thrive as a Working Parent",
+                        "duration": "1530"
+                    },
+                    {
+                        "id": "91622",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91622\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "694: How Robots and AI Are Changing Job Training",
+                        "duration": "1472"
+                    },
+                    {
+                        "id": "91249",
+                        "url": "http:\/\/cast.writtn.com\/episode\/91249\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "693: Finding (and Keeping) Your Company's Soul",
+                        "duration": "1515"
+                    },
+                    {
+                        "id": "90870",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90870\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "692: Improve Your Critical Thinking at Work",
+                        "duration": "1242"
+                    },
+                    {
+                        "id": "90481",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90481\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "691: Business Lessons from How Marvel Makes Movies",
+                        "duration": "1629"
+                    },
+                    {
+                        "id": "90119",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90119\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "690: The 3 Types of Leaders of Innovative Companies",
+                        "duration": "1550"
+                    },
+                    {
+                        "id": "89753",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89753\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "689: Stopping White-Collar Crime at Your Company",
+                        "duration": "1405"
+                    },
+                    {
+                        "id": "89204",
+                        "url": "http:\/\/cast.writtn.com\/episode\/89204\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "688: How to Fix Your Hiring Process",
+                        "duration": "2376"
+                    },
+                    {
+                        "id": "88804",
+                        "url": "http:\/\/cast.writtn.com\/episode\/88804\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "687: The Surprising Benefits of Sponsoring Others at Work",
+                        "duration": "1460"
+                    },
+                    {
+                        "id": "88406",
+                        "url": "http:\/\/cast.writtn.com\/episode\/88406\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "686: Why You Need Innovation Capital \u2014 And How to Get It",
+                        "duration": "1241"
+                    },
+                    {
+                        "id": "87763",
+                        "url": "http:\/\/cast.writtn.com\/episode\/87763\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/ideacast\/1400-hbr-ideacast-lg-3.jpg",
+                        "channel_title": "HBR IdeaCast",
+                        "type": 1,
+                        "title": "685: Advice for Entrepreneurs from a Leading Venture Capitalist",
+                        "duration": "1461"
+                    },
+                    {
+                        "id": "93367",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93367\/quantified",
+                        "image": "",
+                        "channel_title": "Gastropod",
+                        "type": 1,
+                        "title": "Running on Fumes: Strawberry\u2019s Dirty Secret",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "93036",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93036\/quantified",
+                        "image": "https:\/\/govori-internet.com\/wp-content\/uploads\/2017\/09\/gi_logo_1440_white_background.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "\u041a\u0430\u043a\u0432\u043e \u0435 \u043e\u0431\u043b\u0430\u043a\u044a\u0442  (feat. \u0414\u0430\u043d\u0438\u0435\u043b \u041a\u0430\u043d\u0447\u0435\u0432 \u043e\u0442 SiteGround)",
+                        "duration": "8222"
+                    },
+                    {
+                        "id": "93113",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93113\/quantified",
+                        "image": "https:\/\/x.govori-internet.com\/wp-content\/uploads\/2019\/02\/2000.png",
+                        "channel_title": "\u0415\u043a\u0441\u043f\u043b\u0435\u0439\u043d\u044a\u0440\u044a\u0442",
+                        "type": 1,
+                        "title": "Revolut \u0438 \u0434\u0440\u0443\u0433\u0438 \u0434\u0438\u0433\u0438\u0442\u0430\u043b\u043d\u0438 \u043f\u043e\u0440\u0442\u0444\u0435\u0439\u043b\u0438",
+                        "duration": "3984"
+                    },
+                    {
+                        "id": "93288",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93288\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/8503cc62-abd3-4a0a-945d-364f46f687db\/beaf9f38-3e27-4cf9-a3ae-9908d2b1bda9\/3000x3000\/1437963534artwork.jpg?aid=rss_feed",
+                        "channel_title": "Giant Robots Smashing Into Other Giant Robots",
+                        "type": 1,
+                        "title": "333: Do Fewer Things Better (Matt Massicotte)",
+                        "duration": "2302"
+                    },
+                    {
+                        "id": "92691",
+                        "url": "http:\/\/cast.writtn.com\/episode\/92691\/quantified",
+                        "image": "http:\/\/drob-chili.com\/wp-content\/uploads\/2019\/02\/dc.png",
+                        "channel_title": "\u0414\u0440\u043e\u0431 \u0438 \u0447\u0438\u043b\u0438",
+                        "type": 1,
+                        "title": "\u041c\u0435\u0441\u043e \u0438 \u041d\u0435\u043c\u0435\u0441\u043e \u2013 \u0431\u044a\u0434\u0435\u0449\u0435\u0442\u043e \u043d\u0430 \u041f\u043b\u0430\u043d\u0435\u0442\u0430\u0442\u0430 \u0438 \u0433\u0440\u0438\u043b\u0430 feat. Beyond Meat",
+                        "duration": "3750"
+                    }
+                ],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
