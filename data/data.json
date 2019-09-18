@@ -30769,7 +30769,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 14848
             },
             "media": {
                 "books": [],
@@ -30794,7 +30794,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 6835
             },
             "media": {
                 "books": [],
@@ -30819,12 +30819,230 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 15167
             },
             "media": {
                 "books": [],
                 "podcast": [],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-14": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14150
+            },
+            "nutrition": {
+                "calories": 2483.94,
+                "fat": 73.83,
+                "carbohydrates": 344.91,
+                "protein": 54.36
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 8092
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-15": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14151
+            },
+            "nutrition": {
+                "calories": 2025.6,
+                "fat": 46.16,
+                "carbohydrates": 345.9,
+                "protein": 28.7
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 26130
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-16": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14152
+            },
+            "nutrition": {
+                "calories": 1934.28,
+                "fat": 71.45,
+                "carbohydrates": 279.49,
+                "protein": 41.36
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 17755
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-17": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14153
+            },
+            "nutrition": {
+                "calories": 2442.85,
+                "fat": 87.99,
+                "carbohydrates": 338.42,
+                "protein": 83.08
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 15880
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "94392",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94392\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NI4-Y0-WzIo\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Standard Galactic Alphabet - Commander Keen - ADG Pro 9",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94417",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94417\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JMz_PYnpJPY\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Dyna Blaster \u203b reverse engineering on DOS \u203b Cracking VG Passwords S2e3",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94422",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94422\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PaErPyEnDvk\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "What\u2019s Hiding at the Most Solitary Place on Earth? The Deep Sea",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94439",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94439\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/2cxcP5lY7K4\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Is it easy to create your own Transformer? Everything you need to know about Transformers! || EB#42",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94478",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94478\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0D9nJIzNVTY\/hqdefault.jpg",
+                        "channel_title": "Marco Reps",
+                        "type": 2,
+                        "title": "MDP-XP: USB-C Precision Power Supply by Miniware ( not a joke )",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "93990",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93990\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7F64r4Z2eYU\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Chicken Hole Base EP. 5: Breaking Ground",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94441",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94441\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bz8qeIjENO8\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Band Pressure",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94219",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94219\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/d95dOH-7GHM\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Memory, explained | Narrated by Emma Stone",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94458",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94458\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-3-bVRYRnSM\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why this creepy melody is in so many movies",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94203",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94203\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/mvDj7DF1jsk\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Pastry Chef Attempts to Make Gourmet M&M's | Gourmet Makes | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94354",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94354\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/b9NsbOCUsUQ\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a pink Pound shop light.",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94404",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94404\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/U9tbFavb-pk\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Leftover FRENCH FRY SOUP - How to Make an Almost FREE Meal",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94510",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94510\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/1ppfOTXhyRg\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "\ud83c\udf3dInstant Pot CORN COB WINE - homemade corn wine? | FERMENTED",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
