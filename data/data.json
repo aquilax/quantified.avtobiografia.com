@@ -31062,7 +31062,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 6234
             },
             "media": {
                 "books": [],
@@ -31087,7 +31087,110 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 17818
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-20": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14156
+            },
+            "nutrition": {
+                "calories": 2207.38,
+                "fat": 77.38,
+                "carbohydrates": 305.84,
+                "protein": 42.67
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 11459
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [
+                    {
+                        "id": "94607",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94607\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ETXQUkp-VOg\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "The Fall of Xbox",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94558",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94558\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/EteEqlQgr9A\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Recreating Maangchi's Dakbokkeumtang (Spicy Braised Chicken) From Taste | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94283",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94283\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NdVffqX0Lf0\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "How to Make MOONCAKES With a Traditional Wooden Mold - Mid-Autumn Festival Recipe",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-21": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14157
+            },
+            "nutrition": {
+                "calories": 1471.56,
+                "fat": 47.52,
+                "carbohydrates": 191.65,
+                "protein": 66.53
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 16232
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-09-22": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14158
+            },
+            "nutrition": {
+                "calories": 3636.02,
+                "fat": 127.63,
+                "carbohydrates": 464.05,
+                "protein": 154.65
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 20226
             },
             "media": {
                 "books": [],
