@@ -31440,7 +31440,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 2632
             },
             "media": {
                 "books": [],
@@ -31465,7 +31465,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 27606
             },
             "media": {
                 "books": [],
@@ -31525,7 +31525,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11880
             },
             "media": {
                 "books": [],
@@ -31557,7 +31557,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 17983
             },
             "media": {
                 "books": [],
@@ -31764,7 +31764,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11552
             },
             "media": {
                 "books": [],
@@ -31799,7 +31799,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 3215
             },
             "media": {
                 "books": [],
@@ -31878,6 +31878,357 @@
                         "duration": "0"
                     }
                 ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-10-08": {
+            "health": {
+                "weight": 83.5,
+                "height": 173,
+                "age": 14174
+            },
+            "nutrition": {
+                "calories": 1888.49,
+                "fat": 131.54,
+                "carbohydrates": 77.1,
+                "protein": 87.98
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 4574
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "4": {
+                        "id": "94883",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94883\/quantified",
+                        "image": "http:\/\/relayfm.s3.amazonaws.com\/uploads\/broadcast\/image\/17\/cortex_artwork.png",
+                        "channel_title": "Cortex",
+                        "type": 1,
+                        "title": "Cortex 91: An Episode Out of Time 4: Revenge of the Time",
+                        "duration": "4709"
+                    },
+                    "5": {
+                        "id": "95461",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95461\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg-2.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Apple, Facebook, Amazon, Google \u2013 Who Won the Summer? Plus, WeWork\u2019s Fall from Grace",
+                        "duration": "2338"
+                    },
+                    "6": {
+                        "id": "94316",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94316\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Maternal deaths, taxi driver earnings and statistical pop music",
+                        "duration": "1448"
+                    },
+                    "7": {
+                        "id": "94036",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94036\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "WS More or Less: Deforestation in Brazil",
+                        "duration": "538"
+                    },
+                    "8": {
+                        "id": "93960",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93960\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Climate deaths, austerity and pet food",
+                        "duration": "1447"
+                    },
+                    "9": {
+                        "id": "95305",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95305\/quantified",
+                        "image": "http:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5d925356a3d3086c881fe0a9\/1569881326294\/1500w\/HI+slides.002.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #129: Sunday Spreadsheets",
+                        "duration": "6335"
+                    },
+                    "10": {
+                        "id": "95777",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95777\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Butterfly and paints",
+                        "duration": "762"
+                    },
+                    "11": {
+                        "id": "95291",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95291\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Peacock and computer screen",
+                        "duration": "961"
+                    },
+                    "12": {
+                        "id": "94475",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94475\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Mussel and foetal surgery",
+                        "duration": "834"
+                    },
+                    "13": {
+                        "id": "94888",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94888\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Ant and networks",
+                        "duration": "904"
+                    },
+                    "14": {
+                        "id": "94044",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94044\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p0730wbh.jpg",
+                        "channel_title": "30 Animals That Made Us Smarter",
+                        "type": 1,
+                        "title": "Butterfly and butterfly house",
+                        "duration": "797"
+                    },
+                    "15": {
+                        "id": "93991",
+                        "url": "http:\/\/cast.writtn.com\/episode\/93991\/quantified",
+                        "image": "https:\/\/developers.google.com\/web\/shows\/http203\/podcast\/images\/with-mariko.jpg",
+                        "channel_title": "HTTP 203",
+                        "type": 1,
+                        "title": "The block-drop-n-swap",
+                        "duration": "4545"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "95799",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95799\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/TjHUTdsEKdM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Civil War Ketchup Recipe Battle - Confederate vs. Union | HARD TIMES",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "95836",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95836\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x8fpeVICeGg\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Will We Survive Mars? - Glad You Asked S1 (E1)",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "95177",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95177\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/kOAaTMXiDCY\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "Inside a Samsung LED retrofit tube.  (Older style?)",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "95802",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95802\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cR-bepWcplc\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "LED \"neon\".  A new and interesting miniature variant.",
+                        "duration": "0"
+                    },
+                    "16": {
+                        "id": "94105",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94105\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XjbYloKJX7c\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "Boeing's China Problem",
+                        "duration": "0"
+                    },
+                    "17": {
+                        "id": "94953",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94953\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/erS2YMYcZO8\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "The Logistics of Filming Avengers",
+                        "duration": "0"
+                    },
+                    "18": {
+                        "id": "94600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94600\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ElM9KDnO2fI\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #157 - Holy Prayer Fireballs",
+                        "duration": "0"
+                    },
+                    "19": {
+                        "id": "94773",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94773\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/l4EtphcXlOM\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Level Editing - Descent 1 & 2 - ADG Mod 5",
+                        "duration": "0"
+                    },
+                    "20": {
+                        "id": "94994",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94994\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/Slt-hyOx25w\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #158 - Not My Actual Address",
+                        "duration": "0"
+                    },
+                    "21": {
+                        "id": "94259",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94259\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/sg-6Cjzzg8s\/hqdefault.jpg",
+                        "channel_title": "The 8-Bit Guy",
+                        "type": 2,
+                        "title": "Building my Dream Computer - Part 2",
+                        "duration": "0"
+                    },
+                    "22": {
+                        "id": "95147",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95147\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/saANxD0cqy0\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making my favorite liquid carcinogen",
+                        "duration": "0"
+                    },
+                    "23": {
+                        "id": "95181",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95181\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/3PwAQZNLy0I\/hqdefault.jpg",
+                        "channel_title": "Clickspring",
+                        "type": 2,
+                        "title": "The Chris Ramsay Playing Card Press",
+                        "duration": "0"
+                    },
+                    "24": {
+                        "id": "94810",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94810\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4L3T02RlIhg\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Iron From Blood Part 1: Proof of Concept",
+                        "duration": "0"
+                    },
+                    "25": {
+                        "id": "95165",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95165\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6mQiypwqNKU\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Pectin From Fruit",
+                        "duration": "0"
+                    },
+                    "26": {
+                        "id": "94961",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94961\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9STHqt_vsCc\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Goose Game",
+                        "duration": "0"
+                    },
+                    "27": {
+                        "id": "95146",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95146\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/waXb8QGdEYQ\/hqdefault.jpg",
+                        "channel_title": "videogamedunkey",
+                        "type": 2,
+                        "title": "Dunkey and Leah's Wedding",
+                        "duration": "0"
+                    },
+                    "28": {
+                        "id": "95200",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95200\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7C3h3VABYa8\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "I Played Untitled Goose Game And LOVED IT. LET'S DO BIRD CRIMES.",
+                        "duration": "0"
+                    },
+                    "29": {
+                        "id": "95235",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95235\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/baDZSADYbNM\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Merlin - The Engine that Won the War",
+                        "duration": "0"
+                    },
+                    "30": {
+                        "id": "95237",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95237\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/cqECNYmM23A\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "The Billion Ant Mega Colony and the Biggest War on Earth",
+                        "duration": "0"
+                    },
+                    "31": {
+                        "id": "95600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95600\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/Dh4PzVnTjCw\/hqdefault.jpg",
+                        "channel_title": "Evgeniy Vasilev",
+                        "type": 2,
+                        "title": "Box Office Premieres Intro",
+                        "duration": "0"
+                    },
+                    "32": {
+                        "id": "94847",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94847\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ewkj875qUmk\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Make your own \"Powerwall\" (Big LiFePO4 Battery Pack!)",
+                        "duration": "0"
+                    },
+                    "33": {
+                        "id": "95743",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95743\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9BeTMMI8wRc\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Can you 3D print a Transformer? (Experiment) || How to make a mains Transformer!",
+                        "duration": "0"
+                    },
+                    "34": {
+                        "id": "94692",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94692\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NtnuJjAQ9pM\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Pizza Hut Stuffed CHEEZ-IT PIZZA Taste Test",
+                        "duration": "0"
+                    },
+                    "35": {
+                        "id": "94811",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94811\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/ZGGQmtAigqY\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "MUSCADINE Taste Test & How to Make & Can Jelly | Fruity Fruits",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
