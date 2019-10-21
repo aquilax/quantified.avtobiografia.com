@@ -33813,7 +33813,58 @@
                         "duration": "0"
                     }
                 ],
-                "movies": [],
+                "movies": [
+                    {
+                        "id": "tt0054330",
+                        "title": "Space Men",
+                        "year": "1960",
+                        "url": "https:\/\/www.imdb.com\/title\/tt0054330\/"
+                    },
+                    {
+                        "id": "tt0059124",
+                        "title": "Dr. Goldfoot and the Bikini Machine",
+                        "year": "1965",
+                        "url": "https:\/\/www.imdb.com\/title\/tt0059124\/"
+                    },
+                    {
+                        "id": "tt6806448",
+                        "title": "Fast & Furious Presents: Hobbs & Shaw",
+                        "year": "2019",
+                        "url": "https:\/\/www.imdb.com\/title\/tt6806448\/"
+                    }
+                ],
+                "photos": []
+            }
+        },
+        "2019-10-20": {
+            "health": {
+                "weight": 0,
+                "height": 173,
+                "age": 14186
+            },
+            "nutrition": {
+                "calories": 3483.47,
+                "fat": 153.02,
+                "carbohydrates": 410.83,
+                "protein": 107.48
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [
+                    {
+                        "id": "tt0095705",
+                        "title": "The Naked Gun: From the Files of Police Squad!",
+                        "year": "1988",
+                        "url": "https:\/\/www.imdb.com\/title\/tt0095705\/"
+                    }
+                ],
                 "photos": []
             }
         }
