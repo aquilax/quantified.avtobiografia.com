@@ -1747,7 +1747,7 @@
                     "2": {
                         "id": "98087",
                         "url": "http:\/\/cast.writtn.com\/episode\/98087\/quantified",
-                        "image": "https:\/\/cdn.simplecast.com\/images\/5bb88685-2295-4eb6-a473-37953c81715d\/6c6adf42-a372-4259-b7fd-aac695fe72f0\/3000x3000\/1433513863artwork.jpg?aid=rss_feed",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/5bb88685-2295-4eb6-a473-37953c81715d\/6c6adf42-a372-4259-b7fd-aac695fe72f0\/3000x3000\/1433513863artwork.jpg?&aid=rss_feed",
                         "channel_title": "The Bike Shed",
                         "type": 1,
                         "title": "221: An Informed Opinion",
@@ -1774,7 +1774,7 @@
                     "5": {
                         "id": "98121",
                         "url": "http:\/\/cast.writtn.com\/episode\/98121\/quantified",
-                        "image": "https:\/\/cdn.simplecast.com\/images\/7dfa8d26-0674-443c-944c-bfd6457bf0cf\/c88e6ed8-e28d-4ed2-9659-3be359913d89\/3000x3000\/Ep25_3000x3000.jpg?aid=rss_feed",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/7dfa8d26-0674-443c-944c-bfd6457bf0cf\/c88e6ed8-e28d-4ed2-9659-3be359913d89\/3000x3000\/Ep25_3000x3000.jpg?&aid=rss_feed",
                         "channel_title": "Hackable?",
                         "type": 1,
                         "title": "Phreaks and Geeks",
@@ -2282,10 +2282,10 @@
                 "age": 14208
             },
             "nutrition": {
-                "calories": 2181.5,
-                "fat": 145.48,
-                "carbohydrates": 136.24,
-                "protein": 77.09
+                "calories": 1979.1,
+                "fat": 136.68,
+                "carbohydrates": 120.28,
+                "protein": 61.14
             },
             "exercise": {
                 "pushups": 0,
@@ -2312,15 +2312,6 @@
                         "type": 1,
                         "title": "The ways women age - Beauty politics",
                         "duration": "1644"
-                    },
-                    {
-                        "id": "70974",
-                        "url": "http:\/\/cast.writtn.com\/episode\/70974\/quantified",
-                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
-                        "channel_title": "Thinking Allowed",
-                        "type": 1,
-                        "title": "A special programme on Pierre Bourdieu",
-                        "duration": "1687"
                     },
                     {
                         "id": "88226",
@@ -2738,6 +2729,204 @@
                     }
                 ],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-11-12": {
+            "health": {
+                "weight": 83,
+                "height": 173,
+                "age": 14209
+            },
+            "nutrition": {
+                "calories": 1827.09,
+                "fat": 95.95,
+                "carbohydrates": 185.99,
+                "protein": 48.37
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "98686",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98686\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1541528878353-7mnsfxl37mv-d1aa2168c9f7cfa61b5075db72d80539_2FTravelGenius.png",
+                        "channel_title": "Travel Genius",
+                        "type": 1,
+                        "title": "Why TV Host Samantha Brown Recommends Eating Off Ironing Boards",
+                        "duration": "1966"
+                    },
+                    "1": {
+                        "id": "98687",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98687\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1541528878353-7mnsfxl37mv-d1aa2168c9f7cfa61b5075db72d80539_2FTravelGenius.png",
+                        "channel_title": "Travel Genius",
+                        "type": 1,
+                        "title": "Travel Genius, a New Show From Bloomberg",
+                        "duration": "155"
+                    },
+                    "14": {
+                        "id": "98601",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98601\/quantified",
+                        "image": "https:\/\/content.production.cdn.art19.com\/images\/bb\/ae\/09\/4a\/bbae094a-2155-4d58-982d-de9dfcfe85ca\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "The world's most profitable company",
+                        "duration": "1283"
+                    },
+                    "15": {
+                        "id": "95916",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95916\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Estates",
+                        "duration": "1696"
+                    },
+                    "16": {
+                        "id": "95421",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95421\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "Land and territory",
+                        "duration": "1683"
+                    },
+                    "17": {
+                        "id": "90588",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90588\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p02r4y29.jpg",
+                        "channel_title": "Thinking Allowed",
+                        "type": 1,
+                        "title": "War in the air",
+                        "duration": "1692"
+                    },
+                    "18": {
+                        "id": "97916",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97916\/quantified",
+                        "image": "https:\/\/x.govori-internet.com\/wp-content\/uploads\/2019\/02\/2000.png",
+                        "channel_title": "\u0415\u043a\u0441\u043f\u043b\u0435\u0439\u043d\u044a\u0440\u044a\u0442",
+                        "type": 1,
+                        "title": "\u0413\u043b\u0430\u0441\u043e\u0432\u0438\u0442\u0435 \u0430\u0441\u0438\u0441\u0442\u0435\u043d\u0442\u0438 \u2013 \u0432\u0438\u0436 \u043a\u043e\u0439 \u0441\u043b\u0443\u0448\u0430, \u043a\u043e\u0433\u0430\u0442\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
+                        "duration": "3951"
+                    }
+                },
+                "youtube": {
+                    "2": {
+                        "id": "98309",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98309\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/-vfP46C7_9Y\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "Xbox D-pad mod for emulators (and Q*Bert)!",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "98466",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98466\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/9_wFw1O3BR8\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "The Monorail: $999 All-In-One Windows PC from 1996!",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "90600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/90600\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OKjXpxTGEBk\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "How Bisqwit replies to your comments (2019 edition)",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "98535",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98535\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NSyWQFotVKk\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Portal 2 custom map \"Jump Cube\"",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "98559",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98559\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/udFxKZRyQt4\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Neutron Stars \u2013 The Most Extreme Things that are not Black Holes",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "98570",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98570\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zvkfWfbQ4KA\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "How to solve EMC problems! || The mystery of the buzzing speaker",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "98585",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98585\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5J9QcYDs5Jg\/hqdefault.jpg",
+                        "channel_title": "Joe Scott",
+                        "type": 2,
+                        "title": "How To Hack Your Memory | Answers With Joe",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "98557",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98557\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6LG8YqUmF5U\/hqdefault.jpg",
+                        "channel_title": "bigclivedotcom",
+                        "type": 2,
+                        "title": "British plugs with built-in surge arrestors.  (With schematic.)",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "98293",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98293\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/C5oI7pZpOK8\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Charcoal in Cone Pit vs Drum Tort",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "98294",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98294\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Ai_XB0rUs5Q\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Will it Charcoal? Ep. 6: Sunflowers",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "98603",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98603\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/hEuLxT2g-qI\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Transit of Mercury \"a hole in the sun\"",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "98334",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98334\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/5bhc7Qns2CU\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Eating 6-MONTH OLD Lime Water Preserved Eggs - fried, whipped, baked - How do they taste?",
+                        "duration": "0"
+                    }
+                },
                 "movies": [],
                 "photos": []
             }
