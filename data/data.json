@@ -2756,7 +2756,7 @@
                     "0": {
                         "id": "98686",
                         "url": "http:\/\/cast.writtn.com\/episode\/98686\/quantified",
-                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1541528878353-7mnsfxl37mv-d1aa2168c9f7cfa61b5075db72d80539_2FTravelGenius.png",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1573672321599-l8bbckp1uy-a70573079ea2f78de9e3a98846158a61_2FTravelGenius-3x.png",
                         "channel_title": "Travel Genius",
                         "type": 1,
                         "title": "Why TV Host Samantha Brown Recommends Eating Off Ironing Boards",
@@ -2765,7 +2765,7 @@
                     "1": {
                         "id": "98687",
                         "url": "http:\/\/cast.writtn.com\/episode\/98687\/quantified",
-                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1541528878353-7mnsfxl37mv-d1aa2168c9f7cfa61b5075db72d80539_2FTravelGenius.png",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1573672321599-l8bbckp1uy-a70573079ea2f78de9e3a98846158a61_2FTravelGenius-3x.png",
                         "channel_title": "Travel Genius",
                         "type": 1,
                         "title": "Travel Genius, a New Show From Bloomberg",
@@ -2984,7 +2984,7 @@
                         "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
                         "channel_title": "50 Things That Made the Modern Economy",
                         "type": 1,
-                        "title": "Swift",
+                        "title": "SWIFT",
                         "duration": "605"
                     },
                     "8": {
@@ -3017,7 +3017,7 @@
                     "11": {
                         "id": "98685",
                         "url": "http:\/\/cast.writtn.com\/episode\/98685\/quantified",
-                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1541528878353-7mnsfxl37mv-d1aa2168c9f7cfa61b5075db72d80539_2FTravelGenius.png",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/b436287a-e1f1-11e8-9aec-63c0c5939a6d\/image\/uploads_2F1573672321599-l8bbckp1uy-a70573079ea2f78de9e3a98846158a61_2FTravelGenius-3x.png",
                         "channel_title": "Travel Genius",
                         "type": 1,
                         "title": "Philippe Cousteau\u2019s Rolex",
@@ -3071,6 +3071,31 @@
                         "duration": "0"
                     }
                 },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-11-14": {
+            "health": {
+                "weight": 82.2,
+                "height": 173,
+                "age": 14211
+            },
+            "nutrition": {
+                "calories": 1889.51,
+                "fat": 102.31,
+                "carbohydrates": 174.19,
+                "protein": 62.32
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
