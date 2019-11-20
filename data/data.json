@@ -3589,6 +3589,249 @@
                 "movies": [],
                 "photos": []
             }
+        },
+        "2019-11-19": {
+            "health": {
+                "weight": 83.1,
+                "height": 173,
+                "age": 14216
+            },
+            "nutrition": {
+                "calories": 1680.54,
+                "fat": 103.76,
+                "carbohydrates": 117.6,
+                "protein": 70.2
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "18": {
+                        "id": "99084",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99084\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05wx6hn.jpg",
+                        "channel_title": "Analysis",
+                        "type": 1,
+                        "title": "NATO at 70",
+                        "duration": "1717"
+                    },
+                    "19": {
+                        "id": "98920",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98920\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Bolivia: Can statistics help detect electoral fraud?",
+                        "duration": "690"
+                    },
+                    "20": {
+                        "id": "98526",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98526\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Reducing your risk of death",
+                        "duration": "537"
+                    },
+                    "21": {
+                        "id": "97583",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97583\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Edith Abbott and crime statistics",
+                        "duration": "538"
+                    },
+                    "22": {
+                        "id": "97892",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97892\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Unbelievable: The forgotten rape data",
+                        "duration": "539"
+                    },
+                    "23": {
+                        "id": "99081",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99081\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "Fundraising appeal",
+                        "duration": "593"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "94261",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94261\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Ex74x_gqTU0\/hqdefault.jpg",
+                        "channel_title": "CGP Grey",
+                        "type": 2,
+                        "title": "The Race to Win Staten Island",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "94833",
+                        "url": "http:\/\/cast.writtn.com\/episode\/94833\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/p3zrqotjw7A\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Shinkansen vs TGV - Is One Better Than the Other?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "97499",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97499\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xieYuOJSS40\/hqdefault.jpg",
+                        "channel_title": "Tech Ingredients",
+                        "type": 2,
+                        "title": "Whisky... The Finished Product! - Part 2\/2",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "97498",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97498\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/7w4rg3UcsgI\/hqdefault.jpg",
+                        "channel_title": "Tech Ingredients",
+                        "type": 2,
+                        "title": "Solar Powered Air Conditioner!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "96736",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96736\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/y7M4RZbpTP0\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "End of 2019 Update - ADG Filler #79",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98088",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98088\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/U1a73gdNs0M\/hqdefault.jpg",
+                        "channel_title": "Wendover Productions",
+                        "type": 2,
+                        "title": "The US Government Program That Pays For Your Flights",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98906",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98906\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/aJKV7fTJRIc\/hqdefault.jpg",
+                        "channel_title": "LGR",
+                        "type": 2,
+                        "title": "LGR - Recording CRT Computer Monitors",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98936",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98936\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LiQiJtqpBFY\/hqdefault.jpg",
+                        "channel_title": "pocket83\u00b2",
+                        "type": 2,
+                        "title": "'True Temper' axe (hatchet prepare\/repair)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98938",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98938\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/v-mWK_kcZMs\/hqdefault.jpg",
+                        "channel_title": "NileRed",
+                        "type": 2,
+                        "title": "Making toilet paper moonshine",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98880",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98880\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/Z0xwL7O4fiw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "7-11 Japan & Lawson KONBINI Taste Test - Japanese Convenience Store FOOD",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99004",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99004\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/e0kqVrkSJfQ\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "$230 Sandwich - \ud83c\uddef\ud83c\uddf5Wagyumafia Kobe Chateaubriand Cutlet Sando - The Most Expensive Sandwich?",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99015",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99015\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/dqwpQarrDwk\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "1,000km Cable to the Stars - The Skyhook",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99041",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99041\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/OwAZqJ4wpJg\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Here is why USB Type-C is AWESOME and how you can use Power Delivery for your electronics!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99053",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99053\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/CVdn-2KE2bs\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Everything is designed for this man, even drugs",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98912",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98912\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/8aP8sbQuQDg\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Molly and Adam Make Pumpkin Chiffon Pie | From the Test Kitchen | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "98922",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98922\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/BW1x6F63F80\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Pro Chefs Make Their Favorite Egg Recipes | Test Kitchen Talks | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99066",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99066\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/Q9y3VRWYtGE\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "12 Types of Steak, Examined and Cooked | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "99057",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99057\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/g0nA8CfxBqA\/hqdefault.jpg",
+                        "channel_title": "Joe Scott",
+                        "type": 2,
+                        "title": "Are Solid State Batteries About To Change The World? | Answers With Joe",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
         }
     }
 }
