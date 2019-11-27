@@ -4176,7 +4176,7 @@
                     "18": {
                         "id": "99585",
                         "url": "http:\/\/cast.writtn.com\/episode\/99585\/quantified",
-                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/c9a479ec-0b20-11ea-b9e8-0e8b4fa1fdf9\/images\/main.jpg?1574295988662",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/c9a479ec-0b20-11ea-b9e8-0e8b4fa1fdf9\/images\/main.jpg?1574795638038",
                         "channel_title": "80,000 Hours Podcast with Rob Wiblin",
                         "type": 1,
                         "title": "#65 - Ambassador Bonnie Jenkins on 8 years pursuing WMD arms control, & diversity in diplomacy",
@@ -4482,6 +4482,104 @@
                         "duration": "0"
                     }
                 ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-11-26": {
+            "health": {
+                "weight": 83.1,
+                "height": 173,
+                "age": 14223
+            },
+            "nutrition": {
+                "calories": 2290.75,
+                "fat": 143.02,
+                "carbohydrates": 185.49,
+                "protein": 50.87
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "96187",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96187\/quantified",
+                        "image": "https:\/\/f.prxu.org\/143\/images\/bba41d30-5f70-45a9-9bde-392c4dc9e400\/Everything_is_Alive_300pxs.jpg",
+                        "channel_title": "Everything is Alive",
+                        "type": 1,
+                        "title": "Shannon, Bath Towel",
+                        "duration": "1291"
+                    },
+                    {
+                        "id": "96188",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96188\/quantified",
+                        "image": "https:\/\/f.prxu.org\/143\/images\/bba41d30-5f70-45a9-9bde-392c4dc9e400\/Everything_is_Alive_300pxs.jpg",
+                        "channel_title": "Everything is Alive",
+                        "type": 1,
+                        "title": "Bonus Episode: Deleted Scenes ",
+                        "duration": "636"
+                    },
+                    {
+                        "id": "96189",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96189\/quantified",
+                        "image": "https:\/\/f.prxu.org\/143\/images\/bba41d30-5f70-45a9-9bde-392c4dc9e400\/Everything_is_Alive_300pxs.jpg",
+                        "channel_title": "Everything is Alive",
+                        "type": 1,
+                        "title": "Sean, Subway Seat",
+                        "duration": "1234"
+                    },
+                    {
+                        "id": "96190",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96190\/quantified",
+                        "image": "https:\/\/f.prxu.org\/143\/images\/bba41d30-5f70-45a9-9bde-392c4dc9e400\/Everything_is_Alive_300pxs.jpg",
+                        "channel_title": "Everything is Alive",
+                        "type": 1,
+                        "title": "Ayo, Balloon",
+                        "duration": "1230"
+                    },
+                    {
+                        "id": "96191",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96191\/quantified",
+                        "image": "https:\/\/f.prxu.org\/143\/images\/bba41d30-5f70-45a9-9bde-392c4dc9e400\/Everything_is_Alive_300pxs.jpg",
+                        "channel_title": "Everything is Alive",
+                        "type": 1,
+                        "title": "Annie, Jack o' Lantern",
+                        "duration": "1213"
+                    },
+                    {
+                        "id": "99911",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99911\/quantified",
+                        "image": "https:\/\/uploads.guim.co.uk\/2018\/01\/15\/chips-with-everything-3000_copy.jpg",
+                        "channel_title": "Chips with everything podcast",
+                        "type": 1,
+                        "title": " Becoming a meme: Chips with Everything podcast ",
+                        "duration": "1477"
+                    },
+                    {
+                        "id": "99712",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99712\/quantified",
+                        "image": "https:\/\/govori-internet.com\/wp-content\/uploads\/2017\/09\/gi_logo_1440_white_background.png",
+                        "channel_title": "\u0413\u043e\u0432\u043e\u0440\u0438 \u045d\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                        "type": 1,
+                        "title": "\u0418\u0437\u043a\u0443\u0441\u0442\u0432\u043e \u0437\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u043c\u044f\u043d\u0430 (feat. \u042f\u043d\u0430 \u0411\u044e\u0440\u0435\u0440-\u0422\u0430\u0432\u0430\u043d\u0438\u0435)",
+                        "duration": "7286"
+                    },
+                    {
+                        "id": "99894",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99894\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "Stock option",
+                        "duration": "605"
+                    }
+                ],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
