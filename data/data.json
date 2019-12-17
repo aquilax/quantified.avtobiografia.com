@@ -6186,7 +6186,7 @@
                     {
                         "id": "100761",
                         "url": "http:\/\/cast.writtn.com\/episode\/100761\/quantified",
-                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/d49a9506-176f-11ea-ae99-0e4687eadef1\/images\/main.jpg?1575890805116",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/d49a9506-176f-11ea-ae99-0e4687eadef1\/images\/main.jpg?1576530562870",
                         "channel_title": "80,000 Hours Podcast with Rob Wiblin",
                         "type": 1,
                         "title": "#66 - Peter Singer on being provocative, effective altruism, & how his moral views have changed",
@@ -6268,10 +6268,10 @@
                 "age": 14240
             },
             "nutrition": {
-                "calories": 2351.26,
-                "fat": 185.45,
-                "carbohydrates": 124.4,
-                "protein": 122.71
+                "calories": 2386.09,
+                "fat": 185.7,
+                "carbohydrates": 131.69,
+                "protein": 125.46
             },
             "exercise": {
                 "pushups": 0,
@@ -6613,6 +6613,240 @@
                 "books": [],
                 "podcast": [],
                 "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-12-16": {
+            "health": {
+                "weight": 83.8,
+                "height": 173,
+                "age": 14243
+            },
+            "nutrition": {
+                "calories": 2398.82,
+                "fat": 156.99,
+                "carbohydrates": 133.9,
+                "protein": 94.9
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "10": {
+                        "id": "101385",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101385\/quantified",
+                        "image": "https:\/\/den.fm\/wp-content\/uploads\/2019\/10\/den_logo_white_bg_centered.png",
+                        "channel_title": "\u0414\u0435\u043d",
+                        "type": 1,
+                        "title": "\u0411\u0440\u0435\u043a\u0437\u0438\u0442 \u0438\u0434\u0432\u0430, \u0435\u0434\u043d\u043e\u043f\u043e\u043b\u043e\u0432\u0438\u0442\u0435 \u0431\u0440\u0430\u043a\u043e\u0432\u0435 \u2013 \u043d\u0435",
+                        "duration": "352"
+                    },
+                    "11": {
+                        "id": "101593",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101593\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/19306ebc-36ce-11e9-83cc-4f129e1dff43\/image\/Gadget-Lab-Podcast-3000.jpg",
+                        "channel_title": "Gadget Lab: Weekly Tech News",
+                        "type": 1,
+                        "title": "The Case for Cassava",
+                        "duration": "2113"
+                    },
+                    "12": {
+                        "id": "100388",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100388\/quantified",
+                        "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
+                        "channel_title": "omega tau - science & engineering [English only]",
+                        "type": 1,
+                        "title": "330 \u2013 Parabolic Flights at AirZeroG",
+                        "duration": "5618"
+                    },
+                    "13": {
+                        "id": "98708",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98708\/quantified",
+                        "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
+                        "channel_title": "omega tau - science & engineering [English only]",
+                        "type": 1,
+                        "title": "328 \u2013 Flying the P-3 Orion (and some other aircraft)",
+                        "duration": "8118"
+                    },
+                    "14": {
+                        "id": "95132",
+                        "url": "http:\/\/cast.writtn.com\/episode\/95132\/quantified",
+                        "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
+                        "channel_title": "omega tau - science & engineering [English only]",
+                        "type": 1,
+                        "title": "324 \u2013 Air Traffic Control at Heathrow and RIAT",
+                        "duration": "9247"
+                    },
+                    "15": {
+                        "id": "96746",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96746\/quantified",
+                        "image": "http:\/\/omegataupodcast.net\/rssimages\/omegatau_enus_2048x2048.png",
+                        "channel_title": "omega tau - science & engineering [English only]",
+                        "type": 1,
+                        "title": "326 \u2013 Weather Forecasting at the ECMWF",
+                        "duration": "11125"
+                    },
+                    "16": {
+                        "id": "101411",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101411\/quantified",
+                        "image": "https:\/\/images.theabcdn.com\/i\/35809838.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 299: No Such Thing As A Conscientious Brunette",
+                        "duration": "3535"
+                    },
+                    "17": {
+                        "id": "100836",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100836\/quantified",
+                        "image": "https:\/\/images.theabcdn.com\/i\/35781865.jpg",
+                        "channel_title": "No Such Thing As A Fish",
+                        "type": 1,
+                        "title": "Episode 298: No Such Thing As An Emotional Support Amoeba",
+                        "duration": "3225"
+                    },
+                    "18": {
+                        "id": "101005",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101005\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Election Special (2\/2)",
+                        "duration": "1667"
+                    },
+                    "19": {
+                        "id": "101387",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101387\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Koalas",
+                        "duration": "539"
+                    },
+                    "20": {
+                        "id": "100816",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100816\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Tree Planting Pledges",
+                        "duration": "538"
+                    },
+                    "21": {
+                        "id": "100387",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100387\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05cllwl.jpg",
+                        "channel_title": "CrowdScience",
+                        "type": 1,
+                        "title": "Could humans hibernate during interstellar travel?",
+                        "duration": "2154"
+                    },
+                    "22": {
+                        "id": "100759",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100759\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05cllwl.jpg",
+                        "channel_title": "CrowdScience",
+                        "type": 1,
+                        "title": "Would humans exist if dinosaurs were still alive?",
+                        "duration": "2129"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "101343",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101343\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/3MeiC-aV7B4\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "I Fixed Depression With This Simple Trick",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101390",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101390\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zyEv16Fq7f8\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Pastry Chef Attempts to Make Gourmet Milky Way Bars | Gourmet Makes | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101612",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101612\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/rG6nzrksbPQ\/hqdefault.jpg",
+                        "channel_title": "Primitive Technology",
+                        "type": 2,
+                        "title": "Primitive Technology: Pot Made of Wood Ash - New Clay Alternative",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101615",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101615\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/PkGlcX2aKSs\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "I built a PC with parts from Ali Express yet still I live | Ashens",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "100891",
+                        "url": "http:\/\/cast.writtn.com\/episode\/100891\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/xidc8dBswQc\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "How to Make HOT SAUCE & Instant FIRE Cider \ud83d\udd25folk tonic",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101358",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101358\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ET90HMIRXn0\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "How to Make CHRISTMAS DINNER IN A CAN - DIY Christmas Tinner",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101627",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101627\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4145D0IIYRI\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "UK's Cheapest Meal? 1800s TOAST SANDWICH | Hard Times",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101649",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101649\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/NMo3nZHVrZ4\/hqdefault.jpg",
+                        "channel_title": "Kurzgesagt \u2013 In a Nutshell",
+                        "type": 2,
+                        "title": "Overpopulation & Africa",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101671",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101671\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/ObgmVNV1Kfg\/hqdefault.jpg",
+                        "channel_title": "GreatScott!",
+                        "type": 2,
+                        "title": "Make your own Retro Nixie Clock with an RTC!",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "101312",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101312\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/gP6tOvTcpVE\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "Why German spies blew up this US island",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
