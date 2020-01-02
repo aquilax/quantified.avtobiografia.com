@@ -7582,7 +7582,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11138
             },
             "media": {
                 "books": [],
@@ -7607,7 +7607,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 11914
             },
             "media": {
                 "books": [],
@@ -7632,7 +7632,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 7289
             },
             "media": {
                 "books": [],
@@ -7649,15 +7649,15 @@
                 "age": 14256
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 3241.6,
+                "fat": 172.45,
+                "carbohydrates": 298.66,
+                "protein": 103.59
             },
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 13190
             },
             "media": {
                 "books": [],
@@ -7941,6 +7941,398 @@
                         "channel_title": "NileRed",
                         "type": 2,
                         "title": "Making the world's most expensive carbonated water!",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-12-30": {
+            "health": {
+                "weight": 84.8,
+                "height": 173,
+                "age": 14257
+            },
+            "nutrition": {
+                "calories": 3134.06,
+                "fat": 197.36,
+                "carbohydrates": 260.05,
+                "protein": 67.31
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2019-12-31": {
+            "health": {
+                "weight": 84.5,
+                "height": 173,
+                "age": 14258
+            },
+            "nutrition": {
+                "calories": 2627.03,
+                "fat": 139.67,
+                "carbohydrates": 257.11,
+                "protein": 103.76
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2020-01-01": {
+            "health": {
+                "weight": 85.1,
+                "height": 173,
+                "age": 14259
+            },
+            "nutrition": {
+                "calories": 902.3,
+                "fat": 64.08,
+                "carbohydrates": 48.58,
+                "protein": 14.83
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "15": {
+                        "id": "102132",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102132\/quantified",
+                        "image": "http:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/64d2bc26-22c8-11ea-88ac-cb5b32d6e108\/image\/uploads_2F1576818727518-s9s3bc60tnm-e03ba94a44b989121c76c6184acb1303_2Fnoirnet.jpg",
+                        "channel_title": "Darknet Diaries",
+                        "type": 1,
+                        "title": "55: NoirNet",
+                        "duration": "1057"
+                    },
+                    "16": {
+                        "id": "101054",
+                        "url": "http:\/\/cast.writtn.com\/episode\/101054\/quantified",
+                        "image": "http:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/f36e0528-04d5-11ea-8b1d-4b8069e8b769\/image\/uploads_2F1575321974489-m6wclimbiuj-96229e25dde6717785ca282ad8780601_2Fshadowbrokers.jpg",
+                        "channel_title": "Darknet Diaries",
+                        "type": 1,
+                        "title": "53: Shadow Brokers",
+                        "duration": "3124"
+                    },
+                    "17": {
+                        "id": "102519",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102519\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05cllwl.jpg",
+                        "channel_title": "CrowdScience",
+                        "type": 1,
+                        "title": "How does the Sun affect my body and mind?",
+                        "duration": "2019"
+                    },
+                    "18": {
+                        "id": "102113",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102113\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p05cllwl.jpg",
+                        "channel_title": "CrowdScience",
+                        "type": 1,
+                        "title": "Did Crowdscience change your life?",
+                        "duration": "1640"
+                    },
+                    "19": {
+                        "id": "102790",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102790\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "CCTV",
+                        "duration": "591"
+                    },
+                    "20": {
+                        "id": "102256",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102256\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p074bpzh.jpg",
+                        "channel_title": "50 Things That Made the Modern Economy",
+                        "type": 1,
+                        "title": "Retirement",
+                        "duration": "632"
+                    },
+                    "21": {
+                        "id": "102600",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102600\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Presidential candidates and dementia",
+                        "duration": "539"
+                    },
+                    "22": {
+                        "id": "102926",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102926\/quantified",
+                        "image": "https:\/\/den.fm\/wp-content\/uploads\/2019\/10\/den_logo_white_bg_centered.png",
+                        "channel_title": "\u0414\u0435\u043d",
+                        "type": 1,
+                        "title": "\u0411\u0435\u0437 \u0432\u043e\u0434\u0430 \u0432 \u041f\u0435\u0440\u043d\u0438\u043a, \u043f\u043e\u0436\u0430\u0440\u0438 \u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u043d\u0430\u0439-\u0431\u043e\u0433\u0430\u0442\u0438\u0442\u0435 \u0445\u043e\u0440\u0430 \u0437\u0430 2019 \u0433\u043e\u0434\u0438\u043d\u0430",
+                        "duration": "258"
+                    },
+                    "23": {
+                        "id": "102909",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102909\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/23d52a2a-1c5f-11ea-9a0e-b70170f2a827\/image\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "Trump of the Year",
+                        "duration": "1286"
+                    },
+                    "24": {
+                        "id": "103038",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103038\/quantified",
+                        "image": "https:\/\/cdn.simplecast.com\/images\/5bb88685-2295-4eb6-a473-37953c81715d\/6c6adf42-a372-4259-b7fd-aac695fe72f0\/3000x3000\/1433513863artwork.jpg?&aid=rss_feed",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "226: Bespoke Nonsense",
+                        "duration": "2458"
+                    },
+                    "25": {
+                        "id": "102793",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102793\/quantified",
+                        "image": "https:\/\/ssl-static.libsyn.com\/p\/assets\/5\/a\/9\/9\/5a9912cac834097c\/naval_podcast_itunes_-_b2.jpg",
+                        "channel_title": "Naval",
+                        "type": 1,
+                        "title": "How to Get Rich: Every Episode + Extras",
+                        "duration": "12936"
+                    },
+                    "34": {
+                        "id": "102249",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102249\/quantified",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/f99dffac-25d2-11ea-b0fd-0e48acdb4ef1\/images\/main.jpg?1577809986704",
+                        "channel_title": "80,000 Hours Podcast with Rob Wiblin",
+                        "type": 1,
+                        "title": "#46 Classic episode - Hilary Greaves on moral cluelessness & tackling crucial questions in academia",
+                        "duration": "10152"
+                    }
+                },
+                "youtube": {
+                    "0": {
+                        "id": "103055",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103055\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/FZVOSZqth70\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "The Most Important Space Things From The Last Decade (IMHO)",
+                        "duration": "0"
+                    },
+                    "1": {
+                        "id": "103056",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103056\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/y1vZ6JT1s8Q\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Betelgeuse Gets Darker, But It's Probably Not Going To Explode (Yet)",
+                        "duration": "0"
+                    },
+                    "2": {
+                        "id": "103057",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103057\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/06ADNOuqtYE\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "360\/Timelapse Night Sky",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "103058",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103058\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DFbzvbkoEYs\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "How Europe Designed and Evolved The Ariane Rocket Over Last 4 Decades",
+                        "duration": "0"
+                    },
+                    "4": {
+                        "id": "103059",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103059\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/UaOU-4YMuMI\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Boeing's Starliner Recovers And Makes Bullseye Landing",
+                        "duration": "0"
+                    },
+                    "5": {
+                        "id": "103060",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103060\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/4QKr4-tNtPc\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Boeing's New Spacecraft Gets Lost On Way To Space Station",
+                        "duration": "0"
+                    },
+                    "6": {
+                        "id": "103061",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103061\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/zoE4m8RqOWs\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "The Story Of How The CIA Stole & Returned A Soviet Spacecraft Before Being Noticed",
+                        "duration": "0"
+                    },
+                    "7": {
+                        "id": "103062",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103062\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/t1Q5W81ScMA\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Scientist Finally Find A Place To Touch Down On Asteroid Bennu",
+                        "duration": "0"
+                    },
+                    "8": {
+                        "id": "103063",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103063\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/bwZHzKnEEs4\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Using Relativistic Raytracing &X-Rays To See Detail on Surface Of Neutron Star",
+                        "duration": "0"
+                    },
+                    "9": {
+                        "id": "103064",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103064\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/KWExql1xCsM\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Why Did A Rocket With A Secret Payload *Implode* on the Pad?",
+                        "duration": "0"
+                    },
+                    "10": {
+                        "id": "103065",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103065\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DTVqVESM0js\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "The First Results Of Parker Solar Probe's Visits To The Sun",
+                        "duration": "0"
+                    },
+                    "11": {
+                        "id": "103066",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103066\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/YW-Abytzjl0\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Crash Site Of India's Lunar Lander Discovered By Amateur Searching Public Data",
+                        "duration": "0"
+                    },
+                    "12": {
+                        "id": "103067",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103067\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/6DsgZjYSwcA\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "How Astronauts On The Space Station Watch TV & Movies",
+                        "duration": "0"
+                    },
+                    "13": {
+                        "id": "103068",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103068\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/_KO-MdpyK34\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Phoenix Point - A New, More Hardcore Successor to XCOM",
+                        "duration": "0"
+                    },
+                    "14": {
+                        "id": "103069",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103069\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/JTpREZUzErM\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "Why The Delta III Rocket Exploded On Its First Flight - Why Rockets Fail",
+                        "duration": "0"
+                    },
+                    "26": {
+                        "id": "102900",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102900\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XnK5mG5u8Hg\/hqdefault.jpg",
+                        "channel_title": "Vox",
+                        "type": 2,
+                        "title": "2019, in 6 minutes",
+                        "duration": "0"
+                    },
+                    "27": {
+                        "id": "102905",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102905\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/0PmcmXiH57s\/hqdefault.jpg",
+                        "channel_title": "Joe Scott",
+                        "type": 2,
+                        "title": "Why Everything Might Be Okay | Answers With Joe",
+                        "duration": "0"
+                    },
+                    "28": {
+                        "id": "102930",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102930\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/lF2sKFnuALw\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Pro Chefs Make Their Favorite Sandwiches | Test Kitchen Talks | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    "29": {
+                        "id": "102993",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102993\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/eiyAp1wr3Vs\/hqdefault.jpg",
+                        "channel_title": "Curious Droid",
+                        "type": 2,
+                        "title": "Could We Live Without GPS?",
+                        "duration": "0"
+                    },
+                    "30": {
+                        "id": "102997",
+                        "url": "http:\/\/cast.writtn.com\/episode\/102997\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/oqoWqn4h3tw\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "How to Make Pruno - Prison Hooch",
+                        "duration": "0"
+                    },
+                    "31": {
+                        "id": "103002",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103002\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/O0gmYvU3usk\/hqdefault.jpg",
+                        "channel_title": "Chris Stuckmann",
+                        "type": 2,
+                        "title": "The Best Movies of 2019",
+                        "duration": "0"
+                    },
+                    "32": {
+                        "id": "103008",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103008\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/2W7vhit5KFo\/hqdefault.jpg",
+                        "channel_title": "ashens",
+                        "type": 2,
+                        "title": "Possibly the Worst Official Action Figure 3 | Ashens",
+                        "duration": "0"
+                    },
+                    "33": {
+                        "id": "103041",
+                        "url": "http:\/\/cast.writtn.com\/episode\/103041\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ma1rD2OP85c\/hqdefault.jpg",
+                        "channel_title": "Nerdwriter1",
+                        "type": 2,
+                        "title": "Parasite's Perfect Montage",
                         "duration": "0"
                     }
                 },
