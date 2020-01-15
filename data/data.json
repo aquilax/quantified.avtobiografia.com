@@ -8994,7 +8994,7 @@
                     {
                         "id": "103562",
                         "url": "http:\/\/cast.writtn.com\/episode\/103562\/quantified",
-                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/523f7a66-31de-11ea-b2b9-0e12d87d2229\/images\/main.jpg?1578466150617",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/523f7a66-31de-11ea-b2b9-0e12d87d2229\/images\/main.jpg?1579049592595",
                         "channel_title": "80,000 Hours Podcast with Rob Wiblin",
                         "type": 1,
                         "title": "#33 Classic episode - Anders Sandberg on cryonics, solar flares, and the annual odds of nuclear war",
@@ -9003,7 +9003,7 @@
                     {
                         "id": "103037",
                         "url": "http:\/\/cast.writtn.com\/episode\/103037\/quantified",
-                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/659038ee-2b2b-11ea-bab9-0e25fd385935\/images\/main.jpg?1578466150721",
+                        "image": "https:\/\/feeds.backtracks.fm\/feeds\/series\/d8f05142-2a38-11e9-bd0b-0ebe27f14992\/episodes\/659038ee-2b2b-11ea-bab9-0e25fd385935\/images\/main.jpg?1579049592695",
                         "channel_title": "80,000 Hours Podcast with Rob Wiblin",
                         "type": 1,
                         "title": "#17 Classic episode - Prof Will MacAskill on moral uncertainty, utilitarianism & how to avoid being a moral monster",
@@ -9110,10 +9110,10 @@
                 "age": 14271
             },
             "nutrition": {
-                "calories": 2473.99,
-                "fat": 171.83,
-                "carbohydrates": 126.64,
-                "protein": 124.12
+                "calories": 2450.77,
+                "fat": 172.04,
+                "carbohydrates": 121.31,
+                "protein": 123.39
             },
             "exercise": {
                 "pushups": 0,
@@ -9333,6 +9333,41 @@
                         "duration": "0"
                     }
                 ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2020-01-14": {
+            "health": {
+                "weight": 84.9,
+                "height": 173,
+                "age": 14272
+            },
+            "nutrition": {
+                "calories": 1998.91,
+                "fat": 120.29,
+                "carbohydrates": 154.5,
+                "protein": 96.36
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "45829",
+                        "url": "http:\/\/cast.writtn.com\/episode\/45829\/quantified",
+                        "image": "http:\/\/www.lostdecadegames.com\/media\/images\/lostcast\/600x600.jpg",
+                        "channel_title": "Lostcast",
+                        "type": 1,
+                        "title": "Lostcast 242: Humble Speculation",
+                        "duration": "3449"
+                    }
+                ],
+                "youtube": [],
                 "movies": [],
                 "photos": []
             }
