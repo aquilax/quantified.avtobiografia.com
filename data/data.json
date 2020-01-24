@@ -10237,6 +10237,141 @@
                 "movies": [],
                 "photos": []
             }
+        },
+        "2020-01-23": {
+            "health": {
+                "weight": 84.7,
+                "height": 173,
+                "age": 14281
+            },
+            "nutrition": {
+                "calories": 1886.87,
+                "fat": 112.04,
+                "carbohydrates": 134.28,
+                "protein": 76.81
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "0": {
+                        "id": "99017",
+                        "url": "http:\/\/cast.writtn.com\/episode\/99017\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000638917552-lfgmvz-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "AI Aliens (Narration Only)",
+                        "duration": "1399"
+                    },
+                    "1": {
+                        "id": "98837",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98837\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000637510891-rrqhev-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Spaceship Design (Narration Only)",
+                        "duration": "1929"
+                    },
+                    "4": {
+                        "id": "105776",
+                        "url": "http:\/\/cast.writtn.com\/episode\/105776\/quantified",
+                        "image": "https:\/\/hbr.org\/resources\/images\/podcasts\/1400-after-hours-lg-2.jpg",
+                        "channel_title": "After Hours",
+                        "type": 1,
+                        "title": "Alcohol Trends and Super Bowl Political Advertising",
+                        "duration": "1962"
+                    },
+                    "5": {
+                        "id": "98285",
+                        "url": "http:\/\/cast.writtn.com\/episode\/98285\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000632824657-tgtnge-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Cybersecurity (Narration Only)",
+                        "duration": "2233"
+                    },
+                    "6": {
+                        "id": "97861",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97861\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000627732637-tkzyam-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Cloning & Duplication: Me, Myself, and I (Narration Only)",
+                        "duration": "1255"
+                    },
+                    "7": {
+                        "id": "97811",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97811\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000627469684-lbby6d-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "The Fermi Paradox: Rare Technology (Narration Only)",
+                        "duration": "2115"
+                    },
+                    "8": {
+                        "id": "97544",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97544\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000623578417-ktedze-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "SFIA Monthly Livestream 13 - October 27, 2019",
+                        "duration": "3576"
+                    },
+                    "9": {
+                        "id": "97317",
+                        "url": "http:\/\/cast.writtn.com\/episode\/97317\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000620637436-uml6ba-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "Mind-Machine Interfaces (Narration Only)",
+                        "duration": "1773"
+                    },
+                    "10": {
+                        "id": "96768",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96768\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000615921814-0uvwug-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "The Butterfly Effect (Narration Only)",
+                        "duration": "950"
+                    },
+                    "11": {
+                        "id": "96618",
+                        "url": "http:\/\/cast.writtn.com\/episode\/96618\/quantified",
+                        "image": "http:\/\/i1.sndcdn.com\/artworks-000614472646-y6lsid-original.jpg",
+                        "channel_title": "Science & Futurism with Isaac Arthur",
+                        "type": 1,
+                        "title": "High Tech Search And Rescue (Narration Only)",
+                        "duration": "1518"
+                    }
+                },
+                "youtube": {
+                    "2": {
+                        "id": "105687",
+                        "url": "http:\/\/cast.writtn.com\/episode\/105687\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/FNBQACp-n2g\/hqdefault.jpg",
+                        "channel_title": "Pixelmusement",
+                        "type": 2,
+                        "title": "Shovelware Diggers #173 - Gobble Gobble Gobble",
+                        "duration": "0"
+                    },
+                    "3": {
+                        "id": "104274",
+                        "url": "http:\/\/cast.writtn.com\/episode\/104274\/quantified",
+                        "image": "https:\/\/i4.ytimg.com\/vi\/3ECHOyaaDg0\/hqdefault.jpg",
+                        "channel_title": "Joe Scott",
+                        "type": 2,
+                        "title": "The Man Who Disappeared For 27 Years | Random Thursday",
+                        "duration": "0"
+                    }
+                },
+                "movies": [],
+                "photos": []
+            }
         }
     }
 }
