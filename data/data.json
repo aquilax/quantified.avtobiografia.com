@@ -9687,7 +9687,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 5493
             },
             "media": {
                 "books": [],
@@ -10011,7 +10011,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 4398
             },
             "media": {
                 "books": [],
@@ -10110,7 +10110,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 6516
             },
             "media": {
                 "books": [],
@@ -10253,7 +10253,7 @@
             "exercise": {
                 "pushups": 0,
                 "crunches": 0,
-                "steps": 0
+                "steps": 13989
             },
             "media": {
                 "books": [],
@@ -10409,6 +10409,31 @@
                 "fat": 121.1,
                 "carbohydrates": 242.66,
                 "protein": 38.07
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2020-01-26": {
+            "health": {
+                "weight": 84.4,
+                "height": 173,
+                "age": 14284
+            },
+            "nutrition": {
+                "calories": 2661.81,
+                "fat": 157.33,
+                "carbohydrates": 216.22,
+                "protein": 55.49
             },
             "exercise": {
                 "pushups": 0,
