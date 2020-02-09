@@ -11117,7 +11117,7 @@
                         "image": "https:\/\/i1.ytimg.com\/vi\/8fjCKMIE1Pg\/hqdefault.jpg",
                         "channel_title": "Game Maker's Toolkit",
                         "type": 2,
-                        "title": "Making Shovel Knight's Signature Moves | Game Maker's Toolkit",
+                        "title": "The Core Mechanics of Shovel Knight, ft. Yacht Club Games | Game Maker's Toolkit",
                         "duration": "0"
                     },
                     "3": {
@@ -11248,10 +11248,10 @@
                 "age": 14296
             },
             "nutrition": {
-                "calories": 0,
-                "fat": 0,
-                "carbohydrates": 0,
-                "protein": 0
+                "calories": 2496.85,
+                "fat": 139.94,
+                "carbohydrates": 215.53,
+                "protein": 65.97
             },
             "exercise": {
                 "pushups": 0,
@@ -11261,7 +11261,98 @@
             "media": {
                 "books": [],
                 "podcast": [],
-                "youtube": [],
+                "youtube": [
+                    {
+                        "id": "106675",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106675\/quantified",
+                        "image": "https:\/\/i3.ytimg.com\/vi\/VjhUEVlLAms\/hqdefault.jpg",
+                        "channel_title": "Bon App\u00e9tit",
+                        "type": 2,
+                        "title": "Hawa Makes Somali Pancakes (Lahoh) | From the Test Kitchen | Bon App\u00e9tit",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "106694",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106694\/quantified",
+                        "image": "https:\/\/i2.ytimg.com\/vi\/ioVkL2wy_s4\/hqdefault.jpg",
+                        "channel_title": "emmymadeinjapan",
+                        "type": 2,
+                        "title": "Can You Cook With CANDLES? - \ud83e\uddc0Swiss Raclette Maker \ud83c\udf73- fry an egg with a candle?",
+                        "duration": "0"
+                    }
+                ],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2020-02-08": {
+            "health": {
+                "weight": 83.6,
+                "height": 173,
+                "age": 14297
+            },
+            "nutrition": {
+                "calories": 682.01,
+                "fat": 41.9,
+                "carbohydrates": 58.58,
+                "protein": 10.53
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": {
+                    "4": {
+                        "id": "106409",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106409\/quantified",
+                        "image": "https:\/\/assets.fireside.fm\/file\/fireside-images\/podcasts\/images\/1\/167c01a1-0eb9-4640-b488-c2f6d6866650\/cover.jpg?v=2",
+                        "channel_title": "The Bike Shed",
+                        "type": 1,
+                        "title": "117: S.A.L.T. (Justin Searls)",
+                        "duration": "2764"
+                    }
+                },
+                "youtube": [
+                    {
+                        "id": "106745",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106745\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/XBOQSRZSFgs\/hqdefault.jpg",
+                        "channel_title": "Scott Manley",
+                        "type": 2,
+                        "title": "A New Satellite Is Preparing To Repair An Old Satellite",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "106580",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106580\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/DgiQcJfTYKU\/hqdefault.jpg",
+                        "channel_title": "Bisqwit",
+                        "type": 2,
+                        "title": "Dual-Boot Windows-Linux Tutorial (& NVME & LVM & disk migration)",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "105672",
+                        "url": "http:\/\/cast.writtn.com\/episode\/105672\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/x0SZpSu9exs\/hqdefault.jpg",
+                        "channel_title": "PushingUpRoses",
+                        "type": 2,
+                        "title": "King's QUESTROSPECTIVE - How Roberta Williams Designed A Game Changer",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "106387",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106387\/quantified",
+                        "image": "https:\/\/i1.ytimg.com\/vi\/LTXI3zGkGtI\/hqdefault.jpg",
+                        "channel_title": "Cody'sLab",
+                        "type": 2,
+                        "title": "Cody\u2019s Copper Jacket ( 2 year update)",
+                        "duration": "0"
+                    }
+                ],
                 "movies": [],
                 "photos": []
             }
