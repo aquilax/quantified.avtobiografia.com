@@ -11717,10 +11717,10 @@
                 "age": 14302
             },
             "nutrition": {
-                "calories": 1165.81,
-                "fat": 106.06,
-                "carbohydrates": 6.8,
-                "protein": 30.39
+                "calories": 1544.01,
+                "fat": 108.5,
+                "carbohydrates": 76.34,
+                "protein": 40.76
             },
             "exercise": {
                 "pushups": 0,
@@ -11732,6 +11732,101 @@
                 "podcast": [],
                 "youtube": [],
                 "movies": [],
+                "photos": []
+            }
+        },
+        "2020-02-14": {
+            "health": {
+                "weight": 83.2,
+                "height": 173,
+                "age": 14303
+            },
+            "nutrition": {
+                "calories": 1573.05,
+                "fat": 107.58,
+                "carbohydrates": 78.09,
+                "protein": 48.44
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [
+                    {
+                        "id": "tt0279996",
+                        "title": "Once Upon a Girl....",
+                        "year": "1976",
+                        "url": "https:\/\/www.imdb.com\/title\/tt0279996\/"
+                    }
+                ],
+                "photos": []
+            }
+        },
+        "2020-02-15": {
+            "health": {
+                "weight": 82.5,
+                "height": 173,
+                "age": 14304
+            },
+            "nutrition": {
+                "calories": 1210.36,
+                "fat": 69.27,
+                "carbohydrates": 93.96,
+                "protein": 36.96
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
+        },
+        "2020-02-16": {
+            "health": {
+                "weight": 82.4,
+                "height": 173,
+                "age": 14305
+            },
+            "nutrition": {
+                "calories": 1625.62,
+                "fat": 128.58,
+                "carbohydrates": 65.87,
+                "protein": 35.5
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [],
+                "youtube": [],
+                "movies": [
+                    {
+                        "id": "tt5033998",
+                        "title": "Charlie's Angels",
+                        "year": "2019",
+                        "url": "https:\/\/www.imdb.com\/title\/tt5033998\/"
+                    },
+                    {
+                        "id": "tt7975244",
+                        "title": "Jumanji: The Next Level",
+                        "year": "2019",
+                        "url": "https:\/\/www.imdb.com\/title\/tt7975244\/"
+                    }
+                ],
                 "photos": []
             }
         }
