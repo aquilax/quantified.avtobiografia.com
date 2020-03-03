@@ -13190,6 +13190,194 @@
                 "movies": [],
                 "photos": []
             }
+        },
+        "2020-03-02": {
+            "health": {
+                "weight": 81.6,
+                "height": 173,
+                "age": 14320
+            },
+            "nutrition": {
+                "calories": 1589.88,
+                "fat": 127.75,
+                "carbohydrates": 94.5,
+                "protein": 55.03
+            },
+            "exercise": {
+                "pushups": 0,
+                "crunches": 0,
+                "steps": 0
+            },
+            "media": {
+                "books": [],
+                "podcast": [
+                    {
+                        "id": "106840",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106840\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Hot Dog Eating Contest and Chemotherapy\n",
+                        "duration": "1509"
+                    },
+                    {
+                        "id": "106841",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106841\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Air Conditioning and Sycamore Trees\n",
+                        "duration": "1420"
+                    },
+                    {
+                        "id": "106842",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106842\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Gray Aliens and Rock Paper Scissors\n",
+                        "duration": "1336"
+                    },
+                    {
+                        "id": "106843",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106843\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Scratch \u2018n\u2019 Sniff Stickers and the Indianapolis 500\n",
+                        "duration": "1361"
+                    },
+                    {
+                        "id": "106844",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106844\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Prom and the Stanford Marshmallow Experiment\n",
+                        "duration": "1151"
+                    },
+                    {
+                        "id": "106845",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106845\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "The Hall of Presidents and New Partner\n",
+                        "duration": "0"
+                    },
+                    {
+                        "id": "106846",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106846\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Velociraptors and Harvey\n",
+                        "duration": "1226"
+                    },
+                    {
+                        "id": "106847",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106847\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Indianapolis and Love at First Sight\n",
+                        "duration": "1325"
+                    },
+                    {
+                        "id": "106848",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106848\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Teddy Bears and Penalty Shootouts\n",
+                        "duration": "1487"
+                    },
+                    {
+                        "id": "106849",
+                        "url": "http:\/\/cast.writtn.com\/episode\/106849\/quantified",
+                        "image": "https:\/\/media.wnyc.org\/i\/raw\/2018\/10\/Anthropocene_WNYC_Complexly_1400.png",
+                        "channel_title": "The Anthropocene Reviewed",
+                        "type": 1,
+                        "title": "Tetris and the Seed Potatoes of Leningrad\n",
+                        "duration": "1366"
+                    },
+                    {
+                        "id": "108715",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108715\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "More or Less: Superforecasting, wood burning stoves and the real story of Hidden Figures",
+                        "duration": "1554"
+                    },
+                    {
+                        "id": "108772",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108772\/quantified",
+                        "image": "http:\/\/ichef.bbci.co.uk\/images\/ic\/3000x3000\/p058ggtp.jpg",
+                        "channel_title": "More or Less: Behind the Stats",
+                        "type": 1,
+                        "title": "Netflix vs the environment",
+                        "duration": "538"
+                    },
+                    {
+                        "id": "108675",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108675\/quantified",
+                        "image": "https:\/\/exponent.fm\/wp-content\/uploads\/powerpress\/Exponent-3-wp.png",
+                        "channel_title": "Exponent",
+                        "type": 1,
+                        "title": "Episode 182 \u2014 Scale Scale Scale",
+                        "duration": "3907"
+                    },
+                    {
+                        "id": "108729",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108729\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/23d52a2a-1c5f-11ea-9a0e-b70170f2a827\/image\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "Make America Doubt Again",
+                        "duration": "1655"
+                    },
+                    {
+                        "id": "108656",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108656\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/23d52a2a-1c5f-11ea-9a0e-b70170f2a827\/image\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "The last stronghold in Syria",
+                        "duration": "1337"
+                    },
+                    {
+                        "id": "108296",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108296\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/23d52a2a-1c5f-11ea-9a0e-b70170f2a827\/image\/8a3f7e169a75297006cc47f9e8f8f30374035eb75be667f42c10436cecc8bdfcce07e921b2f9892a0a08b72a3eb63c8f876c8f4130c7bb46ad9f43650f030dea.jpeg",
+                        "channel_title": "Today, Explained",
+                        "type": 1,
+                        "title": "Pandemic?",
+                        "duration": "1781"
+                    },
+                    {
+                        "id": "108682",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108682\/quantified",
+                        "image": "https:\/\/megaphone-prod.s3.amazonaws.com\/podcasts\/19306ebc-36ce-11e9-83cc-4f129e1dff43\/image\/Gadget-Lab-Podcast-3000.jpg",
+                        "channel_title": "Gadget Lab: Weekly Tech News",
+                        "type": 1,
+                        "title": "There\u2019s No Such Thing as a Free Lunch",
+                        "duration": "2158"
+                    },
+                    {
+                        "id": "108680",
+                        "url": "http:\/\/cast.writtn.com\/episode\/108680\/quantified",
+                        "image": "https:\/\/static1.squarespace.com\/static\/52d66949e4b0a8cec3bcdd46\/52d67282e4b0cca8969714fa\/5e58de8a37459e0d069efda0\/1582884806450\/1500w\/HI+slides.002.png",
+                        "channel_title": "Hello Internet",
+                        "type": 1,
+                        "title": "H.I. #136: Dog Bingo",
+                        "duration": "4914"
+                    }
+                ],
+                "youtube": [],
+                "movies": [],
+                "photos": []
+            }
         }
     }
 }
