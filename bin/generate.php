@@ -21,6 +21,11 @@ class DataGenerator {
     const TYPE_PODCAST = 1;
     const TYPE_YOUTUBE = 2;
 
+    private $tools = [
+        'hranoprovod' => '/home/aquilax/go/bin/hranoprovod-cli',
+        'merki' => '/home/aquilax/go/bin/merki',
+    ];
+
     public function __construct($dataDirectory, $destinationDirectory) {
         $this->dataDirectory = $dataDirectory;
         $this->destinationDirectory = realpath($destinationDirectory);
@@ -132,24 +137,24 @@ class DataGenerator {
     }
 
     private function getAge($dt) {
-        $command = "/home/aquilax/gvm/pkgsets/go1.11.1/global/bin/merki -f {$this->dataDirectory}health.log filter born | awk '{print $1}'";
+        $command = "{$this->tools['merki']} -f {$this->dataDirectory}health.log filter born | awk '{print $1}'";
         $date = new DateTime($this->exec($command));
         $diif = $date->diff($dt);
         return $diif->days;
     }
 
     private function getWeight($dt) {
-        $command = "/home/aquilax/gvm/pkgsets/go1.11.1/global/bin/merki -f {$this->dataDirectory}health.log filter -d -a weight | grep {$dt->format('Y-m-d')} | awk '{print $3}'";
+        $command = "{$this->tools['merki']} -f {$this->dataDirectory}health.log filter -d -a weight | grep {$dt->format('Y-m-d')} | awk '{print $3}'";
         return floatval($this->exec($command));
     }
 
     private function getHeight($dt) {
-        $command = "/home/aquilax/gvm/pkgsets/go1.11.1/global/bin/merki -f {$this->dataDirectory}health.log filter -d -a height | tail -n 1 | awk '{print $3}'";
+        $command = "{$this->tools['merki']} -f {$this->dataDirectory}health.log filter -d -a height | tail -n 1 | awk '{print $3}'";
         return floatval($this->exec($command));
     }
 
     private function getDailyFromHranoprovod($dt, $measure) {
-        $command = "/home/aquilax/gvm/pkgsets/go1.11.1/global/bin/hranoprovod-cli -d {$this->dataDirectory}food.yaml -l {$this->dataDirectory}log.yaml reg --no-color -b {$dt->format('Y/m/d')} -e {$dt->format('Y/m/d')} -s {$measure} --csv | awk -F \";\" '{print $3}'";
+        $command = "{$this->tools['hranoprovod']} -d {$this->dataDirectory}food.yaml -l {$this->dataDirectory}log.yaml reg --no-color -b {$dt->format('Y/m/d')} -e {$dt->format('Y/m/d')} -s {$measure} --csv | awk -F \";\" '{print $3}'";
         return floatval($this->exec($command));
     }
 
@@ -163,7 +168,7 @@ class DataGenerator {
     }
 
     private function getExcerciseTotal($dt, $excercise) {
-        $command = "/home/aquilax/gvm/pkgsets/go1.11.1/global/bin/merki -f {$this->dataDirectory}health.log filter -d -s {$excercise} | grep {$dt->format('Y-m-d')} | awk '{print $3}'";
+        $command = "{$this->tools['merki']} -f {$this->dataDirectory}health.log filter -d -s {$excercise} | grep {$dt->format('Y-m-d')} | awk '{print $3}'";
         return intval($this->exec($command));
     }
 
